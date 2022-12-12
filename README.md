@@ -2,20 +2,22 @@
 
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
-## MINHA REDE E PARCERIAS:
+## MINHA REDE (SOU DONO):
 [![GitHub Repo stars](https://img.shields.io/badge/MEU%20PERFIL-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
 [![GitHub Repo stars](https://img.shields.io/badge/ENTRE%20EM%20CONTATO-TELEGRAM-03A9F4?logo=telegram)](https://t.me/VILHALVA20_BOT) <br>
 
 [![GitHub Repo stars](https://img.shields.io/badge/GRUPO%20CODERS-TELEGRAM-03A9F4?logo=telegram)](https://t.me/CODIGOGP)
 [![GitHub Repo stars](https://img.shields.io/badge/CANAL%20CODERS-TELEGRAM-03A9F4?logo=telegram)](https://t.me/CODIGOCN) <br>
 
+[![GitHub Repo stars](https://img.shields.io/badge/ENTRE%20NO%20MEU-SITE-df1010?logo=google)](https://vilhalva.github.io/STYLER/STYLER.html) <br>
+
+## PARCERIAS (NÃO SOU DONO NEM ADM):
+
 [![GitHub Repo stars](https://img.shields.io/badge/GRUPO%20GNOSES-TELEGRAM-03A9F4?logo=telegram)](https://t.me/GRUPOCN)
 [![GitHub Repo stars](https://img.shields.io/badge/CANAL%20GNOSES-TELEGRAM-03A9F4?logo=telegram)](https://t.me/CANALCN) <br>
 
 [![GitHub Repo stars](https://img.shields.io/badge/CANAL%20EXEGESE-TELEGRAM-03A9F4?logo=telegram)](https://t.me/EXEGESE48)
 [![GitHub Repo stars](https://img.shields.io/badge/CANAL%20PREGAÇÃO-TELEGRAM-03A9F4?logo=telegram)](https://t.me/PREGACAO48) <br>
-
-[![GitHub Repo stars](https://img.shields.io/badge/ENTRE%20NO%20MEU-SITE-df1010?logo=google)](https://vilhalva.github.io/STYLER/STYLER.html) <br>
 
 # COMO PROGRAMADOR:
 * 😎Gosto de criar muitos projetos em diferentes segmentos. O que na verdade curto é desafios. Trabalho em:
