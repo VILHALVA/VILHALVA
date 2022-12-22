@@ -9,7 +9,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/GRUPO%20CODERS-TELEGRAM-03A9F4?logo=telegram)](https://t.me/CODIGOGP)
 [![GitHub Repo stars](https://img.shields.io/badge/CANAL%20CODERS-TELEGRAM-03A9F4?logo=telegram)](https://t.me/CODIGOCN) <br>
 
-[![GitHub Repo stars](https://img.shields.io/badge/ENTRE%20NO%20MEU-SITE-df1010?logo=google)](https://vilhalva.github.io/STYLER/STYLER.html) <br>
+[![GitHub Repo stars](https://img.shields.io/badge/ENTRAR%20NO-SITE-df1010?logo=google)](https://vilhalva.github.io/STYLER/STYLER.html) <br>
 
 ## PARCERIAS (NÃO SOU DONO NEM ADM):
 
