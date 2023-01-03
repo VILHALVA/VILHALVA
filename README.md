@@ -19,7 +19,6 @@
 ## PARCERIAS (NÃO SOU DONO NEM ADM):
 
 [![GitHub Repo stars](https://img.shields.io/badge/GRUPO%20GNOSES-TELEGRAM-03A9F4?logo=telegram)](https://t.me/GRUPOCN)
-[![GitHub Repo stars](https://img.shields.io/badge/CANAL%20GNOSES-TELEGRAM-03A9F4?logo=telegram)](https://t.me/CANALCN) <br>
 
 [![GitHub Repo stars](https://img.shields.io/badge/CANAL%20EXEGESE-TELEGRAM-03A9F4?logo=telegram)](https://t.me/EXEGESE48)
 [![GitHub Repo stars](https://img.shields.io/badge/CANAL%20PREGAÇÃO-TELEGRAM-03A9F4?logo=telegram)](https://t.me/PREGACAO48) <br>
