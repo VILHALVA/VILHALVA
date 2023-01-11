@@ -2,7 +2,7 @@
  
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=0711FF&vCenter=true&width=600&height=70&lines=👋OLÁ!+;😎EU+SOU+O+VILHALVA!;💻UM+BOM+PROGRAMADOR!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=0711FF&vCenter=true&width=600&height=70&lines=👋OLÁ+USUÁRIO!;😎EU+SOU+O+VILHALVA!;💻UM+BOM+PROGRAMADOR!)](https://git.io/typing-svg)
 </div>
 
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
@@ -18,9 +18,9 @@
 
 ## PARCERIAS (NÃO SOU DONO NEM ADM):
 
-[![GitHub Repo stars](https://img.shields.io/badge/GRUPO%20GNOSES-TELEGRAM-03A9F4?logo=telegram)](https://t.me/GRUPOCN)
+[![GitHub Repo stars](https://img.shields.io/badge/GRUPO%20GNOSES-TELEGRAM-03A9F4?logo=telegram)](https://t.me/GRUPOCN) <br>
 
-[![GitHub Repo stars](https://img.shields.io/badge/CANAL%20EXEGESE-TELEGRAM-03A9F4?logo=telegram)](https://t.me/EXEGESE48)
+[![GitHub Repo stars](https://img.shields.io/badge/CANAL%20EXEGESE-TELEGRAM-03A9F4?logo=telegram)](https://t.me/EXEGESE48) <br>
 [![GitHub Repo stars](https://img.shields.io/badge/CANAL%20PREGAÇÃO-TELEGRAM-03A9F4?logo=telegram)](https://t.me/PREGACAO48) <br>
 
 # COMO PROGRAMADOR:
