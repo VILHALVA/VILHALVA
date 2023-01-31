@@ -15,7 +15,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/CODERS-CANAL-03A9F4?logo=telegram)](https://t.me/CODIGOCN) <br>
 
 [![GitHub Repo stars](https://img.shields.io/badge/ENTRAR%20NO-SITE-df1010?logo=google)](https://vilhalva.github.io/STYLER/STYLER.html)
-[![GitHub Repo stars](https://img.shields.io/badge/SUPERCHATS-03A9F4?logo=telegram)](https://t.me/DIVULGACAO2023) <br>
+[![GitHub Repo stars](https://img.shields.io/badge/SUPERCHATS-LINKS-03A9F4?logo=telegram)](https://t.me/DIVULGACAO2023) <br>
 
 # COMO PROGRAMADOR:
 * 😎Gosto de criar muitos projetos em diferentes segmentos. O que na verdade curto é desafios. Trabalho em:
