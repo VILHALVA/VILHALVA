@@ -8,7 +8,8 @@
 # DESCRIÇÃO:
 
 * ✅ Com ajuda no NetBeans: É possivel criar otimas aplicações em JAVA.
-* ✅ O que se programa é o evento quando o usuário clica no botão.
+* ✅ Na pratica se cria janelas com botões e labes.
+* ✅ O que se programa é o evento (Quando o usuário clica no botão).
 * ✅ Usamos também VSC para dá uma caprichada no codigo.
 * ✅ Para abrir a janela é preciso que o Debug da IDE esteja no modo Java File.
 
