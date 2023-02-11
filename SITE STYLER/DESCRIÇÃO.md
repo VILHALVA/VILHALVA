@@ -1,0 +1,16 @@
+# SITE STYLER
+👨‍⚖️MEU PRIMEIRO SITE.
+
+[![GitHub Repo stars](https://img.shields.io/badge/ACESSAR%20O%20REPOSITORIO-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA/STYLER)
+
+[![GitHub Repo stars](https://img.shields.io/badge/ENTRAR%20NO-SITE-03A9F4?logo=google)](https://vilhalva.github.io/STYLER/STYLER.html)
+
+# DESCRIÇÃO:
+
+* ✅ O site tem esse nome porque abusei do estilo do CSS.
+* ✅ Ele foi feito usando HTML, CSS e JAVASCRIPT.
+* ✅ Ele está hospedado no GitHub Pages.
+* ✅ Uso ele para treinar diversas aplicações web.
+* ✅ Pretendo criar outros sites em breve, com hospedagem paga e serviço por assinatura.
+
+
