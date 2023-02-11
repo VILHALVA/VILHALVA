@@ -13,6 +13,6 @@
 * ✅ Cada disciplina chama a função de validação do arquivo "AAAA".
 * ✅ Tivemos o cuidado de separar o cerebro do App com o do Corpo.
 * ✅ Dentro do cerebro temos a validação das Questões e a contabilização do número de erros e acertos: Afirmando se o aluno foi aprovado ou reprovado.
-* ✅ Dentro de "QUESTÕES" é possivel criar mais de 10 bilhoes de arquivos ".py"; Sendo que cada um são disciplinas do Ensino médio, que chamam a função AAAA (Cerebro).
+* ✅ Dentro de "QUESTÕES" é possivel criar mais de 10 bilhões de arquivos ".py"; Sendo que cada um são disciplinas do Ensino médio, que chamam a função AAAA (Cerebro).
 
 
