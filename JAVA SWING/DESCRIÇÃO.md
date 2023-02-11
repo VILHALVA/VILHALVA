@@ -1,7 +1,7 @@
 # JAVA SWING
 👨‍⚖️CRIANDO APLICAÇÃO SWING.
 
-[![GitHub Repo stars](https://img.shields.io/badge/-REPOSITORIO%20INDISPONIVEL!-red)](https://github.com/VILHALVA)
+[![GitHub Repo stars](https://img.shields.io/badge/-REPOSITORIO%20PRIVADO!-red)](https://github.com/VILHALVA)
 
 <img src="https://beginnersbook.com/wp-content/uploads/2015/07/Swing_login_screen_Example.png" align="center" width="280"> <br>
 
