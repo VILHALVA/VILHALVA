@@ -5,6 +5,8 @@
 
 [![GitHub Repo stars](https://img.shields.io/badge/FAZER%20O%20CURSO-CANAL-03A9F4?logo=telegram)](https://t.me/BOTCRIADO)
 
+<img src="https://umbo.net.br/wp-content/uploads/2020/01/original-bc9005f2201cfb175f85da1edd075222.jpg" align="center" width="280"> <br>
+
 # DESCRIÇÃO:
 
 ## ✅ Já criei muitos robôs na vida. Como:
