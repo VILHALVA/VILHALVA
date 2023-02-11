@@ -3,6 +3,8 @@
 
 [![GitHub Repo stars](https://img.shields.io/badge/-REPOSITORIO%20INDISPONIVEL!-red)](https://github.com/VILHALVA)
 
+<img src="https://juventudes.es.gov.br/Media/Juventude/_Profiles/c4d8c6e6/7c87a7e/enem-2018-logo1.jpg?v=637756921752440820" align="center" width="280"> <br>
+
 # DESCRIÇÃO:
 
 * ✅ Essa aplicação está em uma pasta com o nome "QUESTOES".
