@@ -5,6 +5,8 @@
 
 [![GitHub Repo stars](https://img.shields.io/badge/ENTRAR%20NO-SITE-03A9F4?logo=google)](https://vilhalva.github.io/STYLER/STYLER.html)
 
+<img src="https://apexensino.com.br/wp-content/uploads/2017/11/html-css-javascript.jpg" align="center" width="280"> <br>
+
 # DESCRIÇÃO:
 
 * ✅ O site tem esse nome porque abusei do estilo do CSS.
