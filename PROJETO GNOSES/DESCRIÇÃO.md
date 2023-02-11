@@ -3,6 +3,8 @@
 
 [![GitHub Repo stars](https://img.shields.io/badge/-REPOSITORIO%20INDISPONIVEL!-red)](https://github.com/VILHALVA)
 
+<img src="https://img.freepik.com/vetores-gratis/ilustracao-do-conceito-de-bot-de-bate-papo_114360-5522.jpg" align="center" width="280"> <br>
+
 # DESCRIÇÃO:
 
 * ✅ São mais de 700 linhas de codigo em Python.
