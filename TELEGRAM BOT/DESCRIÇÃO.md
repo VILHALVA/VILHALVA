@@ -17,6 +17,7 @@
 * 🔹 COMPET (ROBÔ QUE CONVERSA)
 * 🔹 BOT DE COMANDOS (BOTÕES)
 ## ✅ Já fiz em varias linguagens como Python, Java, JS e clones.
+## ✅ Os bots funcionam em grupos, canais e chats privados.
 ## ✅ Pretendo me especializar mais no assunto com bots Premium.
 
 
