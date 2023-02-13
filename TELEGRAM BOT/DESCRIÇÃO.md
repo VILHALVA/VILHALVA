@@ -1,6 +1,8 @@
 # TELEGRAM BOT
 👨‍⚖️CRIEI MUITOS ROBÔS NO TELEGRAM.
 
+[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) <br>
+
 [![GitHub Repo stars](https://img.shields.io/badge/ACESSAR%20O%20REPOSITORIO-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA/TELEGRAM-BOT)
 
 [![GitHub Repo stars](https://img.shields.io/badge/FAZER%20O%20CURSO-CANAL-03A9F4?logo=telegram)](https://t.me/BOTCRIADO)
@@ -18,6 +20,5 @@
 * 🔹 BOT DE COMANDOS (BOTÕES)
 ## ✅ Já fiz em varias linguagens como Python, Java, JS e clones.
 ## ✅ Os bots funcionam em grupos, canais e chats privados.
-## ✅ Pretendo me especializar mais no assunto com bots Premium.
 
 
