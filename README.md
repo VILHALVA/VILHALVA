@@ -8,16 +8,16 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
 ## REDES SOCIAIS:
-[![GitHub Repo stars](https://img.shields.io/badge/MEU%20PERFIL-03A9F4?logo=github)](https://github.com/VILHALVA)
-[![GitHub Repo stars](https://img.shields.io/badge/ENTRE%20EM%20CONTATO-03A9F4?logo=telegram)](https://t.me/VILHALVA20_BOT) <br>
+[![GitHub Repo stars](https://img.shields.io/badge/MEU%20PERFIL-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
+[![GitHub Repo stars](https://img.shields.io/badge/ENTRE%20EM%20CONTATO-TELEGRAM-03A9F4?logo=telegram)](https://t.me/VILHALVA20_BOT) <br>
 
 [![GitHub Repo stars](https://img.shields.io/badge/CODIGOS-GRUPO-03A9F4?logo=telegram)](https://t.me/CODIGOGP)
 [![GitHub Repo stars](https://img.shields.io/badge/CODIGOS-CANAL-03A9F4?logo=telegram)](https://t.me/CODIGOCN) <br>
 
-[![GitHub Repo stars](https://img.shields.io/badge/APRENDA%20A%20CRIAR%20SEU%20BOT-CURSO%20NO%20CANAL-03A9F4?logo=telegram)](https://t.me/BOTCRIADO) <br>
+[![GitHub Repo stars](https://img.shields.io/badge/CRIE%20O%20SEU%20BOT-CANAL-03A9F4?logo=telegram)](https://t.me/BOTCRIADO) <br>
 
 [![GitHub Repo stars](https://img.shields.io/badge/ENTRE%20NO-SITE-df1010?logo=google)](https://vilhalva.github.io/STYLER/STYLER.html)
-[![GitHub Repo stars](https://img.shields.io/badge/SUPERCHATS-LINKS-03A9F4?logo=telegram)](https://t.me/DIVULGACAO2023) <br>
+[![GitHub Repo stars](https://img.shields.io/badge/PARCERIA-SUPERCHATS-03A9F4?logo=telegram)](https://t.me/DIVULGACAO2023) <br>
 
 # COMO PROGRAMADOR:
 * 😎Gosto de criar muitos projetos em diferentes segmentos. O que na verdade curto é desafios. Trabalho em:
