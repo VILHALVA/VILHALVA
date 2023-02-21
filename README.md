@@ -19,6 +19,9 @@
 [![GitHub Repo stars](https://img.shields.io/badge/ENTRE%20NO-SITE-df1010?logo=google)](https://vilhalva.github.io/STYLER/STYLER.html)
 [![GitHub Repo stars](https://img.shields.io/badge/PARCERIA-SUPERCHATS-03A9F4?logo=telegram)](https://t.me/DIVULGACAO2023) <br>
 
+[![GitHub Repo stars](https://img.shields.io/badge/MEU%20CANAL-YOUTUBE-df1010?logo=youtube)](https://www.youtube.com/channel/UCmSPU_gp3NA7a8pb5Iwy3lQ)
+[![GitHub Repo stars](https://img.shields.io/badge/MEU-LINKEDLN-df1010?logo=Linkedln)](www.linkedin.com/in/vilhalva)
+
 # COMO PROGRAMADOR:
 * 😎Gosto de criar muitos projetos em diferentes segmentos. O que na verdade curto é desafios. Trabalho em:
 * ✅Criação de Algoritmos
