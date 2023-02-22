@@ -20,7 +20,8 @@
 [![GitHub Repo stars](https://img.shields.io/badge/PARCERIA-SUPERCHATS-03A9F4?logo=telegram)](https://t.me/DIVULGACAO2023) <br>
 
 [![GitHub Repo stars](https://img.shields.io/badge/MEU%20CANAL-YOUTUBE-df1010?logo=youtube)](https://www.youtube.com/channel/UCmSPU_gp3NA7a8pb5Iwy3lQ)
-
+[![GitHub Repo stars](https://img.shields.io/badge/MEU-FACEBOOK-df1010?logo=facebook)](https://facebook.com/VILHALVA100)
+[![GitHub Repo stars](https://img.shields.io/badge/MEU-TIKTOK-df1010?logo=tiktok)](https://www.tiktok.com/@vilhalva100?is_from_webapp=1&sender_device=pc)
 # COMO PROGRAMADOR:
 * 😎Gosto de criar muitos projetos em diferentes segmentos. O que na verdade curto é desafios. Trabalho em:
 * ✅Criação de Algoritmos
