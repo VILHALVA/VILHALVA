@@ -7,18 +7,17 @@
 
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
-## REDES SOCIAIS:
-[![GitHub Repo stars](https://img.shields.io/badge/MEU%20PERFIL-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
-[![GitHub Repo stars](https://img.shields.io/badge/ENTRE%20EM%20CONTATO-TELEGRAM-03A9F4?logo=telegram)](https://t.me/VILHALVA20_BOT) <br>
-
+# REDES SOCIAIS:
+## TELEGRAM:
+[![GitHub Repo stars](https://img.shields.io/badge/ENTRE%20EM-CONTATO-03A9F4?logo=telegram)](https://t.me/VILHALVA20_BOT)
 [![GitHub Repo stars](https://img.shields.io/badge/CODIGOS-GRUPO-03A9F4?logo=telegram)](https://t.me/CODIGOGP)
-[![GitHub Repo stars](https://img.shields.io/badge/CODIGOS-CANAL-03A9F4?logo=telegram)](https://t.me/CODIGOCN) <br>
-
-[![GitHub Repo stars](https://img.shields.io/badge/CRIE%20O%20SEU%20BOT-CANAL-03A9F4?logo=telegram)](https://t.me/BOTCRIADO) <br>
-
-[![GitHub Repo stars](https://img.shields.io/badge/ENTRE%20NO-SITE-df1010?logo=google)](https://vilhalva.github.io/STYLER/STYLER.html)
+[![GitHub Repo stars](https://img.shields.io/badge/CODIGOS-CANAL-03A9F4?logo=telegram)](https://t.me/CODIGOCN) 
+[![GitHub Repo stars](https://img.shields.io/badge/CRIE%20O%20SEU-BOT-03A9F4?logo=telegram)](https://t.me/BOTCRIADO) 
 [![GitHub Repo stars](https://img.shields.io/badge/PARCERIA-SUPERCHATS-03A9F4?logo=telegram)](https://t.me/DIVULGACAO2023) <br>
 
+## OUTRAS:
+[![GitHub Repo stars](https://img.shields.io/badge/MEU%20PERFIL-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
+[![GitHub Repo stars](https://img.shields.io/badge/ENTRE%20NO-SITE-df1010?logo=google)](https://vilhalva.github.io/STYLER/STYLER.html)
 [![GitHub Repo stars](https://img.shields.io/badge/MEU-CANAL-03A9F4?logo=youtube)](https://www.youtube.com/channel/UCmSPU_gp3NA7a8pb5Iwy3lQ)
 [![GitHub Repo stars](https://img.shields.io/badge/MEU-FACEBOOK-03A9F4?logo=facebook)](https://facebook.com/VILHALVA100)
 [![GitHub Repo stars](https://img.shields.io/badge/MEU-TIKTOK-03A9F4?logo=tiktok)](https://www.tiktok.com/@vilhalva100?is_from_webapp=1&sender_device=pc)
