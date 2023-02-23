@@ -23,6 +23,11 @@
 [![GitHub Repo stars](https://img.shields.io/badge/MEU-TIKTOK-03A9F4?logo=tiktok)](https://www.tiktok.com/@vilhalva100?is_from_webapp=1&sender_device=pc)
 [![GitHub Repo stars](https://img.shields.io/badge/MEU-REDDIT-03A9F4?logo=reddit)](https://www.reddit.com/user/vilhalva100)
 [![GitHub Repo stars](https://img.shields.io/badge/MEU-TWITTER-03A9F4?logo=twitter)](https://twitter.com/VILHALVA100)
+[![GitHub Repo stars](https://img.shields.io/badge/MEU-KOO-03A9F4?logo=koo)](https://www.kooapp.com/profile/VILHALVA100)
+[![GitHub Repo stars](https://img.shields.io/badge/MEU-INSTAGRAM-03A9F4?logo=instagram)](https://www.instagram.com/vilhalva100/)
+[![GitHub Repo stars](https://img.shields.io/badge/SERVIDOR%20NO-DISCORD-03A9F4?logo=discord)](https://discord.gg/6UQCfaB7se)
+[![GitHub Repo stars](https://img.shields.io/badge/CANAL%20NO-VIMEO-03A9F4?logo=vimeo)](https://vimeo.com/vilhalva100)
+[![GitHub Repo stars](https://img.shields.io/badge/CANAL%20NO-KWAI-03A9F4?logo=kwai)](https://kwai-video.com/u/@vilhalva100/fCCRkLd8)
 
 # COMO PROGRAMADOR:
 * 😎Gosto de criar muitos projetos em diferentes segmentos. O que na verdade curto é desafios. Trabalho em:
