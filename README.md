@@ -12,7 +12,6 @@
 [![GitHub Repo stars](https://img.shields.io/badge/ENTRE%20EM-CONTATO-03A9F4?logo=telegram)](https://t.me/VILHALVA20_BOT)
 [![GitHub Repo stars](https://img.shields.io/badge/CODIGOS-GRUPO-03A9F4?logo=telegram)](https://t.me/CODIGOGP)
 [![GitHub Repo stars](https://img.shields.io/badge/CODIGOS-CANAL-03A9F4?logo=telegram)](https://t.me/CODIGOCN) 
-[![GitHub Repo stars](https://img.shields.io/badge/CRIE%20O%20SEU-BOT-03A9F4?logo=telegram)](https://t.me/BOTCRIADO) 
 [![GitHub Repo stars](https://img.shields.io/badge/PARCERIA-SUPERCHATS-03A9F4?logo=telegram)](https://t.me/DIVULGACAO2023) <br>
 
 ## OUTRAS:
