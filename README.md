@@ -24,7 +24,6 @@
 [![GitHub Repo stars](https://img.shields.io/badge/MEU-TWITTER-03A9F4?logo=twitter)](https://twitter.com/VILHALVA100)
 [![GitHub Repo stars](https://img.shields.io/badge/MEU-KOO-03A9F4?logo=google)](https://www.kooapp.com/profile/VILHALVA100)
 [![GitHub Repo stars](https://img.shields.io/badge/MEU-INSTAGRAM-03A9F4?logo=instagram)](https://www.instagram.com/vilhalva100/)
-[![GitHub Repo stars](https://img.shields.io/badge/SERVIDOR%20NO-DISCORD-03A9F4?logo=discord)](https://discord.gg/6UQCfaB7se)
 [![GitHub Repo stars](https://img.shields.io/badge/CANAL%20NO-VIMEO-03A9F4?logo=vimeo)](https://vimeo.com/vilhalva100)
 [![GitHub Repo stars](https://img.shields.io/badge/CANAL%20NO-KWAI-03A9F4?logo=google)](https://kwai-video.com/u/@vilhalva100/fCCRkLd8)
 
