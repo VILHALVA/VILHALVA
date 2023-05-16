@@ -43,9 +43,11 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.ccdc.cam.ac.uk/content/images/products/Product-Python.png" alt="PYTHON" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JAVASCRIPT" width="40" height="40"/></a>
 
-## 3) CRIAÇÃO DE APPS:
+## 3) CRIAÇÃO DE APLICATIVOS:
+<a href="https://netbeans.apache.org/download/index.html" target="_blank" rel="noreferrer"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2018/11/frame256.png" alt="NETBEANS" width="40" height="40"/></a>
+<a href="https://developer.android.com/studio?gclid=CjwKCAjw04yjBhApEiwAJcvNoeYTkqG9gsZ3Fz001O7AymzVmmZ_qAvUwB29as0uAaruhi6lW3mAwRoCH3QQAvD_BwE&gclsrc=aw.ds" target="_blank" rel="noreferrer"><img src="https://developer.android.com/static/studio/images/android-studio-canary.svg" alt="ANDROID STUDIO" width="40" height="40"/></a>
 <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"><img src="https://gabrielaugusto.me/wp-content/uploads/2021/06/Java_Logo.png" alt="JAVA" width="40" height="40"/></a> 
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="KOTLIN" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer">
 
 ## 4) CRIAÇÃO DE JOGOS:
 <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://d1v8cmtpnjamtp.cloudfront.net/courses/DPCS/logo_1645636333881.svg" alt="C#" width="40" height="40"/></a> <br>
