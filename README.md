@@ -58,4 +58,6 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" alt="GITHUB" width="40" height="40"/></a>
  
 <img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/><br>
+ 
+![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 
