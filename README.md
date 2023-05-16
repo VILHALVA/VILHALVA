@@ -55,7 +55,7 @@
 
 # CONHECIMENTOS GERAIS:
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="GIT" width="40" height="40"/></a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/14826266?v=4" alt="GITHUB" width="40" height="40"/></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://t2.tudocdn.net/510706?w=646&h=284" alt="GITHUB" width="40" height="40"/></a>
  
 <img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/><br>
 
