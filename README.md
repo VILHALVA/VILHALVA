@@ -28,16 +28,18 @@
 [![GitHub Repo stars](https://img.shields.io/badge/CANAL%20NO-KWAI-03A9F4?logo=google)](https://kwai-video.com/u/@vilhalva100/fCCRkLd8)
 
 # COMO PROGRAMADOR:
-* 😎Gosto de criar muitos projetos em diferentes segmentos. O que na verdade curto é desafios. Trabalho em:
-* ✅Criação de Algoritmos
-* ✅Desenvolvimento Web
-* ✅Desenvolvimento Mobile
-* ✅Analista de Dados
-* ✅Inteligência Artificial (Robótica)
-* ✅Cyber Security
+## 1) CRIAÇÃO DE SITES:
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JAVASCRIPT" width="40" height="40"/></a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a> 
 
-# LINGUAGENS:
-<p <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JAVASCRIPT" width="40" height="40"/></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.ccdc.cam.ac.uk/content/images/products/Product-Python.png" alt="PYTHON" width="40" height="40"/></a> <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a> <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"><img src="https://gabrielaugusto.me/wp-content/uploads/2021/06/Java_Logo.png" alt="JAVA" width="40" height="40"/></a> <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://d1v8cmtpnjamtp.cloudfront.net/courses/DPCS/logo_1645636333881.svg" alt="C#" width="40" height="40"/></a> <br>
+## 2) CRIAÇÃO DE ROBÔS:
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.ccdc.cam.ac.uk/content/images/products/Product-Python.png" alt="PYTHON" width="40" height="40"/></a>
+
+## 3) CRIAÇÃO DE APPS:
+<a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"><img src="https://gabrielaugusto.me/wp-content/uploads/2021/06/Java_Logo.png" alt="JAVA" width="40" height="40"/></a> 
+
+## 4) CRIAÇÃO DE JOGOS:
+<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://d1v8cmtpnjamtp.cloudfront.net/courses/DPCS/logo_1645636333881.svg" alt="C#" width="40" height="40"/></a> <br>
 
 # FIM 
 <img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/><br>
