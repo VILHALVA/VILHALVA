@@ -43,7 +43,6 @@
 
 ## 4) CRIAÇÃO DE JOGOS:
 <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://d1v8cmtpnjamtp.cloudfront.net/courses/DPCS/logo_1645636333881.svg" alt="C#" width="40" height="40"/></a> <br>
-
-# FIM 
+ 
 <img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/><br>
 
