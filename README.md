@@ -58,7 +58,7 @@
 # CONHECIMENTOS GERAIS:
 <a href="https://portugol.sourceforge.io/" target="_blank" rel="noreferrer"><img src="https://portugol.sourceforge.io/assets/images/favicon.ico" alt="PORTUGOL" width="40" height="40"/></a>
 <a href="https://www.microsoft.com" target="_blank" rel="noreferrer"><img src="https://www.wikihow.com/images_en/b/b3/Windowswindows7_start.png" alt="WINDOWS" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://www.dltec.com.br/blog/wp-content/uploads/2012/09/linux-icon-11.png" alt="LINUX" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://www.dltec.com.br/blog/wp-content/uploads/2012/09/linux-icon-1.png" alt="LINUX" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="GIT" width="40" height="40"/></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" alt="GITHUB" width="40" height="40"/></a>
 <a href="https://appadvice.com/app/eletr-c3-b4nica-multimarcas/1614024652" target="_blank" rel="noreferrer"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/a5/9c/ed/a59cedab-40a9-3d8d-4c12-4dd5eed4abde/source/256x256bb.jpg" alt="ELETRONICA" width="40" height="40"/></a>
