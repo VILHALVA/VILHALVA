@@ -63,17 +63,15 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="GIT" width="40" height="40"/></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" alt="GITHUB" width="40" height="40"/></a>
 <a href="https://appadvice.com/app/eletr-c3-b4nica-multimarcas/1614024652" target="_blank" rel="noreferrer"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/a5/9c/ed/a59cedab-40a9-3d8d-4c12-4dd5eed4abde/source/256x256bb.jpg" alt="ELETRONICA" width="40" height="40"/></a>
-<a href="https://www.invertexto.com/codigo-binario" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/626/626570.png" alt="CÓDIGO BINÁRIO" width="40" height="40"/></a>
+<a href="https://www.invertexto.com/codigo-binario" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/626/626570.png" alt="CÓDIGO BINÁRIO" width="40" height="40"/></a><br>
  
 # 🤓MEUS CURSOS:
-## LINGUAGENS:
 * 🔰 [CURSO DE ALGORITMOS](https://github.com/VILHALVA/CURSO-DE-ALGORITMO)
 * 🔰 [CURSO DE PYTHON](https://github.com/VILHALVA/CURSO-DE-PYTHON)
 * 🔰 [CURSO DE HTML CSS JS](https://github.com/VILHALVA/CURSO-DE-HTML-CSS-JS)
 * 🔰 [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
 * 🔰 [CURSO DE JAVA](https://github.com/VILHALVA/CURSO-DE-JAVA)
 * 🔰 [CURSO DE KOTLIN](https://github.com/VILHALVA/CURSO-DE-KOTLIN)
-## FERRAMENTAS:
 * 🔰 [MESTRE DO PYTHON](https://github.com/VILHALVA/MESTRE-DO-PYTHON)
 * 🔰 [CURSO DE TELEGRAM BOT](https://github.com/VILHALVA/TELEGRAM-BOT)
  
