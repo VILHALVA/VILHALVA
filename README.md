@@ -2,12 +2,16 @@
  
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=0711FF&vCenter=true&width=600&height=70&lines=👋OLÁ+USUÁRIO!;😎EU+SOU+O+VILHALVA!;💻UM+BOM+PROGRAMADOR!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=0711FF&vCenter=true&width=600&height=70&lines=👋OLÁ+USUÁRIO!;😎EU+SOU+O+VILHALVA!;💻UM+BOM+PROGRAMADOR...;🌝FULL+STACK!)](https://git.io/typing-svg)
 </div>
 
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
-# REDES SOCIAIS:
+# 👶GUIA PARA INICIANTE:
+[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-REPOSITÓRIOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories)
+[![GitHub Repo stars](https://img.shields.io/badge/-É%20NOVATO%20CLIQUE%20AQUI!-blue)](https://github.com/VILHALVA/CURSO-DE-ALGORITMO)
+
+# 🌚REDES SOCIAIS:
 ## TELEGRAM:
 [![GitHub Repo stars](https://img.shields.io/badge/ENTRE%20EM-CONTATO-03A9F4?logo=telegram)](https://t.me/VILHALVA20_BOT)
 [![GitHub Repo stars](https://img.shields.io/badge/CODIGOS-GRUPO-03A9F4?logo=telegram)](https://t.me/CODIGOGP)
@@ -22,12 +26,10 @@
 [![GitHub Repo stars](https://img.shields.io/badge/MEU-TIKTOK-03A9F4?logo=tiktok)](https://www.tiktok.com/@vilhalva100?is_from_webapp=1&sender_device=pc)
 [![GitHub Repo stars](https://img.shields.io/badge/MEU-REDDIT-03A9F4?logo=reddit)](https://www.reddit.com/user/vilhalva100)
 [![GitHub Repo stars](https://img.shields.io/badge/MEU-TWITTER-03A9F4?logo=twitter)](https://twitter.com/VILHALVA100)
-[![GitHub Repo stars](https://img.shields.io/badge/MEU-KOO-03A9F4?logo=google)](https://www.kooapp.com/profile/VILHALVA100)
 [![GitHub Repo stars](https://img.shields.io/badge/MEU-INSTAGRAM-03A9F4?logo=instagram)](https://www.instagram.com/vilhalva100/)
-[![GitHub Repo stars](https://img.shields.io/badge/CANAL%20NO-VIMEO-03A9F4?logo=vimeo)](https://vimeo.com/vilhalva100)
 [![GitHub Repo stars](https://img.shields.io/badge/CANAL%20NO-KWAI-03A9F4?logo=google)](https://kwai-video.com/u/@vilhalva100/fCCRkLd8)
 
-# COMO PROGRAMADOR:
+# 👨‍💻COMO PROGRAMADOR:
 ## 1) CRIAÇÃO DE SITES:
 <a href="https://visualstudio.microsoft.com/pt-br/" target="_blank" rel="noreferrer"><img src="https://code.visualstudio.com/assets/apple-touch-icon.png" alt="VISUAL STUDIO CODE" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/phpstorm/promo/?source=google&medium=cpc&campaign=14335686198&term=phpstorm&content=604024578915&gad=1&gclid=CjwKCAjw04yjBhApEiwAJcvNodJJSRvn5GkKrcAkTmu9UAKn2DdQ4RhuWb86Bn6_1mxa8torGAik5BoCEBkQAvD_BwE" target="_blank" rel="noreferrer"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/webide.ico_HA9tBL0.png" alt="PHP STORM" width="40" height="40"/></a>
