@@ -9,7 +9,7 @@
 
 # 👶GUIA PARA INICIANTE:
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-REPOSITÓRIOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories)
-[![GitHub Repo stars](https://img.shields.io/badge/-É%20NOVATO%20CLIQUE%20AQUI!-blue)](https://github.com/VILHALVA/CURSO-DE-ALGORITMO)
+[![GitHub Repo stars](https://img.shields.io/badge/-SE%20FOR%20NOVATO%20CRIQUE%20AQUI!-blue)](https://github.com/VILHALVA/CURSO-DE-ALGORITMO)
 
 # 🌚REDES SOCIAIS:
 ## TELEGRAM:
