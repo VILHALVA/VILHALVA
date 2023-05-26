@@ -52,7 +52,7 @@
 ![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GITHUB-181717?style=flat-square&logo=github)
-![Eclipse](https://img.shields.io/badge/-ECLIPES-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-ECLIPSE-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCODE-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/ANDROID-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![linux](https://img.shields.io/badge/-LINUX-339933?style=flat-square&logo=linux&logoColor=white)
