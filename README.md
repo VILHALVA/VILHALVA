@@ -29,6 +29,19 @@
 [![GitHub Repo stars](https://img.shields.io/badge/MEU-INSTAGRAM-03A9F4?logo=instagram)](https://www.instagram.com/vilhalva100/)
 [![GitHub Repo stars](https://img.shields.io/badge/CANAL%20NO-KWAI-03A9F4?logo=google)](https://kwai-video.com/u/@vilhalva100/fCCRkLd8)
 
+# LINGUAGENS:
+![Python](https://img.shields.io/badge/PYTHON-14354C?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TYPESCRIPT-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/-JAVA-b07219?style=flat-square&logo=java)
+![Kotlin](https://img.shields.io/badge/KOTLIN-14354C?style=flat-square&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
+
 # 👨‍💻COMO PROGRAMADOR:
 ## [1) CRIAÇÃO DE SITES:](https://github.com/VILHALVA/CURSO-DE-HTML-CSS-JS)
 <a href="https://github.com/VILHALVA/CURSO-DE-HTML-CSS-JS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a> 
