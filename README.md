@@ -10,6 +10,7 @@
 # 👶GUIA PARA INICIANTE:
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-REPOSITÓRIOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories)
 [![GitHub Repo stars](https://img.shields.io/badge/-SE%20FOR%20NOVATO%20CRIQUE%20AQUI!-blue)](https://github.com/VILHALVA/CURSO-DE-ALGORITMO)
+[![GitHub Repo stars](https://img.shields.io/badge/-TODOS%20OS%20CURSOS!-blue)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=&language=&sort=)
 [![GitHub Repo stars](https://img.shields.io/badge/ENTRE%20NO-SITE-df1010?logo=google)](https://vilhalva.github.io/STYLER/STYLER.html)
 
 # 🌚REDES SOCIAIS:
