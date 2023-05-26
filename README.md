@@ -37,24 +37,22 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png" alt="TYPECRIPT" width="40" height="40"/></a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a> 
 <a href="https://www.jetbrains.com/datagrip/features/mysql.html?source=google&medium=cpc&campaign=15034928143&term=mysql%20database&content=555193029526&gad=1&gclid=CjwKCAjw04yjBhApEiwAJcvNoahL3qw75El-chd3PfGLPy1Fum2QSxWzdmqTz3XC81wU2OfgkFR-SBoCuM4QAvD_BwE" target="_blank" rel="noreferrer"><img src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b" alt="MYSQL" width="40" height="40"/></a> 
-
 <a href="https://www.jetbrains.com/phpstorm/promo/?source=google&medium=cpc&campaign=14335686198&term=phpstorm&content=604024578915&gad=1&gclid=CjwKCAjw04yjBhApEiwAJcvNodJJSRvn5GkKrcAkTmu9UAKn2DdQ4RhuWb86Bn6_1mxa8torGAik5BoCEBkQAvD_BwE" target="_blank" rel="noreferrer"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/webide.ico_HA9tBL0.png" alt="PHP STORM" width="40" height="40"/></a>
 <a href="https://nodejs.org/pt-br/download/package-manager" target="_blank" rel="noreferrer"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2018/05/Artboard_4.png" alt="NODEJS" width="40" height="40"/></a>
 <a href="https://www.apachefriends.org/pt_br/index.html" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/xampp-icon-256x256-yyclalg7.png" alt="XAMPP" width="40" height="40"/></a>
 
 ## 2) CRIAÇÃO DE ROBÔS:
 <a href="https://github.com/VILHALVA/CURSO-DE-PYTHON" target="_blank" rel="noreferrer"><img src="https://cdn.ccdc.cam.ac.uk/content/images/products/Product-Python.png" alt="PYTHON" width="40" height="40"/></a>
-
 <a href="https://github.com/VILHALVA/TELEGRAM-BOT" target="_blank" rel="noreferrer"><img src="https://osx.telegram.org/updates/site/logo.png" alt="TELEGRAM" width="40" height="40"/></a>
 <a href="https://visualstudio.microsoft.com/pt-br/" target="_blank" rel="noreferrer"><img src="https://code.visualstudio.com/assets/apple-touch-icon.png" alt="VISUAL STUDIO CODE" width="40" height="40"/></a>
 <a href="https://replit.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/https://replit.com/" alt="REPLIT" width="40" height="40"/></a>
 
 ## 3) CRIAÇÃO DE APLICATIVOS:
+<a href="https://github.com/VILHALVA/CURSO-DE-JAVA" target="_blank" rel="noreferrer"><img src="https://gabrielaugusto.me/wp-content/uploads/2021/06/Java_Logo.png" alt="JAVA" width="40" height="40"/></a> 
+<a href="https://github.com/VILHALVA/CURSO-DE-KOTLIN" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="KOTLIN" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/xmldoc/" target="_blank" rel="noreferrer"><img src="https://pt.seaicons.com/wp-content/uploads/2015/07/Other-xml-icon.png" alt="XML" width="40" height="40"/></a> 
 <a href="https://netbeans.apache.org/download/index.html" target="_blank" rel="noreferrer"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2018/11/frame256.png" alt="NETBEANS" width="40" height="40"/></a>
 <a href="https://developer.android.com/studio?gclid=CjwKCAjw04yjBhApEiwAJcvNoeYTkqG9gsZ3Fz001O7AymzVmmZ_qAvUwB29as0uAaruhi6lW3mAwRoCH3QQAvD_BwE&gclsrc=aw.ds" target="_blank" rel="noreferrer"><img src="https://developer.android.com/static/studio/images/android-studio-canary.svg" alt="ANDROID STUDIO" width="40" height="40"/></a>
-<a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"><img src="https://gabrielaugusto.me/wp-content/uploads/2021/06/Java_Logo.png" alt="JAVA" width="40" height="40"/></a> 
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="KOTLIN" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/xmldoc/" target="_blank" rel="noreferrer"><img src="https://pt.seaicons.com/wp-content/uploads/2015/07/Other-xml-icon.png" alt="XML" width="40" height="40"/></a> 
 
 ## 4) CRIAÇÃO DE JOGOS:
 <a href="https://unity.com/pages/unity-pro-buy-now?utm_source=google&utm_medium=cpc&utm_campaign=cc_dd_upr_amer_amer-t2_en_pu_sem-gg_acq_br-pr_2023-01_brand-at2_cc3022_ev-br_id:71700000105927803&utm_content=cc_dd_upr_amer_pu_sem_gg_ev-br_pros_x_npd_cpc_kw_sd_all_x_x_brand_id:58700008262791741&utm_term=unity&&&&&gad=1&gclid=CjwKCAjw04yjBhApEiwAJcvNoQwytnYsZSEJgycweY-RYiYbbTkfU22BkHbcnmYuluV1qpwotNl17xoC3u8QAvD_BwE&gclsrc=aw.ds" target="_blank" rel="noreferrer"><img src="https://www.moosoft.com/wp-content/uploads/2022/09/Unity-1.png" alt="UNITY" width="40" height="40"/></a>
