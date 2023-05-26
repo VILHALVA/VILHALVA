@@ -29,7 +29,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/MEU-INSTAGRAM-03A9F4?logo=instagram)](https://www.instagram.com/vilhalva100/)
 [![GitHub Repo stars](https://img.shields.io/badge/CANAL%20NO-KWAI-03A9F4?logo=google)](https://kwai-video.com/u/@vilhalva100/fCCRkLd8)
 
-# CONHECIMENTOS:
+# 🤙CONHECIMENTOS:
 ## LINGUAGENS:
 ![Python](https://img.shields.io/badge/PYTHON-14354C?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -38,26 +38,25 @@
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TYPESCRIPT-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/-JAVA-b07219?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-JAVA-b07219?style=flat-square&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/KOTLIN-14354C?style=flat-square&logo=kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 
 # TECNOLOGIAS:
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-NODEJS-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Django](https://img.shields.io/badge/DJANGO-092E20?style=flat-square&logo=django&logoColor=white)
+![Angular](https://img.shields.io/badge/-ANGULAR-DD0031?style=flat-square&logo=angular)
+![MySQL](https://img.shields.io/badge/-MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GITHUB-181717?style=flat-square&logo=github)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white)
-![AndroidStudio](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-ECLIPES-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCODE-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![AndroidStudio](https://img.shields.io/badge/ANDROID-3DDC84?style=flat-square&logo=android&logoColor=white)
+![linux](https://img.shields.io/badge/-LINUX-339933?style=flat-square&logo=linux&logoColor=white)
+![windows](https://img.shields.io/badge/-WINDOWS-3880FF?style=flat-square&logo=windows&logoColor=white)
 
 # 👨‍💻COMO PROGRAMADOR:
 ## [1) CRIAÇÃO DE SITES:](https://github.com/VILHALVA/CURSO-DE-HTML-CSS-JS)
@@ -91,16 +90,6 @@
 ## 4) CRIAÇÃO DE JOGOS:
  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://d1v8cmtpnjamtp.cloudfront.net/courses/DPCS/logo_1645636333881.svg" alt="C#" width="40" height="40"/></a>
 <a href="https://unity.com/pages/unity-pro-buy-now?utm_source=google&utm_medium=cpc&utm_campaign=cc_dd_upr_amer_amer-t2_en_pu_sem-gg_acq_br-pr_2023-01_brand-at2_cc3022_ev-br_id:71700000105927803&utm_content=cc_dd_upr_amer_pu_sem_gg_ev-br_pros_x_npd_cpc_kw_sd_all_x_x_brand_id:58700008262791741&utm_term=unity&&&&&gad=1&gclid=CjwKCAjw04yjBhApEiwAJcvNoQwytnYsZSEJgycweY-RYiYbbTkfU22BkHbcnmYuluV1qpwotNl17xoC3u8QAvD_BwE&gclsrc=aw.ds" target="_blank" rel="noreferrer"><img src="https://www.moosoft.com/wp-content/uploads/2022/09/Unity-1.png" alt="UNITY" width="40" height="40"/></a>
-
-# 🤙CONHECIMENTOS GERAIS:
-<a href="https://portugol.sourceforge.io/" target="_blank" rel="noreferrer"><img src="https://portugol.sourceforge.io/assets/images/favicon.ico" alt="PORTUGOL" width="40" height="40"/></a>
-<a href="https://developer.android.com/docs?hl=pt-br" target="_blank" rel="noreferrer"><img src="https://www.hardware.com.br/static/20110413/m55ac8604.png?fm=png&ixlib=php-3.3.0" alt="ANDROID" width="40" height="40"/></a>
-<a href="https://www.microsoft.com" target="_blank" rel="noreferrer"><img src="https://www.wikihow.com/images_en/b/b3/Windowswindows7_start.png" alt="WINDOWS" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://www.dltec.com.br/blog/wp-content/uploads/2012/09/linux-icon-1.png" alt="LINUX" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="GIT" width="40" height="40"/></a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" alt="GITHUB" width="40" height="40"/></a>
-<a href="https://appadvice.com/app/eletr-c3-b4nica-multimarcas/1614024652" target="_blank" rel="noreferrer"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/a5/9c/ed/a59cedab-40a9-3d8d-4c12-4dd5eed4abde/source/256x256bb.jpg" alt="ELETRONICA" width="40" height="40"/></a>
-<a href="https://www.invertexto.com/codigo-binario" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/626/626570.png" alt="CÓDIGO BINÁRIO" width="40" height="40"/></a><br>
  
 <img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/><br>
  
