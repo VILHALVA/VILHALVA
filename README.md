@@ -10,6 +10,7 @@
 # 👶GUIA PARA INICIANTE:
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-REPOSITÓRIOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories)
 [![GitHub Repo stars](https://img.shields.io/badge/-SE%20FOR%20NOVATO%20CRIQUE%20AQUI!-blue)](https://github.com/VILHALVA/CURSO-DE-ALGORITMO)
+[![GitHub Repo stars](https://img.shields.io/badge/ENTRE%20NO-SITE-df1010?logo=google)](https://vilhalva.github.io/STYLER/STYLER.html)
 
 # 🌚REDES SOCIAIS:
 ## TELEGRAM:
@@ -20,7 +21,6 @@
 
 ## OUTRAS:
 [![GitHub Repo stars](https://img.shields.io/badge/MEU%20PERFIL-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
-[![GitHub Repo stars](https://img.shields.io/badge/ENTRE%20NO-SITE-df1010?logo=google)](https://vilhalva.github.io/STYLER/STYLER.html)
 [![GitHub Repo stars](https://img.shields.io/badge/MEU-CANAL-03A9F4?logo=youtube)](https://www.youtube.com/channel/UCmSPU_gp3NA7a8pb5Iwy3lQ)
 [![GitHub Repo stars](https://img.shields.io/badge/MEU-FACEBOOK-03A9F4?logo=facebook)](https://facebook.com/VILHALVA100)
 [![GitHub Repo stars](https://img.shields.io/badge/MEU-TIKTOK-03A9F4?logo=tiktok)](https://www.tiktok.com/@vilhalva100?is_from_webapp=1&sender_device=pc)
@@ -67,16 +67,6 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" alt="GITHUB" width="40" height="40"/></a>
 <a href="https://appadvice.com/app/eletr-c3-b4nica-multimarcas/1614024652" target="_blank" rel="noreferrer"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/a5/9c/ed/a59cedab-40a9-3d8d-4c12-4dd5eed4abde/source/256x256bb.jpg" alt="ELETRONICA" width="40" height="40"/></a>
 <a href="https://www.invertexto.com/codigo-binario" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/626/626570.png" alt="CÓDIGO BINÁRIO" width="40" height="40"/></a><br>
- 
-# 🤓MEUS CURSOS:
-* 🔰 [CURSO DE ALGORITMOS](https://github.com/VILHALVA/CURSO-DE-ALGORITMO)
-* 🔰 [CURSO DE PYTHON](https://github.com/VILHALVA/CURSO-DE-PYTHON)
-* 🔰 [CURSO DE HTML CSS JS](https://github.com/VILHALVA/CURSO-DE-HTML-CSS-JS)
-* 🔰 [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-* 🔰 [CURSO DE JAVA](https://github.com/VILHALVA/CURSO-DE-JAVA)
-* 🔰 [CURSO DE KOTLIN](https://github.com/VILHALVA/CURSO-DE-KOTLIN)
-* 🔰 [MESTRE DO PYTHON](https://github.com/VILHALVA/MESTRE-DO-PYTHON)
-* 🔰 [CURSO DE TELEGRAM BOT](https://github.com/VILHALVA/TELEGRAM-BOT)
  
 <img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/><br>
  
