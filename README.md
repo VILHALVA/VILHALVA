@@ -62,8 +62,9 @@
  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://d1v8cmtpnjamtp.cloudfront.net/courses/DPCS/logo_1645636333881.svg" alt="C#" width="40" height="40"/></a>
 <a href="https://unity.com/pages/unity-pro-buy-now?utm_source=google&utm_medium=cpc&utm_campaign=cc_dd_upr_amer_amer-t2_en_pu_sem-gg_acq_br-pr_2023-01_brand-at2_cc3022_ev-br_id:71700000105927803&utm_content=cc_dd_upr_amer_pu_sem_gg_ev-br_pros_x_npd_cpc_kw_sd_all_x_x_brand_id:58700008262791741&utm_term=unity&&&&&gad=1&gclid=CjwKCAjw04yjBhApEiwAJcvNoQwytnYsZSEJgycweY-RYiYbbTkfU22BkHbcnmYuluV1qpwotNl17xoC3u8QAvD_BwE&gclsrc=aw.ds" target="_blank" rel="noreferrer"><img src="https://www.moosoft.com/wp-content/uploads/2022/09/Unity-1.png" alt="UNITY" width="40" height="40"/></a>
 
-# CONHECIMENTOS GERAIS:
+# 🤙CONHECIMENTOS GERAIS:
 <a href="https://portugol.sourceforge.io/" target="_blank" rel="noreferrer"><img src="https://portugol.sourceforge.io/assets/images/favicon.ico" alt="PORTUGOL" width="40" height="40"/></a>
+<a href="https://developer.android.com/docs?hl=pt-br" target="_blank" rel="noreferrer"><img src="https://www.hardware.com.br/static/20110413/m55ac8604.png?fm=png&ixlib=php-3.3.0" alt="ANDROID" width="40" height="40"/></a>
 <a href="https://www.microsoft.com" target="_blank" rel="noreferrer"><img src="https://www.wikihow.com/images_en/b/b3/Windowswindows7_start.png" alt="WINDOWS" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://www.dltec.com.br/blog/wp-content/uploads/2012/09/linux-icon-1.png" alt="LINUX" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="GIT" width="40" height="40"/></a>
