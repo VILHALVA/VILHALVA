@@ -8,10 +8,10 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
 # 👶GUIA PARA INICIANTE:
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-REPOSITÓRIOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories)
-[![GitHub Repo stars](https://img.shields.io/badge/-SE%20FOR%20NOVATO%20CRIQUE%20AQUI!-blue)](https://github.com/VILHALVA/CURSO-DE-ALGORITMO)
-[![GitHub Repo stars](https://img.shields.io/badge/-TODOS%20OS%20CURSOS!-blue)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=)
-[![GitHub Repo stars](https://img.shields.io/badge/ENTRE%20NO-SITE-df1010?logo=google)](https://vilhalva.github.io/STYLER/STYLER.html)
+<a href="https://github.com/VILHALVA/CURSO-DE-ALGORITMO" target="_blank"><img src="https://img.shields.io/badge/SE%20FOR%20NOVATO%20CLIQUE-FF00FF?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=" target="_blank"><img src="https://img.shields.io/badge/MEUS%20CURSOS-FF0000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://github.com/VILHALVA?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/MEUS%20REPOSITÓRIOS-FFFF00?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://vilhalva.github.io/STYLER/STYLER.html" target="_blank"><img src="https://img.shields.io/badge/MEU%20PRIMEIRO%20SITE-00FFFF?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
 
 # 🌚REDES SOCIAIS:
 ## TELEGRAM:
