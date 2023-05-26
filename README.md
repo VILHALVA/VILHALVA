@@ -44,7 +44,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 
-# TECNOLOGIAS:
+## TECNOLOGIAS:
 ![Nodejs](https://img.shields.io/badge/-NODEJS-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/DJANGO-092E20?style=flat-square&logo=django&logoColor=white)
 ![Angular](https://img.shields.io/badge/-ANGULAR-DD0031?style=flat-square&logo=angular)
