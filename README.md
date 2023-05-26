@@ -91,6 +91,10 @@
  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://d1v8cmtpnjamtp.cloudfront.net/courses/DPCS/logo_1645636333881.svg" alt="C#" width="40" height="40"/></a>
 <a href="https://unity.com/pages/unity-pro-buy-now?utm_source=google&utm_medium=cpc&utm_campaign=cc_dd_upr_amer_amer-t2_en_pu_sem-gg_acq_br-pr_2023-01_brand-at2_cc3022_ev-br_id:71700000105927803&utm_content=cc_dd_upr_amer_pu_sem_gg_ev-br_pros_x_npd_cpc_kw_sd_all_x_x_brand_id:58700008262791741&utm_term=unity&&&&&gad=1&gclid=CjwKCAjw04yjBhApEiwAJcvNoQwytnYsZSEJgycweY-RYiYbbTkfU22BkHbcnmYuluV1qpwotNl17xoC3u8QAvD_BwE&gclsrc=aw.ds" target="_blank" rel="noreferrer"><img src="https://www.moosoft.com/wp-content/uploads/2022/09/Unity-1.png" alt="UNITY" width="40" height="40"/></a>
  
+# ESTATISCAS:
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=vilhalva&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/vilhalva/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=vilhalva&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/vilhalva/github-readme-stats#gh-light-mode-only)
+ 
 <img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/><br>
  
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
