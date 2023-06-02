@@ -88,10 +88,6 @@
 <a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank" rel="noreferrer"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/05/pycharm_logo_256.png" alt="PYCHARM" width="40" height="40"/></a>
 <a href="https://replit.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/https://replit.com/" alt="REPLIT" width="40" height="40"/></a>
 <a href="https://grammy.dev/" target="_blank" rel="noreferrer"><img src="https://grammy.dev/images/Y.png" alt="GRAMMY" width="40" height="40"/></a>
-
-## 4) CRIAÇÃO DE JOGOS:
- <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://d1v8cmtpnjamtp.cloudfront.net/courses/DPCS/logo_1645636333881.svg" alt="C#" width="40" height="40"/></a>
-<a href="https://unity.com/pages/unity-pro-buy-now?utm_source=google&utm_medium=cpc&utm_campaign=cc_dd_upr_amer_amer-t2_en_pu_sem-gg_acq_br-pr_2023-01_brand-at2_cc3022_ev-br_id:71700000105927803&utm_content=cc_dd_upr_amer_pu_sem_gg_ev-br_pros_x_npd_cpc_kw_sd_all_x_x_brand_id:58700008262791741&utm_term=unity&&&&&gad=1&gclid=CjwKCAjw04yjBhApEiwAJcvNoQwytnYsZSEJgycweY-RYiYbbTkfU22BkHbcnmYuluV1qpwotNl17xoC3u8QAvD_BwE&gclsrc=aw.ds" target="_blank" rel="noreferrer"><img src="https://www.moosoft.com/wp-content/uploads/2022/09/Unity-1.png" alt="UNITY" width="40" height="40"/></a>
  
 # 📊ESTATISCAS:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vilhalva&langs_count=10)](https://github.com/vilhalva)
