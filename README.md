@@ -65,6 +65,7 @@
 <a href="https://filezilla-project.org/" target="_blank" rel="noreferrer"><img src="https://www.appdeploynews.com/wp-content/uploads/2022/08/filezilla_icon.png" alt="FILEZILLA" width="40" height="40"/></a>
 <a href="https://www.apachefriends.org/pt_br/index.html" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/xampp-icon-256x256-yyclalg7.png" alt="XAMPP" width="40" height="40"/></a>
 <a href="https://www.putty.org/" target="_blank" rel="noreferrer"><img src="https://www.appdeploynews.com/wp-content/uploads/2022/11/putty-logo.png" alt="PUTTY" width="40" height="40"/></a>
+<a href="https://www.wampserver.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/WampServer.png" alt="WAMPSERVER" width="40" height="40"/></a>
  
 # 📊ESTATISCAS:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vilhalva&langs_count=10)](https://github.com/vilhalva)
