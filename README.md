@@ -59,7 +59,7 @@
 <a href="https://replit.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/https://replit.com/" alt="REPLIT" width="40" height="40"/></a>
 <a href="https://grammy.dev/" target="_blank" rel="noreferrer"><img src="https://grammy.dev/images/Y.png" alt="GRAMMY" width="40" height="40"/></a>
 
-## 4) BACKEND (BANCO DE DADOS)
+## 4) BACKEND E SERVIDOR
 <a href="https://www.jetbrains.com/datagrip/features/mysql.html?source=google&medium=cpc&campaign=15034928143&term=mysql%20database&content=555193029526&gad=1&gclid=CjwKCAjw04yjBhApEiwAJcvNoahL3qw75El-chd3PfGLPy1Fum2QSxWzdmqTz3XC81wU2OfgkFR-SBoCuM4QAvD_BwE" target="_blank" rel="noreferrer"><img src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b" alt="MYSQL" width="40" height="40"/></a> 
 <a href="https://mariadb.com/" target="_blank" rel="noreferrer"><img src="https://assets-global.website-files.com/60d9fbbfcd9fcb40bad8aac3/6451761b40606908b92b526c_mariadb.png" alt="MARIADB" width="40" height="40"/></a>
 <a href="https://filezilla-project.org/" target="_blank" rel="noreferrer"><img src="https://www.appdeploynews.com/wp-content/uploads/2022/08/filezilla_icon.png" alt="FILEZILLA" width="40" height="40"/></a>
