@@ -32,7 +32,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/CANAL%20NO-KWAI-03A9F4?logo=google)](https://kwai-video.com/u/@vilhalva100/fCCRkLd8)
 
 # 👨‍💻COMO PROGRAMADOR:
-## [1) CRIAÇÃO DE SITES](https://vilhalva.github.io/STYLER/STYLER.html)
+## [( 01 ) CRIAÇÃO DE SITES](https://vilhalva.github.io/STYLER/STYLER.html)
 <a href="https://github.com/VILHALVA/CURSO-DE-HTML-CSS-JS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-HTML-CSS-JS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JAVASCRIPT" width="40" height="40"/></a>
@@ -42,7 +42,7 @@
 <a href="https://youtube.com/playlist?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2" target="_blank" rel="noreferrer"><img src="https://ps.w.org/reactpress/assets/icon-256x256.png?rev=2471443" alt="WORDPRESS" width="40" height="40"/></a>
 <a href="https://pages.github.com/" target="_blank" rel="noreferrer"><img src="https://wowmoron.files.wordpress.com/2013/10/github.png" alt="GITHUB PAGES" width="40" height="40"/></a>
 
-## 2) CRIAÇÃO DE APLICATIVOS
+## ( 02 ) CRIAÇÃO DE APLICATIVOS
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVA" target="_blank" rel="noreferrer"><img src="https://gabrielaugusto.me/wp-content/uploads/2021/06/Java_Logo.png" alt="JAVA" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-KOTLIN" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="KOTLIN" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer">
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/xmldoc/" target="_blank" rel="noreferrer"><img src="https://pt.seaicons.com/wp-content/uploads/2015/07/Other-xml-icon.png" alt="XML" width="40" height="40"/></a> 
@@ -50,7 +50,7 @@
 <a href="https://developer.android.com/studio?gclid=CjwKCAjw04yjBhApEiwAJcvNoeYTkqG9gsZ3Fz001O7AymzVmmZ_qAvUwB29as0uAaruhi6lW3mAwRoCH3QQAvD_BwE&gclsrc=aw.ds" target="_blank" rel="noreferrer"><img src="https://developer.android.com/static/studio/images/android-studio-canary.svg" alt="ANDROID STUDIO" width="40" height="40"/></a>
 <a href="firebase.google.com" target="_blank" rel="noreferrer"><img src="https://firebaseopensource.com/logo-small.png" alt="FIREBASE" width="40" height="40"/></a>
 
-## [3) CRIAÇÃO DE ROBÔS](https://github.com/VILHALVA/TELEGRAM-BOT)
+## [( 03 ) CRIAÇÃO DE ROBÔS](https://github.com/VILHALVA/TELEGRAM-BOT)
 <a href="https://github.com/VILHALVA/CURSO-DE-PYTHON" target="_blank" rel="noreferrer"><img src="https://cdn.ccdc.cam.ac.uk/content/images/products/Product-Python.png" alt="PYTHON" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png" alt="TYPECRIPT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/TELEGRAM-BOT" target="_blank" rel="noreferrer"><img src="https://osx.telegram.org/updates/site/logo.png" alt="TELEGRAM" width="40" height="40"/></a>
@@ -59,7 +59,7 @@
 <a href="https://replit.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/https://replit.com/" alt="REPLIT" width="40" height="40"/></a>
 <a href="https://grammy.dev/" target="_blank" rel="noreferrer"><img src="https://grammy.dev/images/Y.png" alt="GRAMMY" width="40" height="40"/></a>
 
-## 4) BACKEND E SERVIDOR
+## ( 04 ) BACKEND E SERVIDOR
 <a href="https://www.jetbrains.com/datagrip/features/mysql.html?source=google&medium=cpc&campaign=15034928143&term=mysql%20database&content=555193029526&gad=1&gclid=CjwKCAjw04yjBhApEiwAJcvNoahL3qw75El-chd3PfGLPy1Fum2QSxWzdmqTz3XC81wU2OfgkFR-SBoCuM4QAvD_BwE" target="_blank" rel="noreferrer"><img src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b" alt="MYSQL" width="40" height="40"/></a> 
 <a href="https://mariadb.com/" target="_blank" rel="noreferrer"><img src="https://assets-global.website-files.com/60d9fbbfcd9fcb40bad8aac3/6451761b40606908b92b526c_mariadb.png" alt="MARIADB" width="40" height="40"/></a>
 <a href="https://filezilla-project.org/" target="_blank" rel="noreferrer"><img src="https://www.appdeploynews.com/wp-content/uploads/2022/08/filezilla_icon.png" alt="FILEZILLA" width="40" height="40"/></a>
