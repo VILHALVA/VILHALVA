@@ -70,8 +70,6 @@
 <a href="https://replit.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/https://replit.com/" alt="REPLIT" width="40" height="40"/></a>
 <a href="https://grammy.dev/" target="_blank" rel="noreferrer"><img src="https://grammy.dev/images/Y.png" alt="GRAMMY" width="40" height="40"/></a>
  
-# THE END
- 
 <img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/><br>
  
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
