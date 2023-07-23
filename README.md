@@ -34,8 +34,6 @@
 
 # 👨‍💻COMO PROGRAMADOR:
 ## [( 01 ) CRIAÇÃO DE SITES](https://vilhalva.github.io/STYLER/STYLER.html)
-
-### 💙FRONT-END:
 <a href="https://github.com/VILHALVA/CURSO-DE-HTML-CSS-JS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-HTML-CSS-JS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JAVASCRIPT" width="40" height="40"/></a>
@@ -44,7 +42,6 @@
 <a href="https://youtube.com/playlist?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2" target="_blank" rel="noreferrer"><img src="https://ps.w.org/reactpress/assets/icon-256x256.png?rev=2471443" alt="WORDPRESS" width="40" height="40"/></a>
 <a href="https://pages.github.com/" target="_blank" rel="noreferrer"><img src="https://wowmoron.files.wordpress.com/2013/10/github.png" alt="GITHUB PAGES" width="40" height="40"/></a>
 
-### 🖤BACK-END:
 <a href="https://nodejs.org/pt-br/download/package-manager" target="_blank" rel="noreferrer"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2018/05/Artboard_4.png" alt="NODEJS" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/datagrip/features/mysql.html?source=google&medium=cpc&campaign=15034928143&term=mysql%20database&content=555193029526&gad=1&gclid=CjwKCAjw04yjBhApEiwAJcvNoahL3qw75El-chd3PfGLPy1Fum2QSxWzdmqTz3XC81wU2OfgkFR-SBoCuM4QAvD_BwE" target="_blank" rel="noreferrer"><img src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b" alt="MYSQL" width="40" height="40"/></a> 
 <a href="https://mariadb.com/" target="_blank" rel="noreferrer"><img src="https://assets-global.website-files.com/60d9fbbfcd9fcb40bad8aac3/6451761b40606908b92b526c_mariadb.png" alt="MARIADB" width="40" height="40"/></a>
@@ -58,6 +55,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-KOTLIN" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="KOTLIN" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer">
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/xmldoc/" target="_blank" rel="noreferrer"><img src="https://pt.seaicons.com/wp-content/uploads/2015/07/Other-xml-icon.png" alt="XML" width="40" height="40"/></a> 
 <a href="https://netbeans.apache.org/download/index.html" target="_blank" rel="noreferrer"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2018/11/frame256.png" alt="NETBEANS" width="40" height="40"/></a>
+<a href="https://www.eclipse.org/downloads/" target="_blank" rel="noreferrer"><img src="https://www.shareicon.net/download/2016/06/25/618313_eclipse.ico" alt="ECLIPSE" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-ANDROID-STUDIO" target="_blank" rel="noreferrer"><img src="https://developer.android.com/static/studio/images/android-studio-canary.svg" alt="ANDROID STUDIO" width="40" height="40"/></a>
 <a href="firebase.google.com" target="_blank" rel="noreferrer"><img src="https://firebaseopensource.com/logo-small.png" alt="FIREBASE" width="40" height="40"/></a>
 
