@@ -51,7 +51,7 @@
 <a href="https://www.wampserver.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/WampServer.png" alt="WAMPSERVER" width="40" height="40"/></a>
 
 ## [( 02 ) CRIAÇÃO DE APLICATIVOS](https://github.com/VILHALVA/CURSO-ANDROID-STUDIO)
-<a href="https://github.com/VILHALVA/CURSO-DE-JAVA" target="_blank" rel="noreferrer"><img src="https://gabrielaugusto.me/wp-content/uploads/2021/06/Java_Logo.png" alt="JAVA" width="40" height="40"/></a> 
+<a href="https://github.com/VILHALVA/CURSO-DE-JAVA" target="_blank" rel="noreferrer"><img src="https://softmany.com/wp-content/uploads/2017/08/Java-Runtime-Environment-for-Windows.png" alt="JAVA" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-KOTLIN" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="KOTLIN" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer">
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/xmldoc/" target="_blank" rel="noreferrer"><img src="https://pt.seaicons.com/wp-content/uploads/2015/07/Other-xml-icon.png" alt="XML" width="40" height="40"/></a> 
 <a href="https://netbeans.apache.org/download/index.html" target="_blank" rel="noreferrer"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2018/11/frame256.png" alt="NETBEANS" width="40" height="40"/></a>
