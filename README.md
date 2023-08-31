@@ -67,6 +67,9 @@
 <a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank" rel="noreferrer"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/05/pycharm_logo_256.png" alt="PYCHARM" width="40" height="40"/></a>
 <a href="https://replit.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/https://replit.com/" alt="REPLIT" width="40" height="40"/></a>
 <a href="https://grammy.dev/" target="_blank" rel="noreferrer"><img src="https://grammy.dev/images/Y.png" alt="GRAMMY" width="40" height="40"/></a>
+
+## 🤖VIDEOS DO YOUTUBE:
+* [CLIQUE AQUI PARA ASSISTIR O MEU GITHUB ME 31/08/2023](https://youtu.be/-QZZ2VQ9Dxk?si=iHdiWAHkYH0qUvmm)
  
 <img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/><br>
  
