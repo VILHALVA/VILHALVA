@@ -69,7 +69,7 @@
 <a href="https://grammy.dev/" target="_blank" rel="noreferrer"><img src="https://grammy.dev/images/Y.png" alt="GRAMMY" width="40" height="40"/></a>
 
 # 🤖VIDEOS DO YOUTUBE:
-* [CLIQUE AQUI PARA ASSISTIR O MEU GITHUB ME 31/08/2023](https://youtu.be/-QZZ2VQ9Dxk?si=iHdiWAHkYH0qUvmm)
+* [CLIQUE AQUI PARA ASSISTIR O MEU GITHUB EM 31/08/2023](https://youtu.be/-QZZ2VQ9Dxk?si=iHdiWAHkYH0qUvmm)
  
 <img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/><br>
  
