@@ -42,7 +42,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-WORDPRESS" target="_blank" rel="noreferrer"><img src="https://ps.w.org/reactpress/assets/icon-256x256.png?rev=2471443" alt="WORDPRESS" width="40" height="40"/></a>
 <a href="https://pages.github.com/" target="_blank" rel="noreferrer"><img src="https://wowmoron.files.wordpress.com/2013/10/github.png" alt="GITHUB PAGES" width="40" height="40"/></a>
 
-<a href="https://github.com/VILHALVA/CURSO-DE-GITHUB" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:512/0*Vuhz0hRDra5tHo-B.jpg" alt="GITHUB" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-GITHUB" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/f3a65fc948406472ca95fef4e34afa706822a836ba3853eb9c99c3ce63d56da6/68747470733a2f2f64617368626f6172642e736e617063726166742e696f2f736974655f6d656469612f6170706d656469612f323031372f30372f6769742d6769746875622d6875622d69636f6e2d32352e706e67" alt="GITHUB" width="40" height="40"/></a>
 <a href="https://nodejs.org/pt-br/download/package-manager" target="_blank" rel="noreferrer"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2018/05/Artboard_4.png" alt="NODEJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-MYSQL" target="_blank" rel="noreferrer"><img src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b" alt="MYSQL" width="40" height="40"/></a> 
 <a href="https://mariadb.com/" target="_blank" rel="noreferrer"><img src="https://assets-global.website-files.com/60d9fbbfcd9fcb40bad8aac3/6451761b40606908b92b526c_mariadb.png" alt="MARIADB" width="40" height="40"/></a>
