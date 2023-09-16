@@ -18,6 +18,6 @@ Pouca gente sabe disso, mas além da programação, eu me dedico a várias outra
 * **7) ADMINISTRADOR:** Desde cedo, cuido de planilhas e auxilio na gestão empresarial.
 
 ## CONCLUSÃO: 
-Eu não sou apenas um programador, estou ocupado cuidando dessas áreas mencionadas. Decidi listar apenas essas 6 para não assustar quem está começando 😂.
+Eu não sou apenas um programador, estou ocupado cuidando dessas áreas mencionadas. Decidi listar apenas essas áreas para não assustar quem está começando 😂.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient" alt="waving">
