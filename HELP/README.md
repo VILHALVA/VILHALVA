@@ -8,11 +8,13 @@ Você pode fazer uma doação em qualquer valor via PIX:
     ```
     03333113295
     ```
+* **02) AJUDANDO NO GRUPO:**
+Você pode ajudar os membros no grupo [@CODIGOGP](https://t.me/CODIGOGP).
 
-* **02) CONTRIBUIR NO GITHUB:**
+* **03) CONTRIBUIR NO GITHUB:**
 Se você deseja melhorar algum curso/projeto, pode fazer um `Fork` do repositório e enviar um `PR` (Pull Request). Se eu gostar muito do resultado, posso fazer o `merge` e incorporar as suas contribuições.
 
-* **03) DIVULGANDO:**
+* **04) DIVULGANDO:**
 Se você não tem dinheiro, ou ainda não sabe programar, pode nos ajudar divulgando nosso trabalho em suas redes sociais e canais de comunicação:
 
 - [GRUPO NO TELEGRAM](https://t.me/CODIGOGP)
