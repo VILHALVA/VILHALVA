@@ -8,8 +8,8 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
 # 👶SUBSIDIOS:
-<a href="https://github.com/VILHALVA/CURSO-DE-ALGORITMO" target="_blank"><img src="https://img.shields.io/badge/SE%20FOR%20NOVATO%20CLIQUE%20AQUI-FF00FF?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=" target="_blank"><img src="https://img.shields.io/badge/MEUS%20CURSOS-FF0000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-PORTUGOL" target="_blank"><img src="https://img.shields.io/badge/SE%20FOR%20NOVATO%20CLIQUE%20AQUI-FF00FF?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=CURSO&type=&language=&sort=" target="_blank"><img src="https://img.shields.io/badge/MEUS%20CURSOS-FF0000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=PROJETO&type=public&language=&sort=" target="_blank"><img src="https://img.shields.io/badge/MEUS%20PROJETOS-FFF000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=APP&type=public&language=&sort=" target="_blank"><img src="https://img.shields.io/badge/MINHAS%20APLICAÇÕES-FFF000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://github.com/VILHALVA?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/MEUS%20REPOSITÓRIOS-00FF00?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
