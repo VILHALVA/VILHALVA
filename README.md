@@ -26,7 +26,6 @@
 [![GitHub Repo stars](https://img.shields.io/badge/MEU-CANAL-03A9F4?logo=youtube)](https://www.youtube.com/channel/UCmSPU_gp3NA7a8pb5Iwy3lQ)
 [![GitHub Repo stars](https://img.shields.io/badge/MEU-FACEBOOK-03A9F4?logo=facebook)](https://facebook.com/VILHALVA100)
 [![GitHub Repo stars](https://img.shields.io/badge/MEU-INSTAGRAM-03A9F4?logo=instagram)](https://www.instagram.com/vilhalva100/)
-[![GitHub Repo stars](https://img.shields.io/badge/MEU-TIKTOK-03A9F4?logo=tiktok)](https://www.tiktok.com/@vilhalva100?is_from_webapp=1&sender_device=pc)
 
 # 👨‍💻COMO PROGRAMADOR:
 ## [( 01 ) CRIAÇÃO DE SITES](https://vilhalva.github.io/STYLER/STYLER.html)
