@@ -29,8 +29,8 @@
 
 # 👨‍💻COMO PROGRAMADOR:
 ## [( 01 ) CRIAÇÃO DE SITES](https://vilhalva.github.io/STYLER/STYLER.html)
-<a href="https://github.com/VILHALVA/CURSO-DE-HTML-CSS-JS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a> 
-<a href="https://github.com/VILHALVA/CURSO-DE-HTML-CSS-JS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a> 
+<a href="https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a> 
+<a href="https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JAVASCRIPT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PHP" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a> 
 <a href="https://www.jetbrains.com/phpstorm/promo/?source=google&medium=cpc&campaign=14335686198&term=phpstorm&content=604024578915&gad=1&gclid=CjwKCAjw04yjBhApEiwAJcvNodJJSRvn5GkKrcAkTmu9UAKn2DdQ4RhuWb86Bn6_1mxa8torGAik5BoCEBkQAvD_BwE" target="_blank" rel="noreferrer"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/webide.ico_HA9tBL0.png" alt="PHP STORM" width="40" height="40"/></a>
@@ -53,7 +53,7 @@
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/xmldoc/" target="_blank" rel="noreferrer"><img src="https://pt.seaicons.com/wp-content/uploads/2015/07/Other-xml-icon.png" alt="XML" width="40" height="40"/></a> 
 <a href="https://netbeans.apache.org/download/index.html" target="_blank" rel="noreferrer"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2018/11/frame256.png" alt="NETBEANS" width="40" height="40"/></a>
 <a href="https://www.eclipse.org/downloads/" target="_blank" rel="noreferrer"><img src="https://www.shareicon.net/download/2016/06/25/618313_eclipse.ico" alt="ECLIPSE" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-ANDROID-STUDIO" target="_blank" rel="noreferrer"><img src="https://developer.android.com/static/studio/images/android-studio-canary.svg" alt="ANDROID STUDIO" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-ANDROID-STUDIO" target="_blank" rel="noreferrer"><img src="https://developer.android.com/static/studio/images/android-studio-canary.svg" alt="ANDROID STUDIO" width="40" height="40"/></a>
 <a href="firebase.google.com" target="_blank" rel="noreferrer"><img src="https://firebaseopensource.com/logo-small.png" alt="FIREBASE" width="40" height="40"/></a>
 
 ## [( 03 ) CRIAÇÃO DE ROBÔS](https://github.com/VILHALVA/TELEGRAM-BOT)
@@ -61,6 +61,8 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-TYPESCRIPT" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png" alt="TYPECRIPT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LUA" target="_blank" rel="noreferrer"><img src="https://castalio.info/images/lua.png" alt="LUA" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-GOLANG" target="_blank" rel="noreferrer"><img src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/altgiuwyavczlcflyh8c" alt="GO" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-RUBY" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/256/919/919842.png" alt="RUBY" width="40" height="40"/></a>
+
 <a href="https://github.com/VILHALVA/TELEGRAM-BOT" target="_blank" rel="noreferrer"><img src="https://osx.telegram.org/updates/site/logo.png" alt="TELEGRAM" width="40" height="40"/></a>
 <a href="https://visualstudio.microsoft.com/pt-br/" target="_blank" rel="noreferrer"><img src="https://code.visualstudio.com/assets/apple-touch-icon.png" alt="VISUAL STUDIO CODE" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank" rel="noreferrer"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/05/pycharm_logo_256.png" alt="PYCHARM" width="40" height="40"/></a>
