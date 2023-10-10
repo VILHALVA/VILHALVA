@@ -38,6 +38,8 @@
 <a href="https://www.mongodb.com/pt-br" target="_blank" rel="noreferrer"><img src="https://terracloudx.com/wp-content/uploads/2020/07/icono-mongo.png" alt="MONGODB" width="40" height="40"/></a>
 
 <a href="https://github.com/VILHALVA/CURSO-DE-GITHUB" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/f3a65fc948406472ca95fef4e34afa706822a836ba3853eb9c99c3ce63d56da6/68747470733a2f2f64617368626f6172642e736e617063726166742e696f2f736974655f6d656469612f6170706d656469612f323031372f30372f6769742d6769746875622d6875622d69636f6e2d32352e706e67" alt="GITHUB" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-LINUX" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" alt="LINUX" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-BASES-NUMERICAS" target="_blank" rel="noreferrer"><img src="https://pt.calcuworld.com/wp-content/uploads/sites/6/2019/11/binaria.png" alt="BASES NUMERICAS" width="40" height="40"/></a>
 <a href="https://pages.github.com/" target="_blank" rel="noreferrer"><img src="https://wowmoron.files.wordpress.com/2013/10/github.png" alt="GITHUB PAGES" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/phpstorm/promo/?source=google&medium=cpc&campaign=14335686198&term=phpstorm&content=604024578915&gad=1&gclid=CjwKCAjw04yjBhApEiwAJcvNodJJSRvn5GkKrcAkTmu9UAKn2DdQ4RhuWb86Bn6_1mxa8torGAik5BoCEBkQAvD_BwE" target="_blank" rel="noreferrer"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/webide.ico_HA9tBL0.png" alt="PHP STORM" width="40" height="40"/></a>
 <a href="https://www.apachefriends.org/pt_br/index.html" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/xampp-icon-256x256-yyclalg7.png" alt="XAMPP" width="40" height="40"/></a>
@@ -53,6 +55,7 @@
 <a href="firebase.google.com" target="_blank" rel="noreferrer"><img src="https://firebaseopensource.com/logo-small.png" alt="FIREBASE" width="40" height="40"/></a>
 
 ## [( 03 ) CRIAÇÃO DE ROBÔS](https://github.com/VILHALVA/TELEGRAM-BOT)
+<a href="https://github.com/VILHALVA/CURSO-DE-PORTUGOL" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/7NhwxJq45jv0Z1rerLLPZFtLnz2WZmqqmhwQ1uRgtv2o1wTsERjh_OT8vKYN0C_vig" alt="PORTUGOL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PYTHON" target="_blank" rel="noreferrer"><img src="https://cdn.ccdc.cam.ac.uk/content/images/products/Product-Python.png" alt="PYTHON" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-TYPESCRIPT" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png" alt="TYPECRIPT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LUA" target="_blank" rel="noreferrer"><img src="https://castalio.info/images/lua.png" alt="LUA" width="40" height="40"/></a>
