@@ -69,7 +69,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-SWIFT" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/8f/50/63/8f50630ae0e1775196e4c270c573ce67.png" alt="SWIFT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-ASSEMBLY" target="_blank" rel="noreferrer"><img src="https://iconape.com/wp-content/png_logo_vector/general-assembly-logo.png" alt="ASSEMBLY" width="40" height="40"/></a>
 
-<a href="https://github.com/VILHALVA/TELEGRAM-BOT" target="_blank" rel="noreferrer"><img src="https://osx.telegram.org/updates/site/logo.png" alt="TELEGRAM" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-TELEGRAM-BOT" target="_blank" rel="noreferrer"><img src="https://osx.telegram.org/updates/site/logo.png" alt="TELEGRAM" width="40" height="40"/></a>
 <a href="https://visualstudio.microsoft.com/pt-br/" target="_blank" rel="noreferrer"><img src="https://code.visualstudio.com/assets/apple-touch-icon.png" alt="VISUAL STUDIO CODE" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank" rel="noreferrer"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/05/pycharm_logo_256.png" alt="PYCHARM" width="40" height="40"/></a>
 <a href="https://replit.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/https://replit.com/" alt="REPLIT" width="40" height="40"/></a>
