@@ -17,11 +17,6 @@ Se você deseja melhorar algum curso/projeto, pode fazer um `Fork` do repositór
 * **04) DIVULGANDO:**
 Se você não tem dinheiro, ou ainda não sabe programar, pode nos ajudar divulgando nosso trabalho em suas redes sociais e canais de comunicação:
 
-- [GRUPO NO TELEGRAM](https://t.me/CODIGOGP)
-    ```
-    https://t.me/CODIGOGP
-    ```
-
 - [CANAL NO TELEGRAM](https://t.me/CODIGOCN)
     ```
     https://t.me/CODIGOCN
