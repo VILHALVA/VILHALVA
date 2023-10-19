@@ -16,6 +16,7 @@
 <a href="https://vilhalva.github.io/STYLER/STYLER.html" target="_blank"><img src="https://img.shields.io/badge/MEU%20PRIMEIRO%20SITE-0000FF?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
 <a href="https://github.com/VILHALVA/VILHALVA/tree/main/HELP" target="_blank"><img src="https://img.shields.io/badge/NOS%20AJUDE-0000FF?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
 <a href="https://github.com/VILHALVA/VILHALVA/tree/main/MAIS%20SOBRE%20MIM" target="_blank"><img src="https://img.shields.io/badge/ME%20CONHEÇA%20MAIS-0000FF?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
+<a href="https://telegra.ph/FREELANCER-10-19-9" target="_blank"><img src="https://img.shields.io/badge/SOU%20FREELANCER-00F0FF?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
 
 # 🌚REDES SOCIAIS:
 [![GitHub Repo stars](https://img.shields.io/badge/CODIGOS-CANAL-03A9F4?logo=telegram)](https://t.me/CODIGOCN) 
