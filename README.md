@@ -90,7 +90,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-HARDWARE" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2996/2996730.png" alt="HARDWARE" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-BASES-NUMERICAS" target="_blank" rel="noreferrer"><img src="https://pt.calcuworld.com/wp-content/uploads/sites/6/2019/11/binaria.png" alt="BASES NUMERICAS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-SEGURANCA-DA-INFORMACAO" target="_blank" rel="noreferrer"><img src="https://www.pillarescompliance.com.br/wp-content/uploads/2020/07/VETOR-LGPD03-e1594658104518.png" alt="SEGURANÇA DA INFORMAÇÃO" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-FREELANCER" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2648/PNG/512/logo_freelancer_com_icon_160826.png" alt="FREELANCER" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-FREELANCER" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/F/freelancer-com-logo-2B5CE1A961-seeklogo.com.png" alt="FREELANCER" width="40" height="40"/></a>
  
 <img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/><br>
  
