@@ -26,6 +26,16 @@
 [![GitHub Repo stars](https://img.shields.io/badge/MEU-INSTAGRAM-03A9F4?logo=instagram)](https://www.instagram.com/vilhalva100/)
 
 # 👨‍💻COMO PROGRAMADOR:
+## ( 00 ) GERAL:
+<a href="https://github.com/VILHALVA/CURSO-DE-PORTUGOL" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/7NhwxJq45jv0Z1rerLLPZFtLnz2WZmqqmhwQ1uRgtv2o1wTsERjh_OT8vKYN0C_vig" alt="PORTUGOL" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-GITHUB" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/f3a65fc948406472ca95fef4e34afa706822a836ba3853eb9c99c3ce63d56da6/68747470733a2f2f64617368626f6172642e736e617063726166742e696f2f736974655f6d656469612f6170706d656469612f323031372f30372f6769742d6769746875622d6875622d69636f6e2d32352e706e67" alt="GITHUB" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-LINUX" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" alt="LINUX" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-REDES-DE-COMPUTADORES" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/D4D12AQFkRm2lkCmBKw/article-cover_image-shrink_720_1280/0/1690344430788?e=2147483647&v=beta&t=Tf0i_SU-qN53WsrYIVe_ui_w-XW5Y5iLVxgXYo7Yvik" alt="REDES DE COMPUTADORES" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-HARDWARE" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2996/2996730.png" alt="HARDWARE" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-BASES-NUMERICAS" target="_blank" rel="noreferrer"><img src="https://pt.calcuworld.com/wp-content/uploads/sites/6/2019/11/binaria.png" alt="BASES NUMERICAS" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-SEGURANCA-DA-INFORMACAO" target="_blank" rel="noreferrer"><img src="https://www.pillarescompliance.com.br/wp-content/uploads/2020/07/VETOR-LGPD03-e1594658104518.png" alt="SEGURANÇA DA INFORMAÇÃO" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-FREELANCER" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/F/freelancer-com-logo-2B5CE1A961-seeklogo.com.png" alt="FREELANCER" width="40" height="40"/></a>
+
 ## [( 01 ) CRIAÇÃO DE SITES](https://vilhalva.github.io/STYLER/STYLER.html)
 <a href="https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a> 
@@ -47,6 +57,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-EXPRESSJS" target="_blank" rel="noreferrer"><img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="EXPRESSJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-EMBERJS" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/6/69/Ember.js_Logo_and_Mascot.png" alt="EMBERJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LARAVEL" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="LARAVEL" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-METEORJS" target="_blank" rel="noreferrer"><img src="https://cdn-images-1.medium.com/max/1200/1*FdeBErU2RfeGE51lT0XXfw.png" alt="METEORJS" width="40" height="40"/></a>
 
 <a href="https://pages.github.com/" target="_blank" rel="noreferrer"><img src="https://wowmoron.files.wordpress.com/2013/10/github.png" alt="GITHUB PAGES" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/phpstorm/promo/?source=google&medium=cpc&campaign=14335686198&term=phpstorm&content=604024578915&gad=1&gclid=CjwKCAjw04yjBhApEiwAJcvNodJJSRvn5GkKrcAkTmu9UAKn2DdQ4RhuWb86Bn6_1mxa8torGAik5BoCEBkQAvD_BwE" target="_blank" rel="noreferrer"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/webide.ico_HA9tBL0.png" alt="PHP STORM" width="40" height="40"/></a>
@@ -81,16 +92,6 @@
 <a href="https://visualstudio.microsoft.com/pt-br/" target="_blank" rel="noreferrer"><img src="https://code.visualstudio.com/assets/apple-touch-icon.png" alt="VISUAL STUDIO CODE" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank" rel="noreferrer"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/05/pycharm_logo_256.png" alt="PYCHARM" width="40" height="40"/></a>
 <a href="https://replit.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/https://replit.com/" alt="REPLIT" width="40" height="40"/></a>
-
-## ( 00 ) OUTROS:
-<a href="https://github.com/VILHALVA/CURSO-DE-PORTUGOL" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/7NhwxJq45jv0Z1rerLLPZFtLnz2WZmqqmhwQ1uRgtv2o1wTsERjh_OT8vKYN0C_vig" alt="PORTUGOL" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-GITHUB" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/f3a65fc948406472ca95fef4e34afa706822a836ba3853eb9c99c3ce63d56da6/68747470733a2f2f64617368626f6172642e736e617063726166742e696f2f736974655f6d656469612f6170706d656469612f323031372f30372f6769742d6769746875622d6875622d69636f6e2d32352e706e67" alt="GITHUB" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-LINUX" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" alt="LINUX" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-REDES-DE-COMPUTADORES" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/D4D12AQFkRm2lkCmBKw/article-cover_image-shrink_720_1280/0/1690344430788?e=2147483647&v=beta&t=Tf0i_SU-qN53WsrYIVe_ui_w-XW5Y5iLVxgXYo7Yvik" alt="REDES DE COMPUTADORES" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-HARDWARE" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2996/2996730.png" alt="HARDWARE" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-BASES-NUMERICAS" target="_blank" rel="noreferrer"><img src="https://pt.calcuworld.com/wp-content/uploads/sites/6/2019/11/binaria.png" alt="BASES NUMERICAS" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-SEGURANCA-DA-INFORMACAO" target="_blank" rel="noreferrer"><img src="https://www.pillarescompliance.com.br/wp-content/uploads/2020/07/VETOR-LGPD03-e1594658104518.png" alt="SEGURANÇA DA INFORMAÇÃO" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-FREELANCER" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/F/freelancer-com-logo-2B5CE1A961-seeklogo.com.png" alt="FREELANCER" width="40" height="40"/></a>
  
 <img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/><br>
  
