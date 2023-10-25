@@ -58,6 +58,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-EMBERJS" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/6/69/Ember.js_Logo_and_Mascot.png" alt="EMBERJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LARAVEL" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="LARAVEL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-METEORJS" target="_blank" rel="noreferrer"><img src="https://cdn-images-1.medium.com/max/1200/1*FdeBErU2RfeGE51lT0XXfw.png" alt="METEORJS" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-RUBYONRAILS" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/915/10/png-transparent-web-development-ruby-on-rails-computer-icons-rails-text-logo-web-application-thumbnail.png" alt="RUBYONRAILS" width="40" height="40"/></a>
 
 <a href="https://pages.github.com/" target="_blank" rel="noreferrer"><img src="https://wowmoron.files.wordpress.com/2013/10/github.png" alt="GITHUB PAGES" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/phpstorm/promo/?source=google&medium=cpc&campaign=14335686198&term=phpstorm&content=604024578915&gad=1&gclid=CjwKCAjw04yjBhApEiwAJcvNodJJSRvn5GkKrcAkTmu9UAKn2DdQ4RhuWb86Bn6_1mxa8torGAik5BoCEBkQAvD_BwE" target="_blank" rel="noreferrer"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/webide.ico_HA9tBL0.png" alt="PHP STORM" width="40" height="40"/></a>
