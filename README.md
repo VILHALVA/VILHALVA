@@ -61,6 +61,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-RUBYONRAILS" target="_blank" rel="noreferrer"><img src="https://download.logo.wine/logo/Ruby_on_Rails/Ruby_on_Rails-Logo.wine.png" alt="RUBYONRAILS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PRISMA" target="_blank" rel="noreferrer"><img src="https://dev-prisma.com.br/wp-content/uploads/2023/01/logo-prisma-icon.png" alt="PRISMA" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-BOOTSTRAP" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="BOOTSTRAP" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-DJANGO" target="_blank" rel="noreferrer"><img src="https://petbcc.ufscar.br/media/django.png" alt="DJANGO" width="40" height="40"/></a>
 
 <a href="https://pages.github.com/" target="_blank" rel="noreferrer"><img src="https://wowmoron.files.wordpress.com/2013/10/github.png" alt="GITHUB PAGES" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/phpstorm/promo/?source=google&medium=cpc&campaign=14335686198&term=phpstorm&content=604024578915&gad=1&gclid=CjwKCAjw04yjBhApEiwAJcvNodJJSRvn5GkKrcAkTmu9UAKn2DdQ4RhuWb86Bn6_1mxa8torGAik5BoCEBkQAvD_BwE" target="_blank" rel="noreferrer"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/webide.ico_HA9tBL0.png" alt="PHP STORM" width="40" height="40"/></a>
