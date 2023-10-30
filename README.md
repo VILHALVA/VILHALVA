@@ -35,6 +35,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-BASES-NUMERICAS" target="_blank" rel="noreferrer"><img src="https://pt.calcuworld.com/wp-content/uploads/sites/6/2019/11/binaria.png" alt="BASES NUMERICAS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-SEGURANCA-DA-INFORMACAO" target="_blank" rel="noreferrer"><img src="https://www.pillarescompliance.com.br/wp-content/uploads/2020/07/VETOR-LGPD03-e1594658104518.png" alt="SEGURANÇA DA INFORMAÇÃO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-FREELANCER" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/F/freelancer-com-logo-2B5CE1A961-seeklogo.com.png" alt="FREELANCER" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-MARKETING" target="_blank" rel="noreferrer"><img src="https://styles.redditmedia.com/t5_3iqxs/styles/communityIcon_gqfp5bxqojs31.png" alt="MARKETING" width="40" height="40"/></a>
 
 ## [( 01 ) CRIAÇÃO DE SITES](https://vilhalva.github.io/STYLER/STYLER.html)
 <a href="https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a> 
