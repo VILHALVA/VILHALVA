@@ -96,7 +96,9 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-PASCAL" target="_blank" rel="noreferrer"><img src="https://cryptologos.cc/logos/pascal-pasc-logo.png" alt="PASCAL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-SWIFT" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/8f/50/63/8f50630ae0e1775196e4c270c573ce67.png" alt="SWIFT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-ASSEMBLY" target="_blank" rel="noreferrer"><img src="https://iconape.com/wp-content/png_logo_vector/general-assembly-logo.png" alt="ASSEMBLY" width="40" height="40"/></a>
+
 <a href="https://github.com/VILHALVA/CURSO-DE-TELEGRAM-BOT" target="_blank" rel="noreferrer"><img src="https://osx.telegram.org/updates/site/logo.png" alt="TELEGRAM" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-AUTOMACAO" target="_blank" rel="noreferrer"><img src="https://indicca.com.br/wp-content/uploads/2019/04/automa%C3%A7%C3%A3o-industrial.png" alt="AUTOMACAO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-INTELIGENCIA-ARTIFICIAL" target="_blank" rel="noreferrer"><img src="https://static.wixstatic.com/media/a6a326_c0e26bbc966a4d74ae68ef12ebe95b3c~mv2.png/v1/fill/w_347,h_347,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ChatGPT.png" alt="IA" width="45" height="45"/></a>
 
 <a href="https://visualstudio.microsoft.com/pt-br/" target="_blank" rel="noreferrer"><img src="https://code.visualstudio.com/assets/apple-touch-icon.png" alt="VISUAL STUDIO CODE" width="40" height="40"/></a>
