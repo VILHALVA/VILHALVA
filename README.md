@@ -100,6 +100,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-TELEGRAM-BOT" target="_blank" rel="noreferrer"><img src="https://osx.telegram.org/updates/site/logo.png" alt="TELEGRAM" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-CHATBOT" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/1698/1698586.png" alt="CHATBOT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-AUTOMACAO" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/8188/8188077.png" alt="AUTOMACAO" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-BOTPRESS" target="_blank" rel="noreferrer"><img src="https://products.containerize.com/live-chat/botpress/menu_image.png" alt="BOTPRESS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-INTELIGENCIA-ARTIFICIAL" target="_blank" rel="noreferrer"><img src="https://static.wixstatic.com/media/a6a326_c0e26bbc966a4d74ae68ef12ebe95b3c~mv2.png/v1/fill/w_347,h_347,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ChatGPT.png" alt="IA" width="45" height="45"/></a>
 
 <a href="https://visualstudio.microsoft.com/pt-br/" target="_blank" rel="noreferrer"><img src="https://code.visualstudio.com/assets/apple-touch-icon.png" alt="VISUAL STUDIO CODE" width="40" height="40"/></a>
