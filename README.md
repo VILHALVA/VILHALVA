@@ -26,7 +26,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/MEU-INSTAGRAM-03A9F4?logo=instagram)](https://www.instagram.com/vilhalva100/)
 
 # 👨‍💻COMO PROGRAMADOR:
-## ( 00 ) GERAL
+## [( 00 ) GERAL](https://github.com/VILHALVA?tab=repositories&q=PROJETO&type=&language=&sort=)
 <a href="https://github.com/VILHALVA/CURSO-DE-PORTUGOL" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/7NhwxJq45jv0Z1rerLLPZFtLnz2WZmqqmhwQ1uRgtv2o1wTsERjh_OT8vKYN0C_vig" alt="PORTUGOL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-GITHUB" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/f3a65fc948406472ca95fef4e34afa706822a836ba3853eb9c99c3ce63d56da6/68747470733a2f2f64617368626f6172642e736e617063726166742e696f2f736974655f6d656469612f6170706d656469612f323031372f30372f6769742d6769746875622d6875622d69636f6e2d32352e706e67" alt="GITHUB" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LINUX" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" alt="LINUX" width="40" height="40"/></a>
@@ -38,7 +38,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-MARKETING" target="_blank" rel="noreferrer"><img src="https://styles.redditmedia.com/t5_3iqxs/styles/communityIcon_gqfp5bxqojs31.png" alt="MARKETING" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-ANUNCIOS" target="_blank" rel="noreferrer"><img src="https://i0.wp.com/convidar.net/blog/wp-content/uploads/2018/11/publicar-anuncio-gratis-na-internet-google.png?fit=850%2C500&ssl=1" alt="ANUNCIOS" width="40" height="40"/></a>
 
-## [( 01 ) CRIAÇÃO DE SITES](https://vilhalva.github.io/STYLER/STYLER.html)
+## [( 01 ) CRIAÇÃO DE SITES](https://github.com/VILHALVA?tab=repositories&q=SITE&type=&language=&sort=)
 <a href="https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JAVASCRIPT" width="40" height="40"/></a>
@@ -74,7 +74,7 @@
 <a href="https://www.apachefriends.org/pt_br/index.html" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/xampp-icon-256x256-yyclalg7.png" alt="XAMPP" width="40" height="40"/></a>
 <a href="https://www.wampserver.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/WampServer.png" alt="WAMPSERVER" width="40" height="40"/></a>
 
-## [( 02 ) CRIAÇÃO DE APLICATIVOS](https://github.com/VILHALVA/CURSO-ANDROID-STUDIO)
+## [( 02 ) CRIAÇÃO DE APLICATIVOS](https://github.com/VILHALVA?tab=repositories&q=APLICATIVO&type=&language=&sort=)
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVA" target="_blank" rel="noreferrer"><img src="https://softmany.com/wp-content/uploads/2017/08/Java-Runtime-Environment-for-Windows.png" alt="JAVA" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-KOTLIN" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="KOTLIN" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer">
 <a href="https://github.com/VILHALVA/CURSO-DE-XML" target="_blank" rel="noreferrer"><img src="https://pt.seaicons.com/wp-content/uploads/2015/07/Other-xml-icon.png" alt="XML" width="40" height="40"/></a> 
@@ -85,7 +85,7 @@
 <a href="https://www.eclipse.org/downloads/" target="_blank" rel="noreferrer"><img src="https://www.shareicon.net/download/2016/06/25/618313_eclipse.ico" alt="ECLIPSE" width="40" height="40"/></a>
 <a href="firebase.google.com" target="_blank" rel="noreferrer"><img src="https://firebaseopensource.com/logo-small.png" alt="FIREBASE" width="40" height="40"/></a>
 
-## [( 03 ) CRIAÇÃO DE ROBÔS](https://github.com/VILHALVA/TELEGRAM-BOT)
+## [( 03 ) CRIAÇÃO DE ROBÔS](https://github.com/VILHALVA?tab=repositories&q=BOT&type=&language=&sort=)
 <a href="https://github.com/VILHALVA/CURSO-DE-PYTHON" target="_blank" rel="noreferrer"><img src="https://cdn.ccdc.cam.ac.uk/content/images/products/Product-Python.png" alt="PYTHON" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LUA" target="_blank" rel="noreferrer"><img src="https://castalio.info/images/lua.png" alt="LUA" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-GOLANG" target="_blank" rel="noreferrer"><img src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/altgiuwyavczlcflyh8c" alt="GO" width="40" height="40"/></a>
