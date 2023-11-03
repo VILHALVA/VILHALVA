@@ -95,7 +95,6 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-RUST" target="_blank" rel="noreferrer"><img src="https://www.freecodecamp.org/news/content/images/2021/01/rust-mascot.png" alt="RUST" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-C" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/13/a8/94/13a89487b6a28c9fd6fee57cf6bc5e2c.png" alt="C" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-C-PLUS-PLUS" target="_blank" rel="noreferrer"><img src="https://logospng.org/download/c-plus-plus/c-plus-plus-4096.png" alt="C++" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-C-SHARP" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-csharp-1175240.png?f=webp&w=256" alt="C#" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PASCAL" target="_blank" rel="noreferrer"><img src="https://cryptologos.cc/logos/pascal-pasc-logo.png" alt="PASCAL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-SWIFT" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/8f/50/63/8f50630ae0e1775196e4c270c573ce67.png" alt="SWIFT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-ASSEMBLY" target="_blank" rel="noreferrer"><img src="https://iconape.com/wp-content/png_logo_vector/general-assembly-logo.png" alt="ASSEMBLY" width="40" height="40"/></a>
@@ -105,7 +104,11 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-AUTOMACAO" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/8188/8188077.png" alt="AUTOMACAO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-BOTPRESS" target="_blank" rel="noreferrer"><img src="https://products.containerize.com/live-chat/botpress/menu_image.png" alt="BOTPRESS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-INTELIGENCIA-ARTIFICIAL" target="_blank" rel="noreferrer"><img src="https://static.wixstatic.com/media/a6a326_c0e26bbc966a4d74ae68ef12ebe95b3c~mv2.png/v1/fill/w_347,h_347,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ChatGPT.png" alt="IA" width="45" height="45"/></a>
- 
+
+## [ ( 04 ) CRIAÇÃO DE JOGOS](https://github.com/VILHALVA?tab=repositories&q=+topic:JOGO)
+<a href="https://github.com/VILHALVA/CURSO-DE-C-SHARP" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-csharp-1175240.png?f=webp&w=256" alt="C#" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-UNITY" target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" alt="UNITY" width="40" height="40"/></a> <br>
+
 <img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/><br>
  
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
