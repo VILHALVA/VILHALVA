@@ -38,6 +38,17 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-MARKETING" target="_blank" rel="noreferrer"><img src="https://styles.redditmedia.com/t5_3iqxs/styles/communityIcon_gqfp5bxqojs31.png" alt="MARKETING" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-ANUNCIOS" target="_blank" rel="noreferrer"><img src="https://i0.wp.com/convidar.net/blog/wp-content/uploads/2018/11/publicar-anuncio-gratis-na-internet-google.png?fit=850%2C500&ssl=1" alt="ANUNCIOS" width="40" height="40"/></a>
 
+<a href="https://pages.github.com/" target="_blank" rel="noreferrer"><img src="https://wowmoron.files.wordpress.com/2013/10/github.png" alt="GITHUB PAGES" width="40" height="40"/></a>
+<a href="https://www.jetbrains.com/phpstorm/promo/?source=google&medium=cpc&campaign=14335686198&term=phpstorm&content=604024578915&gad=1&gclid=CjwKCAjw04yjBhApEiwAJcvNodJJSRvn5GkKrcAkTmu9UAKn2DdQ4RhuWb86Bn6_1mxa8torGAik5BoCEBkQAvD_BwE" target="_blank" rel="noreferrer"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/webide.ico_HA9tBL0.png" alt="PHP STORM" width="40" height="40"/></a>
+<a href="https://www.apachefriends.org/pt_br/index.html" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/xampp-icon-256x256-yyclalg7.png" alt="XAMPP" width="40" height="40"/></a>
+<a href="https://www.wampserver.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/WampServer.png" alt="WAMPSERVER" width="40" height="40"/></a>
+<a href="https://netbeans.apache.org/download/index.html" target="_blank" rel="noreferrer"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2018/11/frame256.png" alt="NETBEANS" width="40" height="40"/></a>
+<a href="https://www.eclipse.org/downloads/" target="_blank" rel="noreferrer"><img src="https://www.shareicon.net/download/2016/06/25/618313_eclipse.ico" alt="ECLIPSE" width="40" height="40"/></a>
+<a href="firebase.google.com" target="_blank" rel="noreferrer"><img src="https://firebaseopensource.com/logo-small.png" alt="FIREBASE" width="40" height="40"/></a>
+<a href="https://visualstudio.microsoft.com/pt-br/" target="_blank" rel="noreferrer"><img src="https://code.visualstudio.com/assets/apple-touch-icon.png" alt="VISUAL STUDIO CODE" width="40" height="40"/></a>
+<a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank" rel="noreferrer"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/05/pycharm_logo_256.png" alt="PYCHARM" width="40" height="40"/></a>
+<a href="https://replit.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/https://replit.com/" alt="REPLIT" width="40" height="40"/></a>
+
 ## [( 01 ) CRIAÇÃO DE SITES](https://github.com/VILHALVA?tab=repositories&q=+topic:SITE)
 <a href="https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a> 
@@ -69,23 +80,14 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-SVELTE" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" alt="SVELTE" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-SPRING-BOOT" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/640px-Spring_Boot.svg.png" alt="SPRING BOOT" width="40" height="40"/></a>
 
-<a href="https://pages.github.com/" target="_blank" rel="noreferrer"><img src="https://wowmoron.files.wordpress.com/2013/10/github.png" alt="GITHUB PAGES" width="40" height="40"/></a>
-<a href="https://www.jetbrains.com/phpstorm/promo/?source=google&medium=cpc&campaign=14335686198&term=phpstorm&content=604024578915&gad=1&gclid=CjwKCAjw04yjBhApEiwAJcvNodJJSRvn5GkKrcAkTmu9UAKn2DdQ4RhuWb86Bn6_1mxa8torGAik5BoCEBkQAvD_BwE" target="_blank" rel="noreferrer"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/webide.ico_HA9tBL0.png" alt="PHP STORM" width="40" height="40"/></a>
-<a href="https://www.apachefriends.org/pt_br/index.html" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/xampp-icon-256x256-yyclalg7.png" alt="XAMPP" width="40" height="40"/></a>
-<a href="https://www.wampserver.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/WampServer.png" alt="WAMPSERVER" width="40" height="40"/></a>
-
-## [( 02 ) CRIAÇÃO DE APLICATIVOS](https://github.com/VILHALVA?tab=repositories&q=APLICATIVO&type=&language=&sort=)
+## [( 02 ) CRIAÇÃO DE APLICATIVOS](https://github.com/VILHALVA?tab=repositories&q=+topic:APLICATIVO)
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVA" target="_blank" rel="noreferrer"><img src="https://softmany.com/wp-content/uploads/2017/08/Java-Runtime-Environment-for-Windows.png" alt="JAVA" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-KOTLIN" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="KOTLIN" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer">
 <a href="https://github.com/VILHALVA/CURSO-DE-XML" target="_blank" rel="noreferrer"><img src="https://pt.seaicons.com/wp-content/uploads/2015/07/Other-xml-icon.png" alt="XML" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-ANDROID-STUDIO" target="_blank" rel="noreferrer"><img src="https://developer.android.com/static/studio/images/android-studio-canary.svg" alt="ANDROID STUDIO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-ELECTRONJS" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/2048px-Electron_Software_Framework_Logo.svg.png" alt="ELECTRONJS" width="40" height="40"/></a>
 
-<a href="https://netbeans.apache.org/download/index.html" target="_blank" rel="noreferrer"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2018/11/frame256.png" alt="NETBEANS" width="40" height="40"/></a>
-<a href="https://www.eclipse.org/downloads/" target="_blank" rel="noreferrer"><img src="https://www.shareicon.net/download/2016/06/25/618313_eclipse.ico" alt="ECLIPSE" width="40" height="40"/></a>
-<a href="firebase.google.com" target="_blank" rel="noreferrer"><img src="https://firebaseopensource.com/logo-small.png" alt="FIREBASE" width="40" height="40"/></a>
-
-## [( 03 ) CRIAÇÃO DE ROBÔS](https://github.com/VILHALVA?tab=repositories&q=BOT&type=&language=&sort=)
+## [( 03 ) CRIAÇÃO DE ROBÔS](https://github.com/VILHALVA?tab=repositories&q=+topic:BOT)
 <a href="https://github.com/VILHALVA/CURSO-DE-PYTHON" target="_blank" rel="noreferrer"><img src="https://cdn.ccdc.cam.ac.uk/content/images/products/Product-Python.png" alt="PYTHON" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LUA" target="_blank" rel="noreferrer"><img src="https://castalio.info/images/lua.png" alt="LUA" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-GOLANG" target="_blank" rel="noreferrer"><img src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/altgiuwyavczlcflyh8c" alt="GO" width="40" height="40"/></a>
@@ -103,10 +105,6 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-AUTOMACAO" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/8188/8188077.png" alt="AUTOMACAO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-BOTPRESS" target="_blank" rel="noreferrer"><img src="https://products.containerize.com/live-chat/botpress/menu_image.png" alt="BOTPRESS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-INTELIGENCIA-ARTIFICIAL" target="_blank" rel="noreferrer"><img src="https://static.wixstatic.com/media/a6a326_c0e26bbc966a4d74ae68ef12ebe95b3c~mv2.png/v1/fill/w_347,h_347,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ChatGPT.png" alt="IA" width="45" height="45"/></a>
-
-<a href="https://visualstudio.microsoft.com/pt-br/" target="_blank" rel="noreferrer"><img src="https://code.visualstudio.com/assets/apple-touch-icon.png" alt="VISUAL STUDIO CODE" width="40" height="40"/></a>
-<a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank" rel="noreferrer"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/05/pycharm_logo_256.png" alt="PYCHARM" width="40" height="40"/></a>
-<a href="https://replit.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/https://replit.com/" alt="REPLIT" width="40" height="40"/></a>
  
 <img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/><br>
  
