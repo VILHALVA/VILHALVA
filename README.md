@@ -106,6 +106,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-INTELIGENCIA-ARTIFICIAL" target="_blank" rel="noreferrer"><img src="https://static.wixstatic.com/media/a6a326_c0e26bbc966a4d74ae68ef12ebe95b3c~mv2.png/v1/fill/w_347,h_347,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ChatGPT.png" alt="IA" width="45" height="45"/></a>
 
 ## [ ( 04 ) CRIAÇÃO DE JOGOS](https://github.com/VILHALVA?tab=repositories&q=+topic:JOGO)
+<a href="https://github.com/VILHALVA/CURSO-DE-GAME" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/4315/4315508.png" alt="GAME" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-C-SHARP" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-csharp-1175240.png?f=webp&w=256" alt="C#" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-UNITY" target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" alt="UNITY" width="40" height="40"/></a> <br>
 
