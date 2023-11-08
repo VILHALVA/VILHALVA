@@ -108,7 +108,8 @@
 ## [ ( 04 ) CRIAÇÃO DE JOGOS](https://github.com/VILHALVA?tab=repositories&q=+topic:JOGO)
 <a href="https://github.com/VILHALVA/CURSO-DE-GAME" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/4315/4315508.png" alt="GAME" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-C-SHARP" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-csharp-1175240.png?f=webp&w=256" alt="C#" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-UNITY" target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" alt="UNITY" width="40" height="40"/></a> <br>
+<a href="https://github.com/VILHALVA/CURSO-DE-UNITY" target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" alt="UNITY" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-GAME-MAKER" target="_blank" rel="noreferrer"><img src="https://juniortech.org/wp-content/uploads/2020/03/gamemaker-logo-300x300px.png" alt="GAME MAKER" width="40" height="40"/></a> <br>
 
 <img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/><br>
  
