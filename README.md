@@ -89,7 +89,6 @@
 
 ## [( 03 ) CRIAÇÃO DE ROBÔS](https://github.com/VILHALVA?tab=repositories&q=+topic:BOT)
 <a href="https://github.com/VILHALVA/CURSO-DE-PYTHON" target="_blank" rel="noreferrer"><img src="https://cdn.ccdc.cam.ac.uk/content/images/products/Product-Python.png" alt="PYTHON" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-LUA" target="_blank" rel="noreferrer"><img src="https://castalio.info/images/lua.png" alt="LUA" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-GOLANG" target="_blank" rel="noreferrer"><img src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/altgiuwyavczlcflyh8c" alt="GO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-RUBY" target="_blank" rel="noreferrer"><img src="https://icon-library.com/images/ruby-icon-png/ruby-icon-png-0.jpg" alt="RUBY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-RUST" target="_blank" rel="noreferrer"><img src="https://www.freecodecamp.org/news/content/images/2021/01/rust-mascot.png" alt="RUST" width="40" height="40"/></a>
@@ -106,9 +105,10 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-INTELIGENCIA-ARTIFICIAL" target="_blank" rel="noreferrer"><img src="https://static.wixstatic.com/media/a6a326_c0e26bbc966a4d74ae68ef12ebe95b3c~mv2.png/v1/fill/w_347,h_347,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ChatGPT.png" alt="IA" width="45" height="45"/></a>
 
 ## [ ( 04 ) CRIAÇÃO DE JOGOS](https://github.com/VILHALVA?tab=repositories&q=+topic:JOGO)
+<a href="https://github.com/VILHALVA/CURSO-DE-C-SHARP" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-csharp-1175240.png?f=webp&w=256" alt="C#" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-LUA" target="_blank" rel="noreferrer"><img src="https://castalio.info/images/lua.png" alt="LUA" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-CONSTRUCT" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Construct_3_Logo.svg/1200px-Construct_3_Logo.svg.png" alt="CONSTRUCT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PHASER" target="_blank" rel="noreferrer"><img src="https://phaser.io/images/logo/logo-download-vector.png" alt="PHASER" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-C-SHARP" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-csharp-1175240.png?f=webp&w=256" alt="C#" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-UNITY" target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" alt="UNITY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-GAME-MAKER" target="_blank" rel="noreferrer"><img src="https://juniortech.org/wp-content/uploads/2020/03/gamemaker-logo-300x300px.png" alt="GAME MAKER" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-GODOT" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/1200px-Godot_icon.svg.png" alt="GODOT" width="40" height="40"/></a> 
