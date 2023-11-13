@@ -15,7 +15,7 @@
 <a href="https://vilhalva.github.io/STYLER/STYLER.html" target="_blank"><img src="https://img.shields.io/badge/MEU%20PRIMEIRO%20SITE-0000FF?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
 <a href="https://github.com/VILHALVA/VILHALVA/tree/main/HELP" target="_blank"><img src="https://img.shields.io/badge/NOS%20AJUDE-0000FF?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
 <a href="https://github.com/VILHALVA/VILHALVA/tree/main/MAIS%20SOBRE%20MIM" target="_blank"><img src="https://img.shields.io/badge/ME%20CONHEÇA%20MAIS-0000FF?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
-<a href="https://telegra.ph/FREELANCER-10-19-9" target="_blank"><img src="https://img.shields.io/badge/SOU%20FREELANCER-00F0F0?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
+<a href="https://telegra.ph/FREELANCER-10-19-9" target="_blank"><img src="https://img.shields.io/badge/SOU%20FREELANCER-FF0000?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
 
 # 🌚REDES SOCIAIS:
 [![GitHub Repo stars](https://img.shields.io/badge/CODIGOS-CANAL-03A9F4?logo=telegram)](https://t.me/CODIGOCN) 
@@ -84,16 +84,14 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVA" target="_blank" rel="noreferrer"><img src="https://softmany.com/wp-content/uploads/2017/08/Java-Runtime-Environment-for-Windows.png" alt="JAVA" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-KOTLIN" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="KOTLIN" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer">
 <a href="https://github.com/VILHALVA/CURSO-DE-XML" target="_blank" rel="noreferrer"><img src="https://pt.seaicons.com/wp-content/uploads/2015/07/Other-xml-icon.png" alt="XML" width="40" height="40"/></a> 
+
 <a href="https://github.com/VILHALVA/CURSO-DE-ANDROID-STUDIO" target="_blank" rel="noreferrer"><img src="https://developer.android.com/static/studio/images/android-studio-canary.svg" alt="ANDROID STUDIO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-ELECTRONJS" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/2048px-Electron_Software_Framework_Logo.svg.png" alt="ELECTRONJS" width="40" height="40"/></a>
 
 ## [( 03 ) CRIAÇÃO DE ROBÔS](https://github.com/VILHALVA?tab=repositories&q=+topic:BOT)
 <a href="https://github.com/VILHALVA/CURSO-DE-PYTHON" target="_blank" rel="noreferrer"><img src="https://cdn.ccdc.cam.ac.uk/content/images/products/Product-Python.png" alt="PYTHON" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-GOLANG" target="_blank" rel="noreferrer"><img src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/altgiuwyavczlcflyh8c" alt="GO" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-RUBY" target="_blank" rel="noreferrer"><img src="https://icon-library.com/images/ruby-icon-png/ruby-icon-png-0.jpg" alt="RUBY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-RUST" target="_blank" rel="noreferrer"><img src="https://www.freecodecamp.org/news/content/images/2021/01/rust-mascot.png" alt="RUST" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-C" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/13/a8/94/13a89487b6a28c9fd6fee57cf6bc5e2c.png" alt="C" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-C-PLUS-PLUS" target="_blank" rel="noreferrer"><img src="https://logospng.org/download/c-plus-plus/c-plus-plus-4096.png" alt="C++" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PASCAL" target="_blank" rel="noreferrer"><img src="https://cryptologos.cc/logos/pascal-pasc-logo.png" alt="PASCAL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-SWIFT" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/8f/50/63/8f50630ae0e1775196e4c270c573ce67.png" alt="SWIFT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-ASSEMBLY" target="_blank" rel="noreferrer"><img src="https://iconape.com/wp-content/png_logo_vector/general-assembly-logo.png" alt="ASSEMBLY" width="40" height="40"/></a>
@@ -105,14 +103,20 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-INTELIGENCIA-ARTIFICIAL" target="_blank" rel="noreferrer"><img src="https://static.wixstatic.com/media/a6a326_c0e26bbc966a4d74ae68ef12ebe95b3c~mv2.png/v1/fill/w_347,h_347,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ChatGPT.png" alt="IA" width="45" height="45"/></a>
 
 ## [ ( 04 ) CRIAÇÃO DE JOGOS](https://github.com/VILHALVA?tab=repositories&q=+topic:JOGO)
-<a href="https://github.com/VILHALVA/CURSO-DE-C-SHARP" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-csharp-1175240.png?f=webp&w=256" alt="C#" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-RUBY" target="_blank" rel="noreferrer"><img src="https://icon-library.com/images/ruby-icon-png/ruby-icon-png-0.jpg" alt="RUBY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LUA" target="_blank" rel="noreferrer"><img src="https://castalio.info/images/lua.png" alt="LUA" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-C" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/13/a8/94/13a89487b6a28c9fd6fee57cf6bc5e2c.png" alt="C" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-C-PLUS-PLUS" target="_blank" rel="noreferrer"><img src="https://logospng.org/download/c-plus-plus/c-plus-plus-4096.png" alt="C++" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-C-SHARP" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-csharp-1175240.png?f=webp&w=256" alt="C#" width="40" height="40"/></a>
+
 <a href="https://github.com/VILHALVA/CURSO-DE-CONSTRUCT" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Construct_3_Logo.svg/1200px-Construct_3_Logo.svg.png" alt="CONSTRUCT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PHASER" target="_blank" rel="noreferrer"><img src="https://phaser.io/images/logo/logo-download-vector.png" alt="PHASER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-UNITY" target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" alt="UNITY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-GAME-MAKER" target="_blank" rel="noreferrer"><img src="https://juniortech.org/wp-content/uploads/2020/03/gamemaker-logo-300x300px.png" alt="GAME MAKER" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-GODOT" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/1200px-Godot_icon.svg.png" alt="GODOT" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-CRYENGINE" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-cryengine-7521410-7196983.png" alt="CRYENGINE" width="40" height="40"/></a> <br>
+
+![](https://i.imgur.com/waxVImv.png)
 
 <img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/><br>
  
