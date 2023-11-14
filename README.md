@@ -89,6 +89,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-ELECTRONJS" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/2048px-Electron_Software_Framework_Logo.svg.png" alt="ELECTRONJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-WPF" target="_blank" rel="noreferrer"><img src="https://static.wixstatic.com/media/404ded_7a3b7ac4ecaa4f1ebba5175b006d47e9~mv2.png/v1/fill/w_640,h_356,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/404ded_7a3b7ac4ecaa4f1ebba5175b006d47e9~mv2.png" alt="WPF" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-WINFORMS" target="_blank" rel="noreferrer"><img src="https://www.greatstonesoftware.co.uk/storage/product_image/cropped/DevExpress/DevExpress-WinForms-20.1.png" alt="WINFORMS" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-EXE" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/29/29184.png" alt="EXE" width="40" height="40"/></a>
 
 ## [( 03 ) CRIAÇÃO DE ROBÔS](https://github.com/VILHALVA?tab=repositories&q=+topic:BOT)
 <a href="https://github.com/VILHALVA/CURSO-DE-PYTHON" target="_blank" rel="noreferrer"><img src="https://cdn.ccdc.cam.ac.uk/content/images/products/Product-Python.png" alt="PYTHON" width="40" height="40"/></a>
