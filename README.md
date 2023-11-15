@@ -23,7 +23,6 @@
 [![GitHub Repo stars](https://img.shields.io/badge/MEU%20PERFIL-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
 [![GitHub Repo stars](https://img.shields.io/badge/MEU-CANAL-03A9F4?logo=youtube)](https://www.youtube.com/channel/UCmSPU_gp3NA7a8pb5Iwy3lQ)
 [![GitHub Repo stars](https://img.shields.io/badge/MEU-FACEBOOK-03A9F4?logo=facebook)](https://facebook.com/VILHALVA100)
-[![GitHub Repo stars](https://img.shields.io/badge/MEU-INSTAGRAM-03A9F4?logo=instagram)](https://www.instagram.com/vilhalva100/)
 
 # 👨‍💻COMO PROGRAMADOR:
 ## [( 00 ) GERAL](https://github.com/VILHALVA?tab=repositories&q=+topic:PROJETO)
