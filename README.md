@@ -19,10 +19,12 @@
 
 # 🌚REDES SOCIAIS:
 [![GitHub Repo stars](https://img.shields.io/badge/CODIGOS-CANAL-03A9F4?logo=telegram)](https://t.me/CODIGOCN) 
+[![GitHub Repo stars](https://img.shields.io/badge/MEU-CANAL-03A9F4?logo=telegram)](https://t.me/VILHALVA100_CANAL) 
 [![GitHub Repo stars](https://img.shields.io/badge/PARCERIA-SUPERCHATS-03A9F4?logo=telegram)](https://t.me/DIVULGACAO2023) <br>
 [![GitHub Repo stars](https://img.shields.io/badge/MEU%20PERFIL-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
 [![GitHub Repo stars](https://img.shields.io/badge/MEU-CANAL-03A9F4?logo=youtube)](https://www.youtube.com/channel/UCmSPU_gp3NA7a8pb5Iwy3lQ)
 [![GitHub Repo stars](https://img.shields.io/badge/MEU-FACEBOOK-03A9F4?logo=facebook)](https://facebook.com/VILHALVA100)
+[![GitHub Repo stars](https://img.shields.io/badge/MEU-LINKEDIN-03A9F4?logo=linkedin)](http://www.linkedin.com/in/vilhalva)
 
 # 👨‍💻COMO PROGRAMADOR:
 ## [( 00 ) GERAL](https://github.com/VILHALVA?tab=repositories&q=+topic:PROJETO)
