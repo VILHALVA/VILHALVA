@@ -77,6 +77,15 @@ Independentemente do projeto que você tenha desenvolvido, eu irei conduzir test
 Se você precisar de um serviço específico que não tenha sido mencionado anteriormente, não hesite em entrar em contato comigo através do meu PV (mensagem privada). Estou aqui para criar soluções personalizadas que atendam às suas necessidades exclusivas.
 > Estou pronto para atender às necessidades únicas do cliente em uma variedade de áreas, como criação de slides, desenvolvimento de livros, elaboração de apostilas e edição de vídeos. Mesmo se não possuir expertise prévia em uma área específica.
 
+## Não é qualquer tipo de serviço que faço!
+No entanto, gostaria de esclarecer que minha atuação como profissional independente tem certas limitações éticas e legais. Infelizmente, não posso oferecer serviços que envolvam atividades que são exclusivas de instituições específicas ou que estejam fora dos padrões. Por exemplo, a criação de documentos oficiais, como Certificados de Registro e Licenciamento do Veículo (CRLVs), é uma atribuição exclusiva dos órgãos de trânsito, sendo um processo que deve ser conduzido estritamente por essas instituições.
+
+Da mesma forma, a configuração ou alteração de endereços IP em roteadores é uma operação que deve ser realizada pelos provedores de serviços de internet ou pelos profissionais designados por eles. Como freelancer independente, não tenho autorização nem capacidade para executar tais tarefas.
+
+**Com relação a solicitação de atividades ilegais, como criação de vírus, pirataria, ou hackeamento de contas de redes sociais:** Lamento informar que não posso oferecer serviços relacionados a atividades ilegais ou antiéticas, incluindo a criação de vírus, pirataria ou qualquer forma de hackeamento, incluindo o acesso não autorizado a contas de redes sociais. Minha atuação como freelancer independente é pautada por princípios éticos e legais, e não posso envolver-me em atividades que violem leis e regulamentações.
+
+Entendo que essas são questões importantes e estou aqui para oferecer minha expertise em áreas que estejam dentro da legalidade. Se precisar de ajuda em outras áreas relacionadas ao desenvolvimento web, programação, criação de conteúdo ou serviços semelhantes, ficarei feliz em discutir como posso contribuir para o seu projeto.
+
 ## Por que me escolher?
 - Concluir recentemente um projeto que foi um sucesso e recebi feedback positivo.
 
@@ -92,15 +101,6 @@ O trabalho como freelancer oferece uma liberdade única, permitindo que os profi
 Uma das vantagens de ser um freelancer é a capacidade de reutilizar projetos que foram concluídos, mas que, por diversas razões, não foram utilizados pelo cliente original. Se o cliente decidir desistir do projeto depois de pronto ou não efetuar o pagamento, Eu tenho a liberdade de oferecer esse projeto a futuros clientes. Nada do trabalho árduo investido será desperdiçado. 
 
 Um aspecto fundamental desse trabalho é a disposição para aprender no caminho. É importante reconhecer que ninguém sabe tudo, e é perfeitamente aceitável enfrentar desafios e dificuldades em determinadas áreas. Tenho a capacidade de se adaptar e adquirir novas habilidades conforme necessário. Se um projeto exigir conhecimento ou habilidades adicionais, eu posso me comprometer a aprender e aprimorar meu conjunto de habilidades para atender às necessidades do cliente.
-
-## Não é qualquer tipo de serviço que faço!
-No entanto, gostaria de esclarecer que minha atuação como profissional independente tem certas limitações éticas e legais. Infelizmente, não posso oferecer serviços que envolvam atividades que são exclusivas de instituições específicas ou que estejam fora dos padrões. Por exemplo, a criação de documentos oficiais, como Certificados de Registro e Licenciamento do Veículo (CRLVs), é uma atribuição exclusiva dos órgãos de trânsito, sendo um processo que deve ser conduzido estritamente por essas instituições.
-
-Da mesma forma, a configuração ou alteração de endereços IP em roteadores é uma operação que deve ser realizada pelos provedores de serviços de internet ou pelos profissionais designados por eles. Como freelancer independente, não tenho autorização nem capacidade para executar tais tarefas.
-
-**Com relação a solicitação de atividades ilegais, como criação de vírus, pirataria, ou hackeamento de contas de redes sociais:** Lamento informar que não posso oferecer serviços relacionados a atividades ilegais ou antiéticas, incluindo a criação de vírus, pirataria ou qualquer forma de hackeamento, incluindo o acesso não autorizado a contas de redes sociais. Minha atuação como freelancer independente é pautada por princípios éticos e legais, e não posso envolver-me em atividades que violem leis e regulamentações.
-
-Entendo que essas são questões importantes e estou aqui para oferecer minha expertise em áreas que estejam dentro da legalidade. Se precisar de ajuda em outras áreas relacionadas ao desenvolvimento web, programação, criação de conteúdo ou serviços semelhantes, ficarei feliz em discutir como posso contribuir para o seu projeto.
 
 ## Em busca de mais informações ou tem alguma dúvida?
 Para conferir o meu Portfólio, me siga no [GitHub](https://github.com/VILHALVA), [YouTube](https://www.youtube.com/channel/UCmSPU_gp3NA7a8pb5Iwy3lQ), [Telegram](https://t.me/VILHALVA100_CANAL), [LINKEDIN](http://www.linkedin.com/in/vilhalva) e no [Facebook](https://facebook.com/VILHALVA100). Nessas redes sociais, você poderá acompanhar de perto minha jornada e obter as respostas que procura.
