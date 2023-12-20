@@ -7,7 +7,7 @@ Caro Cliente em Potencial,
 Saudações! Estou empolgado por você considerar meus serviços para o seu próximo projeto. Quero garantir que você saiba que sou apaixonado por fornecer soluções de alta qualidade e atender às suas necessidades.
 
 ## O que posso oferecer a você?
-### 1) Criação de Sites:
+### 01) Criação de Sites:
 Ofereço serviços abrangentes na criação de sites, utilizando uma variedade de tecnologias para garantir soluções personalizadas e eficientes. Minha expertise inclui:
 
 - **Linguagens de Marcação e Estilo:** Utilizo HTML e CSS para desenvolver a estrutura e o design visual dos sites, garantindo uma experiência atraente e intuitiva.
@@ -24,7 +24,7 @@ Ao combinar essas tecnologias, posso criar sites personalizados, responsivos e t
 
 > Eu crio os códigos do site e compartilha imagens para mostrar o progresso com o cliente. Os arquivos do site são entregues apenas após o pagamento ser efetuado. A hospedagem é de responsabilidade do cliente, com a opção de orientação oferecida por mim para escolher e configurar a hospedagem
 
-### 2) Criação de Aplicativos:
+### 02) Criação de Aplicativos:
 Ofereço serviços especializados na criação de aplicativos, proporcionando soluções personalizadas e inovadoras. Minha experiência inclui:
 
 - **Desenvolvimento para Android:** Utilizo o Android Studio e tenho proficiência tanto em Java quanto em Kotlin para criar aplicativos Android. Isso garante que os aplicativos sejam otimizados, eficientes e compatíveis com uma variedade de dispositivos.
@@ -35,7 +35,7 @@ Minha abordagem centrada no usuário e meu compromisso com a qualidade garantem 
 
 > Eu desenvolvo o aplicativo, compartilhando capturas de tela para mostrar o progresso ao cliente. A entrega dos arquivos do app ocorre somente após o pagamento ser efetuado. A hospedagem e distribuição nas lojas são de responsabilidade do cliente, com orientações opcionais fornecidas por mim para ajudar na publicação.
 
-### 3) Criação de Bots:
+### 03) Criação de Bots:
 Ofereço serviços abrangentes na criação de bots para diversas plataformas, utilizando uma ampla variedade de linguagens de programação. Minha experiência inclui:
 
 - **Plataformas de Mensagens:** Desenvolvo bots para Telegram, WhatsApp, Discord, web, Instagram, Facebook, Twitter, entre outras. Isso garante uma presença eficaz em diversas plataformas, proporcionando interações automatizadas e personalizadas.
@@ -50,11 +50,58 @@ Estou comprometido em oferecer soluções de bot inovadoras e eficientes que ate
 
 > Eu crio os códigos do bot e compartilha imagens para mostrar o progresso com o cliente. Os códigos só são entregues após o pagamento ser efetuado (Junto com a transferência da posse do avatar do bot - No caso do Telegram). A hospedagem é de responsabilidade do cliente, com a opção de orientação oferecida por mim para escolher e configurar a hospedagem.
 
-### 4) Criação de Roteiros:
+### 04) Criação de Jogos: 
+Ofereço serviços abrangentes na criação de jogos, utilizando diversas ferramentas e linguagens de programação para proporcionar experiências envolventes e personalizadas. Minha experiência inclui:
+
+- **Ferramentas de Desenvolvimento:** Desenvolvo jogos utilizando plataformas populares como Unity, Game Maker, Godot, CryEngine, e até mesmo implementações em Python.
+
+- **Linguagens de Programação:** Possuo proficiência em diversas linguagens, incluindo C#, Lua, Ruby, GML (GameMaker Language), entre outras, adaptando-me às necessidades específicas de cada projeto.
+
+- **Design de Jogos:** Trabalho na concepção e execução de designs de jogos cativantes, desde a mecânica de jogo até a narrativa, garantindo uma experiência única para os jogadores.
+
+- **Gráficos e Animações:** Cuido da criação e implementação de gráficos, animações e efeitos visuais que aprimoram a estética e a atmosfera do jogo.
+
+- **Testes e Ajustes:** Realizo testes rigorosos para garantir a jogabilidade suave e corrijo eventuais problemas, assegurando uma experiência de jogo imersiva.
+
+Estou comprometido em criar jogos que envolvam e entretenham os jogadores, seja para plataformas móveis, consoles (Terminal) ou PC. Se você tem uma ideia de jogo ou precisa de um desenvolvedor para transformar seus conceitos em realidade digital, estou à disposição para discutir suas metas e como posso contribuir para o sucesso do seu projeto de jogo.
+
+> Eu desenvolvo o jogo, compartilhando capturas de tela para mostrar o progresso ao cliente. A entrega dos arquivos do jogo ocorre somente após o pagamento ser efetuado. A hospedagem e distribuição nas lojas são de responsabilidade do cliente, com orientações opcionais fornecidas por mim para ajudar na publicação
+
+### 05) Criação de Roteiros:
 Seja para vídeos, apresentações ou qualquer forma de conteúdo, minha especialidade inclui a criação de roteiros perspicazes e envolventes.
 >  Trabalho em estreita colaboração com o cliente para entender suas necessidades e visão. O roteiro é desenvolvido, com atualizações regulares compartilhadas com o cliente para revisão e feedback. A entrega final do roteiro ocorre após o pagamento ser efetuado.
 
-### 5) Moderação de Grupos/Canais do Telegram:
+### 06) Tradução de Texto:
+Ofereço serviços abrangentes de tradução, proporcionando soluções acessíveis e eficientes para a adaptação de textos em diversos idiomas. Minha oferta inclui:
+
+- **Tradução Multilíngue:** Traduzo textos de qualquer tamanho para uma variedade de idiomas, garantindo precisão e fidelidade ao significado original.
+
+- **Preços Acessíveis:** Estabeleço preços competitivos e acessíveis, permitindo que clientes de diferentes necessidades e orçamentos tenham acesso a serviços de tradução de qualidade.
+
+- **Flexibilidade de Idiomas:** Possuo proficiência em diversas línguas, o que me permite atender a uma ampla gama de necessidades de tradução, seja para documentos, websites, conteúdo digital, entre outros.
+
+- **Entrega Rápida:** Comprometo-me a fornecer traduções dentro de prazos estabelecidos, garantindo eficiência e satisfação do cliente.
+
+Se você precisa de tradução confiável para seus documentos ou conteúdo, estou à disposição para discutir suas necessidades específicas e fornecer um serviço personalizado que atenda aos seus requisitos.
+
+> Trabalho em estreita colaboração com o cliente para entender suas necessidades e visão. A tradução é desenvolvida, com atualizações regulares compartilhadas com o cliente para revisão e feedback. A entrega final da tradução ocorre após o pagamento ser efetuado.
+
+### 07) Criação de Slides:
+Ofereço serviços especializados na criação de slides para aulas, facilitando a transmissão eficaz de informações em diversos temas. Minha atuação inclui:
+
+- **Desenvolvimento de Conteúdo Visual:** Crio slides atrativos e informativos para auxiliar na apresentação de conteúdo em aulas, palestras ou apresentações.
+
+- **Personalização de Design:** Adapto o design dos slides conforme o tema e o estilo preferido, garantindo uma apresentação visualmente impactante e alinhada com a mensagem a ser transmitida.
+
+- **Inclusão de Elementos Interativos:** Integro elementos interativos, como gráficos, vídeos e animações, para enriquecer a experiência do espectador e promover uma compreensão mais profunda do conteúdo.
+
+- **Diversidade de Temas:** Estou preparado para criar slides sobre uma variedade de temas, adequando-me às necessidades específicas de professores, palestrantes ou profissionais que desejam transmitir informações de maneira clara e envolvente.
+
+Se você precisa de suporte na criação de slides para suas aulas ou apresentações, estou à disposição para discutir suas metas e criar um conjunto de slides personalizado que atenda às suas expectativas. 
+
+> Trabalho em estreita colaboração com o cliente para entender suas necessidades e visão. Os slides são feitos com atualizações regulares compartilhadas com o cliente para revisão e feedback. A entrega final dos arquivos ocorre após o pagamento ser efetuado.
+
+### 08) Moderação de Grupos/Canais do Telegram (Está disponível Somente no Contrato mensal):
 Ofereço serviços abrangentes na moderação de grupos e canais no Telegram, proporcionando uma experiência de comunidade online segura, engajadora e bem gerenciada. Minha atuação inclui:
 
 - **Moderação Ativa:** Monitoro e moderador o grupo/canal para garantir que as interações estejam em conformidade com as diretrizes estabelecidas. Isso inclui o gerenciamento de conteúdo inadequado, spam e atividades não autorizadas.
@@ -69,13 +116,13 @@ Minha abordagem é centrada na criação de comunidades online vibrantes e bem g
 
 > Eu, como moderador, gerencio o conteúdo e a interação, garantindo um ambiente seguro e positivo. O cliente recebe atualizações regulares sobre a moderação, e a remoção de conteúdo inadequado é realizada prontamente. Os detalhes específicos da moderação e as políticas do grupo/canal são discutidos inicialmente com o mesmo.
 
-### 6) Testamos e Aperfeiçoamos:
+### 09) Testamos e Aperfeiçoamos:
 Independentemente do projeto que você tenha desenvolvido, eu irei conduzir testes abrangentes e fornecer feedback detalhado, juntamente com sugestões de aprimoramento.
 > Realizarei testes detalhados para identificar problemas, bugs e áreas de melhoria em um projeto ou produto. O relatório completo desses testes é preparado, incluindo sugestões de melhorias, mas é entregue ao cliente somente após o pagamento.
 
-### 7) Soluções Personalizadas:
+### 10) Soluções Personalizadas:
 Se você precisar de um serviço específico que não tenha sido mencionado anteriormente, não hesite em entrar em contato comigo através do meu PV (mensagem privada). Estou aqui para criar soluções personalizadas que atendam às suas necessidades exclusivas.
-> Estou pronto para atender às necessidades únicas do cliente em uma variedade de áreas, como criação de slides, desenvolvimento de livros, elaboração de apostilas e edição de vídeos. Mesmo se não possuir expertise prévia em uma área específica.
+> Estou pronto para atender às necessidades únicas do cliente em uma variedade de áreas, como desenvolvimento de livros, elaboração de apostilas e edição de vídeos. Mesmo se não possuir expertise prévia em uma área específica.
 
 ## Não é qualquer tipo de serviço que faço!
 No entanto, gostaria de esclarecer que minha atuação como profissional independente tem certas limitações éticas e legais. Infelizmente, não posso oferecer serviços que envolvam atividades que são exclusivas de instituições específicas ou que estejam fora dos padrões. Por exemplo, a criação de documentos oficiais, como Certificados de Registro e Licenciamento do Veículo (CRLVs), é uma atribuição exclusiva dos órgãos de trânsito, sendo um processo que deve ser conduzido estritamente por essas instituições.
