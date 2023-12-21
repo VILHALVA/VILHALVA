@@ -6,9 +6,7 @@ Se você gostou dos meus cursos e projetos, há 4 maneiras diferentes de me ajud
 ## 01) DOANDO DINHEIRO:
 Você pode fazer uma doação em qualquer valor via PIX para `SAMUEL MARTINS VILHALVA`:
 
-    ```
     03333113295
-    ```
 
 ## 02) AJUDANDO NO GRUPO:
 Você pode ajudar os membros no grupo [@GRUPOCN](https://t.me/GRUPOCN).
