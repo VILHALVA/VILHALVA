@@ -5,7 +5,8 @@ Se você gostou dos meus cursos e projetos, há 4 maneiras diferentes de me ajud
 
 ## 01) DOANDO DINHEIRO:
 Você pode fazer uma doação em qualquer valor via PIX para `SAMUEL MARTINS VILHALVA`:
-    ```
+
+    ```bash
     03333113295
     ```
 
