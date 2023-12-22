@@ -55,7 +55,7 @@ Ofereço serviços abrangentes de tradução. Minha oferta inclui:
 
 - **Tradução Multilíngue:** Traduzo textos de qualquer tamanho para uma variedade de idiomas.
 
-- **Flexibilidade de Idiomas:** Possuo proficiência em diversas línguas, o que me permite atender a uma ampla gama de necessidades de tradução, seja para documentos, websites, conteúdo digital, entre outros
+- **Flexibilidade de Idiomas:** Possuo proficiência em diversas línguas, o que me permite atender a uma ampla gama de necessidades de tradução, seja para documentos, websites, conteúdo digital, entre outros.
 
 ### 07) Criação de Slides:
 Ofereço serviços especializados na criação de slides para aulas. Minha atuação inclui:
@@ -71,7 +71,7 @@ Ofereço serviços especializados na criação de slides para aulas. Minha atua�
 ### 08) Moderação de Grupos/Canais do Telegram (Está disponível Somente no Contrato mensal):
 Ofereço serviços abrangentes na moderação de grupos e canais no Telegram. Minha atuação inclui:
 
-- **Moderação Ativa:** Monitoro e moderador o grupo para garantir que as interações estejam em conformidade com as diretrizes estabelecidas. Isso inclui o gerenciamento de conteúdo inadequado, spam e atividades não autorizadas.
+- **Moderação Ativa:** Monitoro e modero o grupo para garantir que as interações estejam em conformidade com as diretrizes estabelecidas. Isso inclui o gerenciamento de conteúdo inadequado, spam e atividades não autorizadas.
 
 - **Interação com Membros:** Fomento a interação entre os membros, respondendo a perguntas, incentivando discussões construtivas.
 
@@ -86,21 +86,21 @@ Independentemente do projeto que você tenha desenvolvido, eu irei conduzir test
 Se você precisar de um serviço específico que não tenha sido mencionado anteriormente, não hesite em entrar em contato comigo através do meu PV (mensagem privada). Estou aqui para criar soluções personalizadas que atendam às suas necessidades exclusivas.
 
 ## Não é qualquer tipo de serviço que faço!
-Como profissional independente, é fundamental esclarecer as limitações éticas e legais da minha atuação. Não posso oferecer serviços que envolvam atividades exclusivas de instituições específicas ou que violem padrões estabelecidos. Por exemplo, a criação de documentos oficiais, como Certificados de Registro e Licenciamento do Veículo (CRLVs), é uma responsabilidade dos órgãos de trânsito. Além disso, a configuração ou alteração de endereços IP em roteadores deve ser realizada pelos provedores de serviços de internet ou profissionais designados por eles. Não tenho autorização nem capacidade para executar tais tarefas.
+Como profissional independente, é fundamental esclarecer as limitações éticas e legais da minha atuação. Não posso oferecer serviços que envolvam atividades exclusivas de instituições específicas ou que violem padrões estabelecidos. Por exemplo, a criação de documentos oficiais, como Certificados de Registro e Licenciamento do Veículo (CRLVs), é uma responsabilidade dos órgãos de trânsito. Além disso, a configuração ou alteração de endereços IP em roteadores deve ser realizada pelos provedores de serviços de internet ou profissionais designados por eles. 
 
 Quanto a solicitações de atividades ilegais, como criação de vírus, pirataria ou hackeamento de contas de redes sociais, reitero meu compromisso ético e legal. Não posso envolver-me em atividades que violem leis e regulamentações. Estou disponível para oferecer minha expertise em áreas legítimas, como desenvolvimento web, programação e criação de conteúdo. 
 
 ## Por que me escolher?
 - Concluir recentemente um projeto que foi um sucesso e recebi feedback positivo.
 
-- Estou ciente de que projetos podem evoluir e crescer, e é por isso que desejo oferecer a você duas opções flexíveis para continuar a colaboração:
+- Estou ciente de que projetos podem evoluir e crescer, e é por isso que desejo oferecer a você duas opções flexíveis para começar a colaboração:
 ### Opção 1: Contrato por Serviço
 Se você tem novas ideias ou revisões em mente, minha opção de contrato por serviço permite que você solicite meus serviços de maneira ágil e personalizada. Custos variam de acordo com a complexidade, sendo a partir de R$ 20,00.
 ### Opção 2: Contrato Mensal
 Para uma colaboração contínua, ofereço um contrato mensal por R$ 3.000. Isso proporciona um acesso dedicado aos meus serviços por 30 dias, dentro das restrições de disponibilidade de segunda a sexta-feira à tarde e, às vezes, à noite e aos Sábados.
 
 ## E se eu (O cliente) Desistir ou não pagar?
-O trabalho como freelancer oferece uma liberdade única para exercer habilidades de forma independente. Em situações em que o cliente desiste ou não efetua pagamento, a vantagem é a capacidade de reutilizar projetos concluídos para futuros clientes, evitando desperdício de esforço. A disposição para aprender é fundamental, reconhecendo que ninguém sabe tudo, e estou comprometido em enfrentar desafios e adquirir novas habilidades conforme necessário. Adaptabilidade e aprimoramento contínuo são princípios essenciais para oferecer serviços de qualidade e atender às expectativas dos clientes.
+O trabalho como freelancer oferece uma liberdade única para exercer habilidades de forma independente. Em situações em que o cliente desiste ou não efetua pagamento, a vantagem é a capacidade de reutilizar projetos concluídos para futuros clientes, evitando desperdício de esforço. A disposição para aprender é fundamental, reconhecendo que ninguém sabe tudo, e estou comprometido em enfrentar desafios e adquirir novas habilidades conforme necessário. Adaptabilidade e aprimoramento contínuo são princípios essenciais para oferecer serviços de qualidade.
 
 > Eu desenvolvo o projeto, compartilhando capturas de tela para mostrar o progresso ao cliente. A entrega dos arquivos ocorre somente após o pagamento ser efetuado. A hospedagem e distribuição nas lojas são de responsabilidade do cliente, com orientações opcionais fornecidas por mim para ajudar na publicação.
 
