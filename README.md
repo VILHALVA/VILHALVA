@@ -29,26 +29,26 @@
 # 👨‍💻COMO PROGRAMADOR:
 ## [( 00 ) GERAL](https://github.com/VILHALVA?tab=repositories&q=+topic:PROJETO)
 <a href="https://github.com/VILHALVA/CURSO-DE-PORTUGOL" target="_blank" rel="noreferrer"><img src="FOTOS/PORTUGOL.png" alt="PORTUGOL" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-GITHUB" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/f3a65fc948406472ca95fef4e34afa706822a836ba3853eb9c99c3ce63d56da6/68747470733a2f2f64617368626f6172642e736e617063726166742e696f2f736974655f6d656469612f6170706d656469612f323031372f30372f6769742d6769746875622d6875622d69636f6e2d32352e706e67" alt="GITHUB" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-LINUX" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" alt="LINUX" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-REDES-DE-COMPUTADORES" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/D4D12AQFkRm2lkCmBKw/article-cover_image-shrink_720_1280/0/1690344430788?e=2147483647&v=beta&t=Tf0i_SU-qN53WsrYIVe_ui_w-XW5Y5iLVxgXYo7Yvik" alt="REDES DE COMPUTADORES" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-HARDWARE" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2996/2996730.png" alt="HARDWARE" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-BASES-NUMERICAS" target="_blank" rel="noreferrer"><img src="https://pt.calcuworld.com/wp-content/uploads/sites/6/2019/11/binaria.png" alt="BASES NUMERICAS" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-SEGURANCA-DA-INFORMACAO" target="_blank" rel="noreferrer"><img src="https://www.pillarescompliance.com.br/wp-content/uploads/2020/07/VETOR-LGPD03-e1594658104518.png" alt="SEGURANÇA DA INFORMAÇÃO" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-FREELANCER" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/F/freelancer-com-logo-2B5CE1A961-seeklogo.com.png" alt="FREELANCER" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-MARKETING" target="_blank" rel="noreferrer"><img src="https://styles.redditmedia.com/t5_3iqxs/styles/communityIcon_gqfp5bxqojs31.png" alt="MARKETING" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-ANUNCIOS" target="_blank" rel="noreferrer"><img src="https://i0.wp.com/convidar.net/blog/wp-content/uploads/2018/11/publicar-anuncio-gratis-na-internet-google.png?fit=850%2C500&ssl=1" alt="ANUNCIOS" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-GITHUB" target="_blank" rel="noreferrer"><img src="FOTOS/GITHUB.png" alt="GITHUB" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-LINUX" target="_blank" rel="noreferrer"><img src="FOTOS/LINUX.png" alt="LINUX" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-REDES-DE-COMPUTADORES" target="_blank" rel="noreferrer"><img src="FOTOS/REDES_DE_COMPUTADORES.png" alt="REDES DE COMPUTADORES" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-HARDWARE" target="_blank" rel="noreferrer"><img src="FOTOS/HARDWARE.png" alt="HARDWARE" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-BASES-NUMERICAS" target="_blank" rel="noreferrer"><img src="FOTOS/BASES_BINARIAS.png" alt="BASES NUMERICAS" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-SEGURANCA-DA-INFORMACAO" target="_blank" rel="noreferrer"><img src="FOTOS/SEGURANCA_DA_INFORMACAO.png" alt="SEGURANÇA DA INFORMAÇÃO" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-FREELANCER" target="_blank" rel="noreferrer"><img src="FOTOS/FREELANCER.png" alt="FREELANCER" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-MARKETING" target="_blank" rel="noreferrer"><img src="FOTOS/MARKETING.png" alt="MARKETING" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-ANUNCIOS" target="_blank" rel="noreferrer"><img src="FOTOS/ANUNCIOS.png" alt="ANUNCIOS" width="40" height="40"/></a>
 
-<a href="https://pages.github.com/" target="_blank" rel="noreferrer"><img src="https://wowmoron.files.wordpress.com/2013/10/github.png" alt="GITHUB PAGES" width="40" height="40"/></a>
-<a href="https://www.jetbrains.com/phpstorm/promo/?source=google&medium=cpc&campaign=14335686198&term=phpstorm&content=604024578915&gad=1&gclid=CjwKCAjw04yjBhApEiwAJcvNodJJSRvn5GkKrcAkTmu9UAKn2DdQ4RhuWb86Bn6_1mxa8torGAik5BoCEBkQAvD_BwE" target="_blank" rel="noreferrer"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/webide.ico_HA9tBL0.png" alt="PHP STORM" width="40" height="40"/></a>
-<a href="https://www.apachefriends.org/pt_br/index.html" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/xampp-icon-256x256-yyclalg7.png" alt="XAMPP" width="40" height="40"/></a>
-<a href="https://www.wampserver.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/WampServer.png" alt="WAMPSERVER" width="40" height="40"/></a>
-<a href="https://netbeans.apache.org/download/index.html" target="_blank" rel="noreferrer"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2018/11/frame256.png" alt="NETBEANS" width="40" height="40"/></a>
-<a href="https://www.eclipse.org/downloads/" target="_blank" rel="noreferrer"><img src="https://www.shareicon.net/download/2016/06/25/618313_eclipse.ico" alt="ECLIPSE" width="40" height="40"/></a>
-<a href="firebase.google.com" target="_blank" rel="noreferrer"><img src="https://firebaseopensource.com/logo-small.png" alt="FIREBASE" width="40" height="40"/></a>
-<a href="https://visualstudio.microsoft.com/pt-br/" target="_blank" rel="noreferrer"><img src="https://code.visualstudio.com/assets/apple-touch-icon.png" alt="VISUAL STUDIO CODE" width="40" height="40"/></a>
-<a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank" rel="noreferrer"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/05/pycharm_logo_256.png" alt="PYCHARM" width="40" height="40"/></a>
-<a href="https://replit.com" target="_blank" rel="noreferrer"><img src="https://logo.clearbit.com/https://replit.com/" alt="REPLIT" width="40" height="40"/></a>
+<a href="https://pages.github.com/" target="_blank" rel="noreferrer"><img src="FOTOS/PAGES.png" alt="GITHUB PAGES" width="40" height="40"/></a>
+<a href="https://www.jetbrains.com/phpstorm/promo/?source=google&medium=cpc&campaign=14335686198&term=phpstorm&content=604024578915&gad=1&gclid=CjwKCAjw04yjBhApEiwAJcvNodJJSRvn5GkKrcAkTmu9UAKn2DdQ4RhuWb86Bn6_1mxa8torGAik5BoCEBkQAvD_BwE" target="_blank" rel="noreferrer"><img src="FOTOS/PHPSTORM.png" alt="PHP STORM" width="40" height="40"/></a>
+<a href="https://www.apachefriends.org/pt_br/index.html" target="_blank" rel="noreferrer"><img src="FOTOS/XAMPP.png" alt="XAMPP" width="40" height="40"/></a>
+<a href="https://www.wampserver.com" target="_blank" rel="noreferrer"><img src="FOTOS/WAMPSERVER.png" alt="WAMPSERVER" width="40" height="40"/></a>
+<a href="https://netbeans.apache.org/download/index.html" target="_blank" rel="noreferrer"><img src="FOTOS/NETBEANS.png" alt="NETBEANS" width="40" height="40"/></a>
+<a href="https://www.eclipse.org/downloads/" target="_blank" rel="noreferrer"><img src="FOTOS/ECLIPSE.png" alt="ECLIPSE" width="40" height="40"/></a>
+<a href="firebase.google.com" target="_blank" rel="noreferrer"><img src="FOTOS/FIREBASE.png" alt="FIREBASE" width="40" height="40"/></a>
+<a href="https://visualstudio.microsoft.com/pt-br/" target="_blank" rel="noreferrer"><img src="FOTOS/VSC.png" alt="VISUAL STUDIO CODE" width="40" height="40"/></a>
+<a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank" rel="noreferrer"><img src="FOTOS/PYCHARM.png" alt="PYCHARM" width="40" height="40"/></a>
+<a href="https://replit.com" target="_blank" rel="noreferrer"><img src="FOTOS/REPLIT.png" alt="REPLIT" width="40" height="40"/></a>
 
 ## [( 01 ) CRIAÇÃO DE SITES](https://github.com/VILHALVA?tab=repositories&q=+topic:SITE)
 <a href="https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a> 
