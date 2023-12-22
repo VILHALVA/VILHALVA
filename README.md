@@ -101,7 +101,7 @@
 
 ## [( 03 ) CRIAÇÃO DE ROBÔS](https://github.com/VILHALVA?tab=repositories&q=+topic:BOT)
 <a href="https://github.com/VILHALVA/CURSO-DE-PYTHON" target="_blank" rel="noreferrer"><img src="FOTOS/PYTHON.png" alt="PYTHON" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-GOLANG" target="_blank" rel="noreferrer"><img src="FOTOS/GOLANG.png" alt="GO" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-GOLANG" target="_blank" rel="noreferrer"><img src="FOTOS/GO.png" alt="GO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-RUST" target="_blank" rel="noreferrer"><img src="FOTOS/RUST.png" alt="RUST" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PASCAL" target="_blank" rel="noreferrer"><img src="FOTOS/PASCAL.png" alt="PASCAL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-SWIFT" target="_blank" rel="noreferrer"><img src="FOTOS/SWIFT.png" alt="SWIFT" width="40" height="40"/></a>
