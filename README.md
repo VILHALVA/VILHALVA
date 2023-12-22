@@ -28,7 +28,7 @@
 
 # 👨‍💻COMO PROGRAMADOR:
 ## [( 00 ) GERAL](https://github.com/VILHALVA?tab=repositories&q=+topic:PROJETO)
-<a href="https://github.com/VILHALVA/CURSO-DE-PORTUGOL" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/7NhwxJq45jv0Z1rerLLPZFtLnz2WZmqqmhwQ1uRgtv2o1wTsERjh_OT8vKYN0C_vig" alt="PORTUGOL" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-PORTUGOL" target="_blank" rel="noreferrer"><img src="FOTOS/PORTUGOL.png" alt="PORTUGOL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-GITHUB" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/f3a65fc948406472ca95fef4e34afa706822a836ba3853eb9c99c3ce63d56da6/68747470733a2f2f64617368626f6172642e736e617063726166742e696f2f736974655f6d656469612f6170706d656469612f323031372f30372f6769742d6769746875622d6875622d69636f6e2d32352e706e67" alt="GITHUB" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LINUX" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" alt="LINUX" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-REDES-DE-COMPUTADORES" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/D4D12AQFkRm2lkCmBKw/article-cover_image-shrink_720_1280/0/1690344430788?e=2147483647&v=beta&t=Tf0i_SU-qN53WsrYIVe_ui_w-XW5Y5iLVxgXYo7Yvik" alt="REDES DE COMPUTADORES" width="40" height="40"/></a>
