@@ -130,7 +130,7 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 
-<img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/><br>
+[![MasterHead](./MIDIAS/MIDIA_2.gif)](https://github.com/VILHALVA?tab=repositories&q=+topic:PROJETO)
  
-![waving](./MIDIAS/MIDIA_2.gif)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 
