@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=0711FF&vCenter=true&width=600&height=70&lines=👋OLÁ+USUÁRIO!;😎EU+SOU+O+VILHALVA!;💻UM+BOM+PROGRAMADOR...;🌝FULL+STACK!)](https://git.io/typing-svg)
 </div>
 
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+[![MasterHead](./MIDIAS/MIDIA_1.gif)](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 # 👶SUBSIDIOS:
 <a href="https://github.com/VILHALVA/CURSO-DE-PORTUGOL" target="_blank"><img src="https://img.shields.io/badge/SE%20FOR%20NOVATO%20CLIQUE%20AQUI-FF00FF?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -132,5 +132,5 @@
 
 <img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/><br>
  
-![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
+![waving](./MIDIAS/MIDIA_2.gif)
 
