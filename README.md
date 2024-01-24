@@ -13,9 +13,9 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:PROJETO" target="_blank"><img src="https://img.shields.io/badge/MEUS%20PROJETOS-FFF000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://github.com/VILHALVA?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/MEUS%20REPOSITÓRIOS-00FF00?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://vilhalva.github.io/STYLER/STYLER.html" target="_blank"><img src="https://img.shields.io/badge/MEU%20PRIMEIRO%20SITE-0000FF?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
-<a href="https://github.com/VILHALVA/VILHALVA/tree/main/HELP" target="_blank"><img src="https://img.shields.io/badge/NOS%20AJUDE-0000FF?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
-<a href="https://github.com/VILHALVA/VILHALVA/tree/main/MAIS%20SOBRE%20MIM" target="_blank"><img src="https://img.shields.io/badge/ME%20CONHEÇA%20MAIS-0000FF?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
-<a href="https://github.com/VILHALVA/VILHALVA/tree/main/FREELANCER" target="_blank"><img src="https://img.shields.io/badge/SOU%20FREELANCER-FF0000?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
+<a href="./HELP/README.md" target="_blank"><img src="https://img.shields.io/badge/NOS%20AJUDE-0000FF?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
+<a href="./MAIS SOBRE MIM/README.md" target="_blank"><img src="https://img.shields.io/badge/ME%20CONHEÇA%20MAIS-0000FF?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
+<a href="./FREELANCER/README.md" target="_blank"><img src="https://img.shields.io/badge/SOU%20FREELANCER-FF0000?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
 
 # 🌚REDES SOCIAIS:
 [![GitHub Repo stars](https://img.shields.io/badge/CODIGOS-CANAL-03A9F4?logo=telegram)](https://t.me/CODIGOCN) 
