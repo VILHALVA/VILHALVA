@@ -89,7 +89,8 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVA" target="_blank" rel="noreferrer"><img src="FOTOS/JAVA.png" alt="JAVA" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-KOTLIN" target="_blank" rel="noreferrer"> <img src="FOTOS/KOTLIN.png" alt="KOTLIN" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-XML" target="_blank" rel="noreferrer"><img src="FOTOS/XML.png" alt="XML" width="40" height="40"/></a> 
-<a href="https://github.com/VILHALVA/CURSO-DE-ANDROID-STUDIO" target="_blank" rel="noreferrer"><img src="FOTOS/ANDROID_STUDIO.png" alt="ANDROID STUDIO" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-ANDROID-STUDIO-EM-JAVA" target="_blank" rel="noreferrer"><img src="FOTOS/ANDROID_STUDIO.png" alt="ANDROID STUDIO" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-ANDROID-STUDIO-EM-KOTLIN" target="_blank" rel="noreferrer"><img src="FOTOS/ANDROID_STUDIO_KT.png" alt="ANDROID STUDIO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-VISUAL-STUDIO-2022" target="_blank" rel="noreferrer"><img src="FOTOS/VISUAL_STUDIO_2022.png" alt="VISUAL STUDIO 2022" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVA-SWING" target="_blank" rel="noreferrer"><img src="FOTOS/JAVA_SWING.png" alt="JAVA SWING" width="40" height="40"/></a>
 
