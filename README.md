@@ -113,7 +113,8 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-SWIFT" target="_blank" rel="noreferrer"><img src="FOTOS/SWIFT.png" alt="SWIFT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-ASSEMBLY" target="_blank" rel="noreferrer"><img src="FOTOS/ASSEMBLY.png" alt="ASSEMBLY" width="40" height="40"/></a>
 
-<a href="https://github.com/VILHALVA/CURSO-DE-TELEBOT" target="_blank" rel="noreferrer"><img src="FOTOS/TELEGRAM_BOT.png" alt="TELEGRAM" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-TELEBOT" target="_blank" rel="noreferrer"><img src="FOTOS/TELEBOT_BOT.png" alt="TELEBOT" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-TELEGRAM-BOT" target="_blank" rel="noreferrer"><img src="FOTOS/TELEGRAM_BOT.jpg" alt="TELEGRAM BOT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-CHATBOT" target="_blank" rel="noreferrer"><img src="FOTOS/CHATBOT.png" alt="CHATBOT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-AUTOMACAO" target="_blank" rel="noreferrer"><img src="FOTOS/AUTOMACAO.png" alt="AUTOMACAO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-BOTPRESS" target="_blank" rel="noreferrer"><img src="FOTOS/BOTPRESS.png" alt="BOTPRESS" width="40" height="40"/></a>
