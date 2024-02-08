@@ -85,7 +85,6 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-FLASK" target="_blank" rel="noreferrer"><img src="FOTOS/FLASK.png" alt="FLASK" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-SVELTE" target="_blank" rel="noreferrer"><img src="FOTOS/SVELTE.png" alt="SVELTE" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-SPRING-BOOT" target="_blank" rel="noreferrer"><img src="FOTOS/SPRING_BOOT.png" alt="SPRING BOOT" width="40" height="40"/></a>
-
 <a href="https://github.com/VILHALVA/BOTOES-DESABILITADOS" target="_blank" rel="noreferrer"><img src="FOTOS/BOTOES.png" alt="BOTÕES DESABILITADOS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/EXPRESSOES-REGULARES" target="_blank" rel="noreferrer"><img src="FOTOS/EXPRESSOES_REGULARES.png" alt="EXPRESSÕES REGULARES" width="40" height="40"/></a>
 
@@ -117,6 +116,7 @@
 
 <a href="https://github.com/VILHALVA/CURSO-DE-TELEBOT" target="_blank" rel="noreferrer"><img src="FOTOS/TELEBOT_BOT.png" alt="TELEBOT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-TELEGRAM-BOT" target="_blank" rel="noreferrer"><img src="FOTOS/TELEGRAM_BOT.png" alt="TELEGRAM BOT" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/REQUERIMENTOS-VIA-ECHOBOT" target="_blank" rel="noreferrer"><img src="FOTOS/REQUERIMENTOS_VIA_ECHOBOT.png" alt="REQUERIMENTOS VIA ECHOBOT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-CHATBOT" target="_blank" rel="noreferrer"><img src="FOTOS/CHATBOT.png" alt="CHATBOT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-AUTOMACAO" target="_blank" rel="noreferrer"><img src="FOTOS/AUTOMACAO.png" alt="AUTOMACAO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-BOTPRESS" target="_blank" rel="noreferrer"><img src="FOTOS/BOTPRESS.png" alt="BOTPRESS" width="40" height="40"/></a>
