@@ -78,6 +78,7 @@
 
 ## [( 02 ) CRIAÇÃO DE APLICATIVOS](https://github.com/VILHALVA?tab=repositories&q=+topic:APLICATIVO)
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVA" target="_blank" rel="noreferrer"><img src="FOTOS/JAVA.png" alt="JAVA" width="40" height="40"/></a> 
+<a href="https://github.com/VILHALVA/CURSO-DE-JAVA-POO" target="_blank" rel="noreferrer"><img src="FOTOS/JAVA_POO.png" alt="JAVA POO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-KOTLIN" target="_blank" rel="noreferrer"> <img src="FOTOS/KOTLIN.png" alt="KOTLIN" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-XML" target="_blank" rel="noreferrer"><img src="FOTOS/XML.png" alt="XML" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-ANDROID-STUDIO-EM-JAVA" target="_blank" rel="noreferrer"><img src="FOTOS/ANDROID_STUDIO.png" alt="ANDROID STUDIO" width="40" height="40"/></a>
@@ -119,6 +120,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-C" target="_blank" rel="noreferrer"><img src="FOTOS/C.png" alt="C" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-C-PLUS-PLUS" target="_blank" rel="noreferrer"><img src="FOTOS/C_PLUS_PLUS.png" alt="C++" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-C-SHARP" target="_blank" rel="noreferrer"><img src="FOTOS/C_SHARP.png" alt="C#" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-C-SHARP-POO" target="_blank" rel="noreferrer"><img src="FOTOS/C_SHARP_POO.png" alt="C# POO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-GML" target="_blank" rel="noreferrer"><img src="FOTOS/GML.png" alt="GML" width="40" height="40"/></a>
 
 <a href="https://github.com/VILHALVA/CURSO-DE-CONSTRUCT" target="_blank" rel="noreferrer"><img src="FOTOS/CONSTRUT.png" alt="CONSTRUCT" width="40" height="40"/></a>
