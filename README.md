@@ -30,6 +30,7 @@
 # 👨‍💻COMO PROGRAMADOR:
 ## [( 01 ) CRIAÇÃO DE SITES](https://github.com/VILHALVA?tab=repositories&q=+topic:SITE)
 <a href="https://github.com/VILHALVA/CURSO-DE-PORTUGOL" target="_blank" rel="noreferrer"><img src="FOTOS/PORTUGOL.png" alt="PORTUGOL" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-LINGUAGENS" target="_blank" rel="noreferrer"><img src="FOTOS/LINGUAGENS.png" alt="LINGUAGENS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-GITHUB" target="_blank" rel="noreferrer"><img src="FOTOS/GITHUB.png" alt="GITHUB" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LINUX" target="_blank" rel="noreferrer"><img src="FOTOS/LINUX.png" alt="LINUX" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-REDES-DE-COMPUTADORES" target="_blank" rel="noreferrer"><img src="FOTOS/REDES_DE_COMPUTADORES.png" alt="REDES DE COMPUTADORES" width="40" height="40"/></a>
