@@ -31,8 +31,10 @@
 ## [( 01 ) CRIAÇÃO DE SITES](https://github.com/VILHALVA?tab=repositories&q=+topic:SITE)
 <a href="https://github.com/VILHALVA/CURSO-DE-PORTUGOL" target="_blank" rel="noreferrer"><img src="FOTOS/PORTUGOL.png" alt="PORTUGOL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LINGUAGENS" target="_blank" rel="noreferrer"><img src="FOTOS/LINGUAGENS.png" alt="LINGUAGENS" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-GITHUB" target="_blank" rel="noreferrer"><img src="FOTOS/GITHUB.png" alt="GITHUB" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-LINUX" target="_blank" rel="noreferrer"><img src="FOTOS/LINUX.png" alt="LINUX" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-GITHUB-01" target="_blank" rel="noreferrer"><img src="FOTOS/GITHUB_01.png" alt="GITHUB 01" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-GITHUB-02" target="_blank" rel="noreferrer"><img src="FOTOS/GITHUB_02.png" alt="GITHUB 02" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-LINUX-01" target="_blank" rel="noreferrer"><img src="FOTOS/LINUX_01.png" alt="LINUX 01" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-LINUX-02" target="_blank" rel="noreferrer"><img src="FOTOS/LINUX_02.png" alt="LINUX 02" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-REDES-DE-COMPUTADORES" target="_blank" rel="noreferrer"><img src="FOTOS/REDES_DE_COMPUTADORES.png" alt="REDES DE COMPUTADORES" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-HARDWARE" target="_blank" rel="noreferrer"><img src="FOTOS/HARDWARE.png" alt="HARDWARE" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-BASES-NUMERICAS" target="_blank" rel="noreferrer"><img src="FOTOS/BASES_BINARIAS.png" alt="BASES NUMERICAS" width="40" height="40"/></a>
