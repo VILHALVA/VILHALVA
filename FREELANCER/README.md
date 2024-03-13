@@ -82,7 +82,10 @@ Ofereço serviços abrangentes na moderação de grupos e canais no Telegram. Mi
 ### 09) Testamos e Aperfeiçoamos:
 Independentemente do projeto que você tenha desenvolvido, eu irei conduzir testes abrangentes e fornecer feedback detalhado, juntamente com sugestões de aprimoramento.
 
-### 10) Soluções Personalizadas:
+### 10) Comprar um Projeto Premium: 
+Você tem a opção de requisitar a aquisição de projetos disponíveis em nosso diretório privado, denominado ['PROJETOS PREMIUM'](https://t.me/VILHALVA100_CANAL/158?single). Alguns desses projetos tem essa designação devido à sua qualidade e prontidão para serem utilizados e aprimorados em projetos de trabalho freelance. Eles não estão disponíveis publicamente no GitHub devido à sua natureza premium e à necessidade de manter sua confidencialidade.
+
+### 11) Soluções Personalizadas:
 Se você precisar de um serviço específico que não tenha sido mencionado anteriormente, não hesite em entrar em contato comigo através do meu PV (mensagem privada). Estou aqui para criar soluções personalizadas que atendam às suas necessidades exclusivas.
 
 ## Não é qualquer tipo de serviço que faço!
@@ -97,7 +100,7 @@ Quanto a solicitações de atividades ilegais, como criação de vírus, piratar
 ### Opção 1: Contrato por Serviço
 Se você tem novas ideias ou revisões em mente, minha opção de contrato por serviço permite que você solicite meus serviços de maneira ágil e personalizada. Custos variam de acordo com a complexidade, sendo a partir de R$ 20,00.
 ### Opção 2: Contrato Mensal
-Para uma colaboração contínua, ofereço um contrato mensal por R$ 3.000. Isso proporciona um acesso dedicado aos meus serviços por 30 dias, dentro das restrições de disponibilidade de segunda a sexta-feira à tarde e, às vezes, à noite e aos Sábados.
+Para uma colaboração contínua, ofereço um contrato mensal por R$ 2.000,00 (Dois mil reais) Isso proporciona um acesso dedicado aos meus serviços por 30 dias, dentro das restrições de disponibilidade de segunda a sexta-feira à tarde e, às vezes, à noite e aos Sábados.
 
 ## E se eu (O cliente) Desistir ou não pagar?
 O trabalho como freelancer oferece uma liberdade única para exercer habilidades de forma independente. Em situações em que o cliente desiste ou não efetua pagamento, a vantagem é a capacidade de reutilizar projetos concluídos para futuros clientes, evitando desperdício de esforço. A disposição para aprender é fundamental, reconhecendo que ninguém sabe tudo, e estou comprometido em enfrentar desafios e adquirir novas habilidades conforme necessário. Adaptabilidade e aprimoramento contínuo são princípios essenciais para oferecer serviços de qualidade.
