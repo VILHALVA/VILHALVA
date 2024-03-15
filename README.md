@@ -42,6 +42,8 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-FREELANCER" target="_blank" rel="noreferrer"><img src="FOTOS/FREELANCER.png" alt="FREELANCER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-MARKETING" target="_blank" rel="noreferrer"><img src="FOTOS/MARKETING.png" alt="MARKETING" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-ANUNCIOS" target="_blank" rel="noreferrer"><img src="FOTOS/ANUNCIOS_2.png" alt="ANUNCIOS" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/BOTOES-DESABILITADOS" target="_blank" rel="noreferrer"><img src="FOTOS/BOTOES.png" alt="BOTÕES DESABILITADOS" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/EXPRESSOES-REGULARES" target="_blank" rel="noreferrer"><img src="FOTOS/EXPRESSOES_REGULARES.png" alt="EXPRESSÕES REGULARES" width="40" height="40"/></a>
 
 <a href="https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS" target="_blank" rel="noreferrer"> <img src="FOTOS/HTML.png" alt="HTML" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS" target="_blank" rel="noreferrer"><img src="FOTOS/CSS.png" alt="CSS" width="40" height="40"/></a> 
@@ -52,8 +54,6 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-WORDPRESS" target="_blank" rel="noreferrer"><img src="FOTOS/WORDPRESS.png" alt="WORDPRESS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-SEO" target="_blank" rel="noreferrer"><img src="FOTOS/SEO.png" alt="SEO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LGPD" target="_blank" rel="noreferrer"><img src="FOTOS/LGPD.png" alt="LGPD" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/BOTOES-DESABILITADOS" target="_blank" rel="noreferrer"><img src="FOTOS/BOTOES.png" alt="BOTÕES DESABILITADOS" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/EXPRESSOES-REGULARES" target="_blank" rel="noreferrer"><img src="FOTOS/EXPRESSOES_REGULARES.png" alt="EXPRESSÕES REGULARES" width="40" height="40"/></a>
 
 <a href="https://github.com/VILHALVA/CURSO-DE-NODEJS" target="_blank" rel="noreferrer"><img src="FOTOS/NODEJS.png" alt="NODEJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-NODEJS-COM-MYSQL" target="_blank" rel="noreferrer"><img src="FOTOS/NODEJS_COM_MYSQL.png" alt="NODEJS" width="40" height="40"/></a>
