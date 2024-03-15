@@ -52,11 +52,13 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-WORDPRESS" target="_blank" rel="noreferrer"><img src="FOTOS/WORDPRESS.png" alt="WORDPRESS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-SEO" target="_blank" rel="noreferrer"><img src="FOTOS/SEO.png" alt="SEO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LGPD" target="_blank" rel="noreferrer"><img src="FOTOS/LGPD.png" alt="LGPD" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/BOTOES-DESABILITADOS" target="_blank" rel="noreferrer"><img src="FOTOS/BOTOES.png" alt="BOTÕES DESABILITADOS" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/EXPRESSOES-REGULARES" target="_blank" rel="noreferrer"><img src="FOTOS/EXPRESSOES_REGULARES.png" alt="EXPRESSÕES REGULARES" width="40" height="40"/></a>
 
 <a href="https://github.com/VILHALVA/CURSO-DE-NODEJS" target="_blank" rel="noreferrer"><img src="FOTOS/NODEJS.png" alt="NODEJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-NODEJS-COM-MYSQL" target="_blank" rel="noreferrer"><img src="FOTOS/NODEJS_COM_MYSQL.png" alt="NODEJS" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-MYSQL" target="_blank" rel="noreferrer"><img src="FOTOS/MYSQL.png" alt="MYSQL" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-MYSQL-COM-PHP" target="_blank" rel="noreferrer"><img src="FOTOS/MYSQL_COM_PHP_2.png" alt="MYSQL COM PHP" width="50" height="50"/></a> 
+<a href="https://github.com/VILHALVA/CURSO-DE-MYSQL" target="_blank" rel="noreferrer"><img src="FOTOS/MYSQL.png" alt="MYSQL" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-MARIADB" target="_blank" rel="noreferrer"><img src="FOTOS/MARIADB.png" alt="MARIADB" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-POSTGRESQL" target="_blank" rel="noreferrer"><img src="FOTOS/POSTGRESQL.png" alt="POSTGRESQL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-MONGODB" target="_blank" rel="noreferrer"><img src="FOTOS/MONGODB.png" alt="MONGODB" width="40" height="40"/></a>
@@ -76,8 +78,6 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-FLASK" target="_blank" rel="noreferrer"><img src="FOTOS/FLASK_2.png" alt="FLASK" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-SVELTE" target="_blank" rel="noreferrer"><img src="FOTOS/SVELTE.png" alt="SVELTE" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-SPRING-BOOT" target="_blank" rel="noreferrer"><img src="FOTOS/SPRING_BOOT.png" alt="SPRING BOOT" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/BOTOES-DESABILITADOS" target="_blank" rel="noreferrer"><img src="FOTOS/BOTOES.png" alt="BOTÕES DESABILITADOS" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/EXPRESSOES-REGULARES" target="_blank" rel="noreferrer"><img src="FOTOS/EXPRESSOES_REGULARES.png" alt="EXPRESSÕES REGULARES" width="40" height="40"/></a>
 
 ## [( 02 ) CRIAÇÃO DE APLICATIVOS](https://github.com/VILHALVA?tab=repositories&q=+topic:APLICATIVO)
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVA" target="_blank" rel="noreferrer"><img src="FOTOS/JAVA.png" alt="JAVA" width="40" height="40"/></a> 
