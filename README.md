@@ -30,7 +30,6 @@
 # 👨‍💻COMO PROGRAMADOR:
 ## [( 01 ) CRIAÇÃO DE SITES](https://github.com/VILHALVA?tab=repositories&q=+topic:SITE)
 <a href="https://github.com/VILHALVA/CURSO-DE-PORTUGOL" target="_blank" rel="noreferrer"><img src="FOTOS/PORTUGOL.png" alt="PORTUGOL" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-LINGUAGENS" target="_blank" rel="noreferrer"><img src="FOTOS/LINGUAGENS.png" alt="LINGUAGENS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-GIT-E-GITHUB-01" target="_blank" rel="noreferrer"><img src="FOTOS/GITHUB_01.png" alt="GITHUB 01" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-GIT-E-GITHUB-02" target="_blank" rel="noreferrer"><img src="FOTOS/GITHUB_02.png" alt="GITHUB 02" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LINUX-01" target="_blank" rel="noreferrer"><img src="FOTOS/LINUX_01.png" alt="LINUX 01" width="40" height="40"/></a>
@@ -42,6 +41,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-FREELANCER" target="_blank" rel="noreferrer"><img src="FOTOS/FREELANCER.png" alt="FREELANCER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-MARKETING" target="_blank" rel="noreferrer"><img src="FOTOS/MARKETING.png" alt="MARKETING" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-ANUNCIOS" target="_blank" rel="noreferrer"><img src="FOTOS/ANUNCIOS_2.png" alt="ANUNCIOS" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-LINGUAGENS" target="_blank" rel="noreferrer"><img src="FOTOS/LINGUAGENS.png" alt="LINGUAGENS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/BOTOES-DESABILITADOS" target="_blank" rel="noreferrer"><img src="FOTOS/BOTOES.png" alt="BOTÕES DESABILITADOS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/EXPRESSOES-REGULARES" target="_blank" rel="noreferrer"><img src="FOTOS/EXPRESSOES_REGULARES.png" alt="EXPRESSÕES REGULARES" width="40" height="40"/></a>
 
