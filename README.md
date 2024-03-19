@@ -12,6 +12,7 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO" target="_blank"><img src="https://img.shields.io/badge/MEUS%20CURSOS-FF0000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:MINI-CURSO" target="_blank"><img src="https://img.shields.io/badge/MEUS%20MINICURSOS-FF0000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:PROJETO" target="_blank"><img src="https://img.shields.io/badge/MEUS%20PROJETOS-FFF000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:PREMIUM" target="_blank"><img src="https://img.shields.io/badge/PROJETOS%20PREMIUM-FFF000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://github.com/VILHALVA?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/MEUS%20REPOSITÓRIOS-00FF00?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://vilhalva.github.io/STYLER/STYLER.html" target="_blank"><img src="https://img.shields.io/badge/MEU%20PRIMEIRO%20SITE-0000FF?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
 <a href="./HELP/README.md" target="_blank"><img src="https://img.shields.io/badge/NOS%20AJUDE-0000FF?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
