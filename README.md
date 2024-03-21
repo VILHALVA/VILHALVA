@@ -107,6 +107,10 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-EXE" target="_blank" rel="noreferrer"><img src="FOTOS/EXE_2.png" alt="EXE" width="40" height="40"/></a>
 
 ## [( 03 ) CRIAÇÃO DE ROBÔS](https://github.com/VILHALVA?tab=repositories&q=+topic:BOT)
+[![GitHub Repo stars](https://img.shields.io/badge/TELEGRAM-8A2BE2)](https://github.com/VILHALVA?tab=repositories&q=+topic:TELEGRAM-BOT)
+[![GitHub Repo stars](https://img.shields.io/badge/WHATSAPP-8A2BE2)](https://github.com/VILHALVA?tab=repositories&q=+topic:WHATSAPP-BOT)
+[![GitHub Repo stars](https://img.shields.io/badge/DISCORD-8A2BE2)](https://github.com/VILHALVA?tab=repositories&q=+topic:DISCORD-BOT)
+
 <a href="https://github.com/VILHALVA/CURSO-DE-PYTHON" target="_blank" rel="noreferrer"><img src="FOTOS/PYTHON.png" alt="PYTHON" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PYTHON-POO" target="_blank" rel="noreferrer"><img src="FOTOS/PYTHON_POO.png" alt="PYTHON POO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LOGICA-COM-PYTHON" target="_blank" rel="noreferrer"><img src="FOTOS/LOGICA_COM_PYTHON.jpg" alt="LOGICA COM PYTHON" width="40" height="40"/></a>
