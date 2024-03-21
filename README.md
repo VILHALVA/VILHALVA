@@ -86,6 +86,7 @@
 ## [( 02 ) CRIAÇÃO DE APLICATIVOS](https://github.com/VILHALVA?tab=repositories&q=+topic:APLICATIVO)
 [![GitHub Repo stars](https://img.shields.io/badge/ANDROID-006000)](https://github.com/VILHALVA?tab=repositories&q=+topic:ANDROID)
 [![GitHub Repo stars](https://img.shields.io/badge/WINDOWS-0000255)](https://github.com/VILHALVA?tab=repositories&q=+topic:WINDOWS)
+[![GitHub Repo stars](https://img.shields.io/badge/LINUX-01230020)](https://github.com/VILHALVA?tab=repositories&q=+topic:LINUX)
 
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVA" target="_blank" rel="noreferrer"><img src="FOTOS/JAVA.png" alt="JAVA" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVA-POO" target="_blank" rel="noreferrer"><img src="FOTOS/JAVA_POO.png" alt="JAVA POO" width="40" height="40"/></a>
