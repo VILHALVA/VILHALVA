@@ -130,6 +130,8 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-INTELIGENCIA-ARTIFICIAL" target="_blank" rel="noreferrer"><img src="FOTOS/INTELIGENCIA_ARTIFICIAL.png" alt="IA" width="45" height="45"/></a>
 
 ## [ ( 04 ) CRIAÇÃO DE JOGOS](https://github.com/VILHALVA?tab=repositories&q=+topic:JOGO)
+[![GitHub Repo stars](https://img.shields.io/badge/CONSOLE-255000000)](https://github.com/VILHALVA?tab=repositories&q=+topic:CONSOLE-GAME)
+
 <a href="https://github.com/VILHALVA/CURSO-DE-RUBY" target="_blank" rel="noreferrer"><img src="FOTOS/RUBY.jpg" alt="RUBY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LUA" target="_blank" rel="noreferrer"><img src="FOTOS/LUA.png" alt="LUA" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-C" target="_blank" rel="noreferrer"><img src="FOTOS/C.png" alt="C" width="40" height="40"/></a>
