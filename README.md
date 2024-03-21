@@ -33,8 +33,8 @@
 
 [![GitHub Repo stars](https://img.shields.io/badge/FRAMEWORK-FF0000
 )](https://github.com/VILHALVA?tab=repositories&q=+topic:FRAMEWORK)
-[![GitHub Repo stars](https://img.shields.io/badge/DATABASES-8A2BE2)](https://github.com/VILHALVA?tab=repositories&q=+topic:DATABASE)
-[![GitHub Repo stars](https://img.shields.io/badge/CRUDS-8A2BE2)](https://github.com/VILHALVA?tab=repositories&q=+topic:CRUD)
+[![GitHub Repo stars](https://img.shields.io/badge/DATABASES-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:DATABASE)
+[![GitHub Repo stars](https://img.shields.io/badge/CRUDS-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:CRUD)
 
 <a href="https://github.com/VILHALVA/CURSO-DE-PORTUGOL" target="_blank" rel="noreferrer"><img src="FOTOS/PORTUGOL.png" alt="PORTUGOL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-GIT-E-GITHUB-01" target="_blank" rel="noreferrer"><img src="FOTOS/GITHUB_01.png" alt="GITHUB 01" width="40" height="40"/></a>
@@ -86,9 +86,9 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-SPRING-BOOT" target="_blank" rel="noreferrer"><img src="FOTOS/SPRING_BOOT.png" alt="SPRING BOOT" width="40" height="40"/></a>
 
 ## [( 02 ) CRIAÇÃO DE APLICATIVOS](https://github.com/VILHALVA?tab=repositories&q=+topic:APLICATIVO)
-[![GitHub Repo stars](https://img.shields.io/badge/ANDROID-006000)](https://github.com/VILHALVA?tab=repositories&q=+topic:ANDROID)
-[![GitHub Repo stars](https://img.shields.io/badge/WINDOWS-0000255)](https://github.com/VILHALVA?tab=repositories&q=+topic:WINDOWS)
-[![GitHub Repo stars](https://img.shields.io/badge/LINUX-012300)](https://github.com/VILHALVA?tab=repositories&q=+topic:LINUX)
+[![GitHub Repo stars](https://img.shields.io/badge/ANDROID-00FF00)](https://github.com/VILHALVA?tab=repositories&q=+topic:ANDROID)
+[![GitHub Repo stars](https://img.shields.io/badge/WINDOWS-00FF00)](https://github.com/VILHALVA?tab=repositories&q=+topic:WINDOWS)
+[![GitHub Repo stars](https://img.shields.io/badge/LINUX-00FF00)](https://github.com/VILHALVA?tab=repositories&q=+topic:LINUX)
 
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVA" target="_blank" rel="noreferrer"><img src="FOTOS/JAVA.png" alt="JAVA" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVA-POO" target="_blank" rel="noreferrer"><img src="FOTOS/JAVA_POO.png" alt="JAVA POO" width="40" height="40"/></a>
@@ -109,9 +109,9 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-EXE" target="_blank" rel="noreferrer"><img src="FOTOS/EXE_2.png" alt="EXE" width="40" height="40"/></a>
 
 ## [( 03 ) CRIAÇÃO DE ROBÔS](https://github.com/VILHALVA?tab=repositories&q=+topic:BOT)
-[![GitHub Repo stars](https://img.shields.io/badge/TELEGRAM-8A2BE2)](https://github.com/VILHALVA?tab=repositories&q=+topic:TELEGRAM-BOT)
-[![GitHub Repo stars](https://img.shields.io/badge/WHATSAPP-8A2BE2)](https://github.com/VILHALVA?tab=repositories&q=+topic:WHATSAPP-BOT)
-[![GitHub Repo stars](https://img.shields.io/badge/DISCORD-8A2BE2)](https://github.com/VILHALVA?tab=repositories&q=+topic:DISCORD-BOT)
+[![GitHub Repo stars](https://img.shields.io/badge/TELEGRAM-0000FF)](https://github.com/VILHALVA?tab=repositories&q=+topic:TELEGRAM-BOT)
+[![GitHub Repo stars](https://img.shields.io/badge/WHATSAPP-0000FF)](https://github.com/VILHALVA?tab=repositories&q=+topic:WHATSAPP-BOT)
+[![GitHub Repo stars](https://img.shields.io/badge/DISCORD-0000FF)](https://github.com/VILHALVA?tab=repositories&q=+topic:DISCORD-BOT)
 
 <a href="https://github.com/VILHALVA/CURSO-DE-PYTHON" target="_blank" rel="noreferrer"><img src="FOTOS/PYTHON.png" alt="PYTHON" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PYTHON-POO" target="_blank" rel="noreferrer"><img src="FOTOS/PYTHON_POO.png" alt="PYTHON POO" width="40" height="40"/></a>
@@ -132,9 +132,9 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-INTELIGENCIA-ARTIFICIAL" target="_blank" rel="noreferrer"><img src="FOTOS/INTELIGENCIA_ARTIFICIAL.png" alt="IA" width="45" height="45"/></a>
 
 ## [( 04 ) CRIAÇÃO DE JOGOS](https://github.com/VILHALVA?tab=repositories&q=+topic:JOGO)
-[![GitHub Repo stars](https://img.shields.io/badge/CONSOLE-255000000)](https://github.com/VILHALVA?tab=repositories&q=+topic:CONSOLE-GAME)
-[![GitHub Repo stars](https://img.shields.io/badge/HTML-255000000)](https://github.com/VILHALVA?tab=repositories&q=+topic:HTML-GAME)
-[![GitHub Repo stars](https://img.shields.io/badge/ENGINE-255000000)](https://github.com/VILHALVA?tab=repositories&q=+topic:ENGINE-GAME)
+[![GitHub Repo stars](https://img.shields.io/badge/CONSOLE-0F00F0)](https://github.com/VILHALVA?tab=repositories&q=+topic:CONSOLE-GAME)
+[![GitHub Repo stars](https://img.shields.io/badge/HTML-0F00F0)](https://github.com/VILHALVA?tab=repositories&q=+topic:HTML-GAME)
+[![GitHub Repo stars](https://img.shields.io/badge/ENGINE-0F00F0)](https://github.com/VILHALVA?tab=repositories&q=+topic:ENGINE-GAME)
 
 <a href="https://github.com/VILHALVA/CURSO-DE-RUBY" target="_blank" rel="noreferrer"><img src="FOTOS/RUBY.jpg" alt="RUBY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LUA" target="_blank" rel="noreferrer"><img src="FOTOS/LUA.png" alt="LUA" width="40" height="40"/></a>
