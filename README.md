@@ -36,6 +36,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/DATABASE-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:DATABASE)
 [![GitHub Repo stars](https://img.shields.io/badge/CRUD-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:CRUD)
 [![GitHub Repo stars](https://img.shields.io/badge/FORMULARIO-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:FORMULARIO)
+[![GitHub Repo stars](https://img.shields.io/badge/PESQUISADOR-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:SEARCH)
 [![GitHub Repo stars](https://img.shields.io/badge/INTERFACE-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:INTERFACE)
 [![GitHub Repo stars](https://img.shields.io/badge/MATEMATICA-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:MATEMATICA)
 [![GitHub Repo stars](https://img.shields.io/badge/MULTIMIDIA-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:MULTIMIDIA)
