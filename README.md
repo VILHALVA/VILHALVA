@@ -35,6 +35,10 @@
 )](https://github.com/VILHALVA?tab=repositories&q=+topic:FRAMEWORK)
 [![GitHub Repo stars](https://img.shields.io/badge/DATABASE-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:DATABASE)
 [![GitHub Repo stars](https://img.shields.io/badge/CRUD-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:CRUD)
+[![GitHub Repo stars](https://img.shields.io/badge/INTERFACE-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:INTERFACE)
+[![GitHub Repo stars](https://img.shields.io/badge/MATEMATICA-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:MATEMATICA)
+[![GitHub Repo stars](https://img.shields.io/badge/MULTIMIDIA-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:MULTIMIDIA)
+[![GitHub Repo stars](https://img.shields.io/badge/CURSO%20EM%20VIDEO-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO-EM-VIDEO)
 
 <a href="https://github.com/VILHALVA/CURSO-DE-PORTUGOL" target="_blank" rel="noreferrer"><img src="FOTOS/PORTUGOL.png" alt="PORTUGOL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-GIT-E-GITHUB-01" target="_blank" rel="noreferrer"><img src="FOTOS/GITHUB_01.png" alt="GITHUB 01" width="40" height="40"/></a>
