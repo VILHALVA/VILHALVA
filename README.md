@@ -45,6 +45,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/CURSO%20EM%20VIDEO-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO-EM-VIDEO)
 
 <a href="https://github.com/VILHALVA/CURSO-DE-PORTUGOL" target="_blank" rel="noreferrer"><img src="FOTOS/PORTUGOL.png" alt="PORTUGOL" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-ASSEMBLY" target="_blank" rel="noreferrer"><img src="FOTOS/ASSEMBLY.png" alt="ASSEMBLY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-GIT-E-GITHUB-01" target="_blank" rel="noreferrer"><img src="FOTOS/GITHUB_01.png" alt="GITHUB 01" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-GIT-E-GITHUB-02" target="_blank" rel="noreferrer"><img src="FOTOS/GITHUB_02.png" alt="GITHUB 02" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LINUX-01" target="_blank" rel="noreferrer"><img src="FOTOS/LINUX_01.png" alt="LINUX 01" width="40" height="40"/></a>
@@ -58,6 +59,8 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-ANUNCIOS" target="_blank" rel="noreferrer"><img src="FOTOS/ANUNCIOS_2.png" alt="ANUNCIOS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-SEO" target="_blank" rel="noreferrer"><img src="FOTOS/SEO.png" alt="SEO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LGPD" target="_blank" rel="noreferrer"><img src="FOTOS/LGPD.png" alt="LGPD" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/BOTOES-DESABILITADOS" target="_blank" rel="noreferrer"><img src="FOTOS/BOTOES.png" alt="BOTÕES DESABILITADOS" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/EXPRESSOES-REGULARES" target="_blank" rel="noreferrer"><img src="FOTOS/EXPRESSOES_REGULARES.png" alt="EXPRESSÕES REGULARES" width="40" height="40"/></a>
 
 <a href="https://github.com/VILHALVA/CURSO-DE-HTML" target="_blank" rel="noreferrer"> <img src="FOTOS/HTML.png" alt="HTML" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS" target="_blank" rel="noreferrer"><img src="FOTOS/CSS.png" alt="CSS" width="40" height="40"/></a> 
@@ -66,8 +69,6 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-TYPESCRIPT" target="_blank" rel="noreferrer"> <img src="FOTOS/TYPESCRIPT.png" alt="TYPECRIPT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PHP" target="_blank" rel="noreferrer"><img src="FOTOS/PHP_2.png" alt="PHP" width="50" height="50"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-WORDPRESS" target="_blank" rel="noreferrer"><img src="FOTOS/WORDPRESS.png" alt="WORDPRESS" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/BOTOES-DESABILITADOS" target="_blank" rel="noreferrer"><img src="FOTOS/BOTOES.png" alt="BOTÕES DESABILITADOS" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/EXPRESSOES-REGULARES" target="_blank" rel="noreferrer"><img src="FOTOS/EXPRESSOES_REGULARES.png" alt="EXPRESSÕES REGULARES" width="40" height="40"/></a>
 
 <a href="https://github.com/VILHALVA/CURSO-DE-NODEJS" target="_blank" rel="noreferrer"><img src="FOTOS/NODEJS.png" alt="NODEJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-NODEJS-COM-MYSQL" target="_blank" rel="noreferrer"><img src="FOTOS/NODEJS_COM_MYSQL.png" alt="NODEJS" width="40" height="40"/></a>
@@ -101,6 +102,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVA" target="_blank" rel="noreferrer"><img src="FOTOS/JAVA.png" alt="JAVA" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVA-POO" target="_blank" rel="noreferrer"><img src="FOTOS/JAVA_POO.png" alt="JAVA POO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-KOTLIN" target="_blank" rel="noreferrer"> <img src="FOTOS/KOTLIN_2.png" alt="KOTLIN" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-SWIFT" target="_blank" rel="noreferrer"><img src="FOTOS/SWIFT.png" alt="SWIFT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-XML" target="_blank" rel="noreferrer"><img src="FOTOS/XML.png" alt="XML" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-ANDROID-STUDIO-EM-JAVA" target="_blank" rel="noreferrer"><img src="FOTOS/ANDROID_STUDIO.png" alt="ANDROID STUDIO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-ANDROID-STUDIO-EM-KOTLIN" target="_blank" rel="noreferrer"><img src="FOTOS/ANDROID_STUDIO_KTR.png" alt="ANDROID STUDIO" width="40" height="40"/></a>
@@ -128,9 +130,6 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-GOLANG" target="_blank" rel="noreferrer"><img src="FOTOS/GO.png" alt="GO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-RUST" target="_blank" rel="noreferrer"><img src="FOTOS/RUST.png" alt="RUST" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PASCAL" target="_blank" rel="noreferrer"><img src="FOTOS/PASCAL.png" alt="PASCAL" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-SWIFT" target="_blank" rel="noreferrer"><img src="FOTOS/SWIFT.png" alt="SWIFT" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-ASSEMBLY" target="_blank" rel="noreferrer"><img src="FOTOS/ASSEMBLY.png" alt="ASSEMBLY" width="40" height="40"/></a>
-
 <a href="https://github.com/VILHALVA/CURSO-DE-TELEBOT" target="_blank" rel="noreferrer"><img src="FOTOS/TELEBOT_2.png" alt="TELEBOT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-TELEGRAM-BOT" target="_blank" rel="noreferrer"><img src="FOTOS/TELEGRAMBOT_3.png" alt="TELEGRAM BOT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/REQUERIMENTOS-VIA-ECHOBOT" target="_blank" rel="noreferrer"><img src="FOTOS/REQUERIMENTOS_VIA_ECHOBOT.png" alt="REQUERIMENTOS VIA ECHOBOT" width="40" height="40"/></a>
