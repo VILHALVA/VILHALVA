@@ -130,6 +130,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-GOLANG" target="_blank" rel="noreferrer"><img src="FOTOS/GO.png" alt="GO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-RUST" target="_blank" rel="noreferrer"><img src="FOTOS/RUST.png" alt="RUST" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PASCAL" target="_blank" rel="noreferrer"><img src="FOTOS/PASCAL.png" alt="PASCAL" width="40" height="40"/></a>
+
 <a href="https://github.com/VILHALVA/CURSO-DE-TELEBOT" target="_blank" rel="noreferrer"><img src="FOTOS/TELEBOT_2.png" alt="TELEBOT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-TELEGRAM-BOT" target="_blank" rel="noreferrer"><img src="FOTOS/TELEGRAMBOT_3.png" alt="TELEGRAM BOT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/REQUERIMENTOS-VIA-ECHOBOT" target="_blank" rel="noreferrer"><img src="FOTOS/REQUERIMENTOS_VIA_ECHOBOT.png" alt="REQUERIMENTOS VIA ECHOBOT" width="40" height="40"/></a>
