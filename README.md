@@ -130,7 +130,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-PYTHON" target="_blank" rel="noreferrer"><img src="FOTOS/PYTHON.png" alt="PYTHON" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PYTHON-POO" target="_blank" rel="noreferrer"><img src="FOTOS/PYTHON_POO.png" alt="PYTHON POO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LOGICA-COM-PYTHON" target="_blank" rel="noreferrer"><img src="FOTOS/LOGICA_COM_PYTHON.jpg" alt="LOGICA COM PYTHON" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/MESTRE-DO-PYTHON" target="_blank" rel="noreferrer"><img src="FOTOS/MESTRE_DO_PYTHON.png" alt="MESTRE DO PYTHON" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-MESTRE-DO-PYTHON" target="_blank" rel="noreferrer"><img src="FOTOS/MESTRE_DO_PYTHON.png" alt="MESTRE DO PYTHON" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-GOLANG" target="_blank" rel="noreferrer"><img src="FOTOS/GO.png" alt="GO" width="40" height="40"/></a>
 
 <a href="https://github.com/VILHALVA/CURSO-DE-TELEBOT" target="_blank" rel="noreferrer"><img src="FOTOS/TELEBOT_2.png" alt="TELEBOT" width="40" height="40"/></a>
