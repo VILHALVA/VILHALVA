@@ -135,7 +135,6 @@
 
 <a href="https://github.com/VILHALVA/CURSO-DE-TELEBOT" target="_blank" rel="noreferrer"><img src="FOTOS/TELEBOT_2.png" alt="TELEBOT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-TELEGRAM-BOT" target="_blank" rel="noreferrer"><img src="FOTOS/TELEGRAMBOT_3.png" alt="TELEGRAM BOT" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-CHATBOT" target="_blank" rel="noreferrer"><img src="FOTOS/CHATBOT.png" alt="CHATBOT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-AUTOMACAO" target="_blank" rel="noreferrer"><img src="FOTOS/AUTOMACAO.png" alt="AUTOMACAO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-BOTPRESS" target="_blank" rel="noreferrer"><img src="FOTOS/BOTPRESS.png" alt="BOTPRESS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-INTELIGENCIA-ARTIFICIAL" target="_blank" rel="noreferrer"><img src="FOTOS/INTELIGENCIA_ARTIFICIAL.png" alt="IA" width="45" height="45"/></a>
