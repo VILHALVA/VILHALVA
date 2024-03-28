@@ -144,7 +144,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-INTELIGENCIA-ARTIFICIAL" target="_blank" rel="noreferrer"><img src="FOTOS/INTELIGENCIA_ARTIFICIAL.png" alt="IA" width="45" height="45"/></a>
 
 ## [( 04 ) CRIAÇÃO DE JOGOS](https://github.com/VILHALVA?tab=repositories&q=+topic:JOGO)
-[![GitHub Repo stars](https://img.shields.io/badge/CONSOLE-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=+topic:CONSOLE-GAME)
+[![GitHub Repo stars](https://img.shields.io/badge/TERMINAL-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=+topic:TERMINAL-GAME)
 [![GitHub Repo stars](https://img.shields.io/badge/HTML-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=+topic:HTML-GAME)
 [![GitHub Repo stars](https://img.shields.io/badge/ENGINE-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=+topic:ENGINE-GAME)
 
