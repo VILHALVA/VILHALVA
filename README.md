@@ -58,6 +58,8 @@
 [![GitHub Repo stars](https://img.shields.io/badge/FORMULARIO-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:FORMULARIO)
 [![GitHub Repo stars](https://img.shields.io/badge/PESQUISADOR-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:SEARCH)
 [![GitHub Repo stars](https://img.shields.io/badge/API-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:API)
+[![GitHub Repo stars](https://img.shields.io/badge/API-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:SQL)
+[![GitHub Repo stars](https://img.shields.io/badge/API-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:JSON)
 
 [![GitHub Repo stars](https://img.shields.io/badge/INTERFACE-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:INTERFACE)
 [![GitHub Repo stars](https://img.shields.io/badge/MATEMATICA-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:MATEMATICA)
@@ -146,11 +148,11 @@
 [![GitHub Repo stars](https://img.shields.io/badge/HTML-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=+topic:HTML-GAME)
 [![GitHub Repo stars](https://img.shields.io/badge/ENGINE-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=+topic:ENGINE-GAME)
 
-<a href="https://github.com/VILHALVA/CURSO-DE-LUA" target="_blank" rel="noreferrer"><img src="FOTOS/LUA.png" alt="LUA" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-C" target="_blank" rel="noreferrer"><img src="FOTOS/C.png" alt="C" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-C-PLUS-PLUS" target="_blank" rel="noreferrer"><img src="FOTOS/C_PLUS_PLUS.png" alt="C++" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-C-SHARP" target="_blank" rel="noreferrer"><img src="FOTOS/C_SHARP.png" alt="C#" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-C-SHARP-POO" target="_blank" rel="noreferrer"><img src="FOTOS/C_SHARP_POO.png" alt="C# POO" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-LUA" target="_blank" rel="noreferrer"><img src="FOTOS/LUA.png" alt="LUA" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-GML" target="_blank" rel="noreferrer"><img src="FOTOS/GML.png" alt="GML" width="40" height="40"/></a>
 
 <a href="https://github.com/VILHALVA/CURSO-DE-CONSTRUCT" target="_blank" rel="noreferrer"><img src="FOTOS/CONSTRUT.png" alt="CONSTRUCT" width="40" height="40"/></a>
