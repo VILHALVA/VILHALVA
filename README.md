@@ -54,8 +54,11 @@
 [![GitHub Repo stars](https://img.shields.io/badge/CRUD-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:CRUD)
 [![GitHub Repo stars](https://img.shields.io/badge/SQL-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:SQL)
 [![GitHub Repo stars](https://img.shields.io/badge/JSON-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:JSON)
+[![GitHub Repo stars](https://img.shields.io/badge/JSON%20DATABASE-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:JSON-DATABASE)
 [![GitHub Repo stars](https://img.shields.io/badge/PKL-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:PKL)
+[![GitHub Repo stars](https://img.shields.io/badge/PKL%20DATABASE-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:PKL-DATABASE)
 [![GitHub Repo stars](https://img.shields.io/badge/TXT-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:TXT)
+[![GitHub Repo stars](https://img.shields.io/badge/TXT%20DATABASE-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:TXT-DATABASE)
 [![GitHub Repo stars](https://img.shields.io/badge/API-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:API)
 
 [![GitHub Repo stars](https://img.shields.io/badge/FORMULARIO-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:FORMULARIO)
