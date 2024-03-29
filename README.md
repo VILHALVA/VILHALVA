@@ -99,9 +99,9 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-SPRING-BOOT" target="_blank" rel="noreferrer"><img src="FOTOS/SPRING_BOOT.png" alt="SPRING BOOT" width="40" height="40"/></a>
 
 ## [( 02 ) CRIAÇÃO DE APLICATIVOS](https://github.com/VILHALVA?tab=repositories&q=+topic:APLICATIVO)
-[![GitHub Repo stars](https://img.shields.io/badge/ANDROID-00FF00)](https://github.com/VILHALVA?tab=repositories&q=+topic:ANDROID)
-[![GitHub Repo stars](https://img.shields.io/badge/WINDOWS-00FF00)](https://github.com/VILHALVA?tab=repositories&q=+topic:WINDOWS)
-[![GitHub Repo stars](https://img.shields.io/badge/LINUX-00FF00)](https://github.com/VILHALVA?tab=repositories&q=+topic:LINUX)
+[![GitHub Repo stars](https://img.shields.io/badge/ANDROID-00FF00)](https://github.com/VILHALVA?tab=repositories&q=+topic:ANDROID-APP)
+[![GitHub Repo stars](https://img.shields.io/badge/WINDOWS-00FF00)](https://github.com/VILHALVA?tab=repositories&q=+topic:WINDOWS-APP)
+[![GitHub Repo stars](https://img.shields.io/badge/LINUX-00FF00)](https://github.com/VILHALVA?tab=repositories&q=+topic:LINUX-APP)
 
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVA" target="_blank" rel="noreferrer"><img src="FOTOS/JAVA.png" alt="JAVA" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVA-POO" target="_blank" rel="noreferrer"><img src="FOTOS/JAVA_POO.png" alt="JAVA POO" width="40" height="40"/></a>
@@ -142,6 +142,10 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-INTELIGENCIA-ARTIFICIAL" target="_blank" rel="noreferrer"><img src="FOTOS/INTELIGENCIA_ARTIFICIAL.png" alt="IA" width="45" height="45"/></a>
 
 ## [( 04 ) CRIAÇÃO DE JOGOS](https://github.com/VILHALVA?tab=repositories&q=+topic:JOGO)
+[![GitHub Repo stars](https://img.shields.io/badge/ANDROID-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=+topic:ANDROID-JOGO)
+[![GitHub Repo stars](https://img.shields.io/badge/WINDOWS-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=+topic:WINDOWS-JOGO)
+[![GitHub Repo stars](https://img.shields.io/badge/LINUX-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=+topic:LINUX-JOGO)
+
 [![GitHub Repo stars](https://img.shields.io/badge/TERMINAL-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=+topic:TERMINAL-GAME)
 [![GitHub Repo stars](https://img.shields.io/badge/HTML-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=+topic:HTML-GAME)
 [![GitHub Repo stars](https://img.shields.io/badge/ENGINE-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=+topic:ENGINE-GAME)
