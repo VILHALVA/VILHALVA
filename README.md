@@ -58,7 +58,6 @@
 [![GitHub Repo stars](https://img.shields.io/badge/API-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:API)
 [![GitHub Repo stars](https://img.shields.io/badge/EJS-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:EJS)
 [![GitHub Repo stars](https://img.shields.io/badge/HANDLEBARS-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:HANDLEBARS)
-[![GitHub Repo stars](https://img.shields.io/badge/POSTMAN-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:POSTMAN)
 
 [![GitHub Repo stars](https://img.shields.io/badge/FORMULARIO-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:FORMULARIO)
 [![GitHub Repo stars](https://img.shields.io/badge/PESQUISADOR-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:SEARCH)
