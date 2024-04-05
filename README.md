@@ -75,7 +75,10 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-RUBY" target="_blank" rel="noreferrer"><img src="FOTOS/RUBY.jpg" alt="RUBY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-WORDPRESS" target="_blank" rel="noreferrer"><img src="FOTOS/WORDPRESS.png" alt="WORDPRESS" width="40" height="40"/></a>
 
-<a href="https://github.com/VILHALVA/CURSO-DE-NODEJS" target="_blank" rel="noreferrer"><img src="FOTOS/NODEJS.png" alt="NODEJS" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-NODEJS" target="_blank" rel="noreferrer">
+  <img src="FOTOS/NODEJS.png" alt="NODEJS" width="40" height="40"/>
+</a> [CURSO] | PROJETOS
+
 <a href="https://github.com/VILHALVA/CURSO-DE-NODEJS-COM-MYSQL" target="_blank" rel="noreferrer"><img src="FOTOS/NODEJS_COM_MYSQL.png" alt="NODEJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-MYSQL-COM-PHP" target="_blank" rel="noreferrer"><img src="FOTOS/MYSQL_COM_PHP_2.png" alt="MYSQL COM PHP" width="50" height="50"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-MYSQL" target="_blank" rel="noreferrer"><img src="FOTOS/MYSQL.png" alt="MYSQL" width="40" height="40"/></a> 
