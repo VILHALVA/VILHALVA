@@ -92,10 +92,10 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-METEORJS" target="_blank" rel="noreferrer"><img src="FOTOS/METEORJS.png" alt="METEORJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-SVELTE" target="_blank" rel="noreferrer"><img src="FOTOS/SVELTE.png" alt="SVELTE" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PRISMA" target="_blank" rel="noreferrer"><img src="FOTOS/PRISMA.png" alt="PRISMA" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-BOOTSTRAP" target="_blank" rel="noreferrer"><img src="FOTOS/BOOTSTRAP.png" alt="BOOTSTRAP" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LARAVEL" target="_blank" rel="noreferrer"><img src="FOTOS/LARAVEL.png" alt="LARAVEL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-SPRING-BOOT" target="_blank" rel="noreferrer"><img src="FOTOS/SPRING_BOOT.png" alt="SPRING BOOT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-RUBYONRAILS" target="_blank" rel="noreferrer"><img src="FOTOS/RUBY_ON_RAILS.png" alt="RUBYONRAILS" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-BOOTSTRAP" target="_blank" rel="noreferrer"><img src="FOTOS/BOOTSTRAP.png" alt="BOOTSTRAP" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-DJANGO" target="_blank" rel="noreferrer"><img src="FOTOS/DJANGO.png" alt="DJANGO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-FLASK" target="_blank" rel="noreferrer"><img src="FOTOS/FLASK_2.png" alt="FLASK" width="40" height="40"/></a>
 
