@@ -52,7 +52,7 @@
 )](https://github.com/VILHALVA?tab=repositories&q=+topic:FRAMEWORK)
 [![GitHub Repo stars](https://img.shields.io/badge/DATABASE-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:DATABASE)
 [![GitHub Repo stars](https://img.shields.io/badge/CRUD-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:CRUD)
-[![GitHub Repo stars](https://img.shields.io/badge/SQL%20LITE-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:SQLLITE)
+[![GitHub Repo stars](https://img.shields.io/badge/SQL%20LITE-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:SQLITE)
 [![GitHub Repo stars](https://img.shields.io/badge/PKL-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:PKL)
 [![GitHub Repo stars](https://img.shields.io/badge/TXT-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:TXT)
 [![GitHub Repo stars](https://img.shields.io/badge/API-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:API)
