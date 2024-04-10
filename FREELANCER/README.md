@@ -83,7 +83,7 @@ Ofereço serviços abrangentes na moderação de grupos e canais no Telegram. Mi
 Independentemente do projeto que você tenha desenvolvido, eu irei conduzir testes abrangentes e fornecer feedback detalhado, juntamente com sugestões de aprimoramento.
 
 ### 10) Comprar um Projeto Premium: 
-Você tem a opção de requisitar a aquisição de projetos disponíveis em nosso diretório privado, denominado ['PROJETOS PREMIUM'](https://t.me/VILHALVA100_CANAL/158?single). Alguns desses projetos tem essa designação devido à sua qualidade e prontidão para serem utilizados e aprimorados em projetos de trabalho freelance. Eles não estão disponíveis publicamente no GitHub devido à sua natureza premium e à necessidade de manter sua confidencialidade.
+Você tem a opção de requisitar a aquisição de projetos disponíveis em nosso diretório privado, denominado ['PROJETOS PREMIUM'](https://github.com/VILHALVA?tab=repositories&q=+topic:PREMIUM). Alguns desses projetos tem essa designação devido à sua qualidade e prontidão para serem utilizados e aprimorados em projetos de trabalho freelance. Eles não estão disponíveis publicamente no GitHub devido à sua natureza premium e à necessidade de manter sua confidencialidade.
 
 ### 11) Soluções Personalizadas:
 Se você precisar de um serviço específico que não tenha sido mencionado anteriormente, não hesite em entrar em contato comigo através do meu PV (mensagem privada). Estou aqui para criar soluções personalizadas que atendam às suas necessidades exclusivas.
