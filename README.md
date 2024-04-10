@@ -100,6 +100,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-FLASK" target="_blank" rel="noreferrer"><img src="FOTOS/FLASK.png" alt="FLASK" width="40" height="40"/></a>
 
 ## [( 02 ) CRIAÇÃO DE APLICATIVOS](https://github.com/VILHALVA?tab=repositories&q=+topic:APLICATIVO)
+[![GitHub Repo stars](https://img.shields.io/badge/CODIGO-00FF00)](https://github.com/VILHALVA?tab=repositories&q=+topic:CODIGO-APP)
 [![GitHub Repo stars](https://img.shields.io/badge/ANDROID-00FF00)](https://github.com/VILHALVA?tab=repositories&q=+topic:ANDROID-APP)
 [![GitHub Repo stars](https://img.shields.io/badge/WINDOWS-00FF00)](https://github.com/VILHALVA?tab=repositories&q=+topic:WINDOWS-APP)
 [![GitHub Repo stars](https://img.shields.io/badge/LINUX-00FF00)](https://github.com/VILHALVA?tab=repositories&q=+topic:LINUX-APP)
