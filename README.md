@@ -28,24 +28,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/MEU-FACEBOOK-03A9F4?logo=facebook)](https://facebook.com/VILHALVA100)
 [![GitHub Repo stars](https://img.shields.io/badge/MEU-LINKEDIN-03A9F4?logo=linkedin)](http://www.linkedin.com/in/vilhalva)
 
-# 👨‍💻COMO PROGRAMADOR:
-## ( 00 ) CONHECIMENTO GERAL
-<a href="https://github.com/VILHALVA/CURSO-DE-PORTUGOL" target="_blank" rel="noreferrer"><img src="FOTOS/PORTUGOL.png" alt="PORTUGOL" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-ASSEMBLY" target="_blank" rel="noreferrer"><img src="FOTOS/ASSEMBLY.png" alt="ASSEMBLY" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-GIT-E-GITHUB-01" target="_blank" rel="noreferrer"><img src="FOTOS/GITHUB_01.png" alt="GITHUB 01" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-GIT-E-GITHUB-02" target="_blank" rel="noreferrer"><img src="FOTOS/GITHUB_02.png" alt="GITHUB 02" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-LINUX-01" target="_blank" rel="noreferrer"><img src="FOTOS/LINUX_01.png" alt="LINUX 01" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-LINUX-02" target="_blank" rel="noreferrer"><img src="FOTOS/LINUX_02.png" alt="LINUX 02" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-REDES-DE-COMPUTADORES" target="_blank" rel="noreferrer"><img src="FOTOS/REDES_DE_COMPUTADORES.png" alt="REDES DE COMPUTADORES" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-HARDWARE" target="_blank" rel="noreferrer"><img src="FOTOS/HARDWARE.png" alt="HARDWARE" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-BASES-NUMERICAS" target="_blank" rel="noreferrer"><img src="FOTOS/BASES_BINARIAS.png" alt="BASES NUMERICAS" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-SEGURANCA-DA-INFORMACAO" target="_blank" rel="noreferrer"><img src="FOTOS/SEGURANCA_DA_INFORMACAO.png" alt="SEGURANÇA DA INFORMAÇÃO" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-FREELANCER" target="_blank" rel="noreferrer"><img src="FOTOS/FREELANCER.png" alt="FREELANCER" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-MARKETING" target="_blank" rel="noreferrer"><img src="FOTOS/MARKETING.png" alt="MARKETING" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-ANUNCIOS" target="_blank" rel="noreferrer"><img src="FOTOS/ANUNCIOS.png" alt="ANUNCIOS" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-SEO" target="_blank" rel="noreferrer"><img src="FOTOS/SEO.png" alt="SEO" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-LGPD" target="_blank" rel="noreferrer"><img src="FOTOS/LGPD.png" alt="LGPD" width="40" height="40"/></a>
-
+# 👨‍💻MEUS PROJETOS:
 ## [( 01 ) CRIAÇÃO DE SITES](https://github.com/VILHALVA?tab=repositories&q=+topic:SITE)
 
 [![GitHub Repo stars](https://img.shields.io/badge/FRAMEWORK-FF0000
@@ -161,6 +144,8 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-CRYENGINE" target="_blank" rel="noreferrer"><img src="FOTOS/CRYENGINE.png" alt="CRYENGINE" width="40" height="40"/></a> <br>
 
 ![](https://i.imgur.com/waxVImv.png)
+
+<a href="./CURSOS.md"><img src="https://img.shields.io/badge/INDICE%20DOS%20CURSOS%20➡️-FF0000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 [![MasterHead](./MIDIAS/MIDIA_2.gif)](https://github.com/VILHALVA?tab=repositories&q=+topic:PROJETO)
  
