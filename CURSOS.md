@@ -1,4 +1,6 @@
 # 👨‍💻MEUS CURSOS:
+> Explore os cursos clicando nas fotos!
+
 ## ( 00 ) CONHECIMENTO GERAL
 <a href="https://github.com/VILHALVA/CURSO-DE-PORTUGOL" target="_blank" rel="noreferrer"><img src="FOTOS/PORTUGOL.png" alt="PORTUGOL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-ASSEMBLY" target="_blank" rel="noreferrer"><img src="FOTOS/ASSEMBLY.png" alt="ASSEMBLY" width="40" height="40"/></a>

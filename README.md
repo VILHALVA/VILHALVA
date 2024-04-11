@@ -7,6 +7,8 @@
 
 [![MasterHead](./MIDIAS/MIDIA_1.gif)](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
+> Explore os projetos e muito mais clicando nos botões e nas fotos!
+
 # 👶SUBSIDIOS:
 <a href="https://github.com/VILHALVA/CURSO-DE-PORTUGOL" target="_blank"><img src="https://img.shields.io/badge/SE%20FOR%20NOVATO%20CLIQUE%20AQUI-FF00FF?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO" target="_blank"><img src="https://img.shields.io/badge/MEUS%20CURSOS-FF0000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
