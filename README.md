@@ -49,8 +49,8 @@
 [![GitHub Repo stars](https://img.shields.io/badge/INTERFACE-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:INTERFACE)
 [![GitHub Repo stars](https://img.shields.io/badge/MATEMATICA-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:MATEMATICA)
 [![GitHub Repo stars](https://img.shields.io/badge/MULTIMIDIA-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:MULTIMIDIA)
-[![GitHub Repo stars](https://img.shields.io/badge/CURSO%20EM%20VIDEO-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO-EM-VIDEO)
 
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO-EM-VIDEO" target="_blank" rel="noreferrer"> <img src="FOTOS/CURSO_EM_VIDEO.png" alt="CURSO EM VIDEO" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-HTML" target="_blank" rel="noreferrer"> <img src="FOTOS/HTML.png" alt="HTML" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS" target="_blank" rel="noreferrer"><img src="FOTOS/CSS.png" alt="CSS" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT" target="_blank" rel="noreferrer"> <img src="FOTOS/JAVASCRIPT.png" alt="JAVASCRIPT" width="40" height="40"/></a>
