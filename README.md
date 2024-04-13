@@ -29,7 +29,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/MEU-LINKEDIN-03A9F4?logo=linkedin)](http://www.linkedin.com/in/vilhalva)
 
 # [👨‍💻MEUS CURSOS:](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
-> Explore os cursos clicando nas fotos!
+> 👇EXPLORE OS CURSOS CLICANDO NAS FOTOS!
 
 ## ( 00 ) CONHECIMENTO GERAL
 <a href="https://github.com/VILHALVA/CURSO-DE-PORTUGOL" target="_blank" rel="noreferrer"><img src="FOTOS/PORTUGOL.png" alt="PORTUGOL" width="40" height="40"/></a>
@@ -129,7 +129,7 @@
 ![](https://i.imgur.com/waxVImv.png)
 
 # [👨‍💻MEUS PROJETOS:](https://github.com/VILHALVA?tab=repositories&q=+topic:PROJETO)
-> Explore os projetos e muito mais clicando nos botões e nas fotos!
+> 👇EXPLORE OS PROJETOS E MUITO MAIS CLICANDO NOS BOTÕES E NAS FOTOS!
 
 ## [( 01 ) CRIAÇÃO DE SITES](https://github.com/VILHALVA?tab=repositories&q=+topic:SITE)
 
