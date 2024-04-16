@@ -49,12 +49,13 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-LGPD" target="_blank" rel="noreferrer"><img src="FOTOS/LGPD.png" alt="LGPD" width="40" height="40"/></a>
 
 ## ( 01 ) CRIAÇÃO DE SITES
-<details style="display: inline-block;">
+<details style="float: left; margin-right: 20px;">
     <summary><img src="FOTOS/HTML.png" alt="HTML" width="40" height="40"/></summary>
     <a href="https://github.com/VILHALVA/CURSO-DE-HTML" target="_blank" rel="noreferrer">CURSO</a> <br>
     <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:HTML" target="_blank" rel="noreferrer">PROJETOS</a>
 </details>
-<details style="display: inline-block;">
+
+<details style="float: left;">
     <summary><img src="FOTOS/HTML.png" alt="HTML" width="40" height="40"/></summary>
     <a href="https://github.com/VILHALVA/CURSO-DE-HTML" target="_blank" rel="noreferrer">CURSO</a> <br>
     <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:HTML" target="_blank" rel="noreferrer">PROJETOS</a>
