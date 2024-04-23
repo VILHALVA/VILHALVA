@@ -30,7 +30,7 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 
-# [👨‍💻MEUS CURSOS:](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+# [👨‍💻MEUS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 > 👇EXPLORE OS CURSOS CLICANDO NAS FOTOS!
 
 ## ( 00 ) CONHECIMENTO GERAL
@@ -130,7 +130,7 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 
-# [👨‍💻MEUS PROJETOS:](https://github.com/VILHALVA?tab=repositories&q=+topic:PROJETO)
+# [👨‍💻MEUS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=+topic:PROJETO)
 > 👇EXPLORE OS PROJETOS CLICANDO NOS BOTÕES E NAS FOTOS!
 
 ## [( 01 ) CRIAÇÃO DE SITES](https://github.com/VILHALVA?tab=repositories&q=+topic:SITE)
