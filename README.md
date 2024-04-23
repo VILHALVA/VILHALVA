@@ -28,6 +28,8 @@
 [![GitHub Repo stars](https://img.shields.io/badge/MEU-FACEBOOK-03A9F4?logo=facebook)](https://facebook.com/VILHALVA100)
 [![GitHub Repo stars](https://img.shields.io/badge/MEU-LINKEDIN-03A9F4?logo=linkedin)](http://www.linkedin.com/in/vilhalva)
 
+![](https://i.imgur.com/waxVImv.png)
+
 # [👨‍💻MEUS CURSOS:](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 > 👇EXPLORE OS CURSOS CLICANDO NAS FOTOS!
 
