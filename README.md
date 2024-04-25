@@ -74,7 +74,6 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-VUEJS" target="_blank" rel="noreferrer"><img src="FOTOS/VUEJS.png" alt="VUEJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-EXPRESSJS" target="_blank" rel="noreferrer"><img src="FOTOS/EXPRESSJS.png" alt="EXPRESSJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-EMBERJS" target="_blank" rel="noreferrer"><img src="FOTOS/EMBER.png" alt="EMBERJS" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-METEORJS" target="_blank" rel="noreferrer"><img src="FOTOS/METEORJS.png" alt="METEORJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-SVELTE" target="_blank" rel="noreferrer"><img src="FOTOS/SVELTE.png" alt="SVELTE" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PRISMA" target="_blank" rel="noreferrer"><img src="FOTOS/PRISMA.png" alt="PRISMA" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-BOOTSTRAP" target="_blank" rel="noreferrer"><img src="FOTOS/BOOTSTRAP.png" alt="BOOTSTRAP" width="40" height="40"/></a>
@@ -175,7 +174,6 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:VUEJS" target="_blank" rel="noreferrer"><img src="FOTOS/VUEJS.png" alt="VUEJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:EXPRESSJS" target="_blank" rel="noreferrer"><img src="FOTOS/EXPRESSJS.png" alt="EXPRESSJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:EMBERJS" target="_blank" rel="noreferrer"><img src="FOTOS/EMBER.png" alt="EMBERJS" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:METEORJS" target="_blank" rel="noreferrer"><img src="FOTOS/METEORJS.png" alt="METEORJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:SVELTE" target="_blank" rel="noreferrer"><img src="FOTOS/SVELTE.png" alt="SVELTE" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:PRISMA" target="_blank" rel="noreferrer"><img src="FOTOS/PRISMA.png" alt="PRISMA" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:BOOTSTRAP" target="_blank" rel="noreferrer"><img src="FOTOS/BOOTSTRAP.png" alt="BOOTSTRAP" width="40" height="40"/></a>
