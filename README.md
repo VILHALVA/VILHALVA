@@ -104,10 +104,10 @@
 
 ## ( 03 ) CRIAÇÃO DE ROBÔS
 <a href="https://github.com/VILHALVA/CURSO-DE-PYTHON" target="_blank" rel="noreferrer"><img src="FOTOS/PYTHON.png" alt="PYTHON" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-RUBY" target="_blank" rel="noreferrer"><img src="FOTOS/RUBY.jpg" alt="RUBY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PYTHON-POO" target="_blank" rel="noreferrer"><img src="FOTOS/PYTHON_POO.png" alt="PYTHON POO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LOGICA-COM-PYTHON" target="_blank" rel="noreferrer"><img src="FOTOS/LOGICA_COM_PYTHON.jpg" alt="LOGICA COM PYTHON" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-MESTRE-DO-PYTHON" target="_blank" rel="noreferrer"><img src="FOTOS/MESTRE_DO_PYTHON.png" alt="MESTRE DO PYTHON" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-RUBY" target="_blank" rel="noreferrer"><img src="FOTOS/RUBY.jpg" alt="RUBY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-TELEBOT" target="_blank" rel="noreferrer"><img src="FOTOS/TELEBOT.png" alt="TELEBOT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-AUTOMACAO" target="_blank" rel="noreferrer"><img src="FOTOS/AUTOMACAO.png" alt="AUTOMACAO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-BOTPRESS" target="_blank" rel="noreferrer"><img src="FOTOS/BOTPRESS.png" alt="BOTPRESS" width="40" height="40"/></a>
