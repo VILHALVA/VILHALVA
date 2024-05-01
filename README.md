@@ -79,7 +79,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-BOOTSTRAP" target="_blank" rel="noreferrer"><img src="FOTOS/BOOTSTRAP.png" alt="BOOTSTRAP" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LARAVEL" target="_blank" rel="noreferrer"><img src="FOTOS/LARAVEL.png" alt="LARAVEL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-DJANGO" target="_blank" rel="noreferrer"><img src="FOTOS/DJANGO.png" alt="DJANGO" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-FLASK" target="_blank" rel="noreferrer"><img src="FOTOS/FLASK2.png" alt="FLASK" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-FLASK" target="_blank" rel="noreferrer"><img src="FOTOS/FLASK.png" alt="FLASK" width="40" height="40"/></a>
 
 ## ( 02 ) CRIAÇÃO DE APLICATIVOS
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVA" target="_blank" rel="noreferrer"><img src="FOTOS/JAVA.png" alt="JAVA" width="40" height="40"/></a> 
@@ -181,7 +181,7 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:CHARTJS" target="_blank" rel="noreferrer"><img src="FOTOS/CHARTJS.png" alt="CHARTJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:LARAVEL" target="_blank" rel="noreferrer"><img src="FOTOS/LARAVEL.png" alt="LARAVEL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:DJANGO" target="_blank" rel="noreferrer"><img src="FOTOS/DJANGO.png" alt="DJANGO" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:FLASK" target="_blank" rel="noreferrer"><img src="FOTOS/FLASK2.png" alt="FLASK" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:FLASK" target="_blank" rel="noreferrer"><img src="FOTOS/FLASK.png" alt="FLASK" width="40" height="40"/></a>
 
 ## [( 02 ) CRIAÇÃO DE APLICATIVOS](https://github.com/VILHALVA?tab=repositories&q=+topic:APLICATIVO)
 [![GitHub Repo stars](https://img.shields.io/badge/CODIGO-00FF00)](https://github.com/VILHALVA?tab=repositories&q=+topic:CODIGO-APP)
