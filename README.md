@@ -137,6 +137,7 @@
 )](https://github.com/VILHALVA?tab=repositories&q=+topic:FRAMEWORK)
 [![GitHub Repo stars](https://img.shields.io/badge/DATABASE-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:DATABASE)
 [![GitHub Repo stars](https://img.shields.io/badge/CRUD-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:CRUD)
+[![GitHub Repo stars](https://img.shields.io/badge/API-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:API)
 [![GitHub Repo stars](https://img.shields.io/badge/FORMULARIO-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:FORMULARIO)
 [![GitHub Repo stars](https://img.shields.io/badge/PESQUISADOR-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:SEARCH)
 [![GitHub Repo stars](https://img.shields.io/badge/INTERFACE-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:INTERFACE)
@@ -166,7 +167,7 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:JSON" target="_blank" rel="noreferrer"><img src="FOTOS/JSON.png" alt="JSON" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:PKL" target="_blank" rel="noreferrer"><img src="FOTOS/PKL.png" alt="PKL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:TXT" target="_blank" rel="noreferrer"><img src="FOTOS/TXT.png" alt="TXT" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:API" target="_blank" rel="noreferrer"><img src="FOTOS/API.png" alt="API" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:API-REST" target="_blank" rel="noreferrer"><img src="FOTOS/API.png" alt="API" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:CART" target="_blank" rel="noreferrer"><img src="FOTOS/CART.png" alt="CART" width="40" height="40"/></a>
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:ANGULAR" target="_blank" rel="noreferrer"><img src="FOTOS/ANGULAR.png" alt="ANGULAR" width="40" height="40"/></a>
