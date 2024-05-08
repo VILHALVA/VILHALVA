@@ -225,14 +225,14 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:BOTPRESS" target="_blank" rel="noreferrer"><img src="FOTOS/BOTPRESS.png" alt="BOTPRESS" width="40" height="40"/></a>
 
 ## [( 04 ) CRIAÇÃO DE JOGOS](https://github.com/VILHALVA?tab=repositories&q=+topic:JOGO)
-[![GitHub Repo stars](https://img.shields.io/badge/ANDROID-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:CODIGO)
+[![GitHub Repo stars](https://img.shields.io/badge/CODIGO-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:CODIGO)
 [![GitHub Repo stars](https://img.shields.io/badge/ANDROID-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=+topic:ANDROID-JOGO)
 [![GitHub Repo stars](https://img.shields.io/badge/WINDOWS-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:WINDOWS)
 [![GitHub Repo stars](https://img.shields.io/badge/LINUX-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:LINUX)
 
 [![GitHub Repo stars](https://img.shields.io/badge/TERMINAL-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:TERMINAL)
-[![GitHub Repo stars](https://img.shields.io/badge/HTML-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=+topic:HTML-GAME)
-[![GitHub Repo stars](https://img.shields.io/badge/ENGINE-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=+topic:ENGINE-GAME)
+[![GitHub Repo stars](https://img.shields.io/badge/HTML-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:HTML)
+[![GitHub Repo stars](https://img.shields.io/badge/ENGINE-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:ENGINE)
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:C" target="_blank" rel="noreferrer"><img src="FOTOS/C.png" alt="C" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:C-PLUS-PLUS" target="_blank" rel="noreferrer"><img src="FOTOS/C_PLUS_PLUS.png" alt="C++" width="40" height="40"/></a>
