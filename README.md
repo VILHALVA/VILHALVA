@@ -221,7 +221,7 @@
 
 ## [( 04 ) CRIAÇÃO DE JOGOS](https://github.com/VILHALVA?tab=repositories&q=+topic:JOGO)
 [![GitHub Repo stars](https://img.shields.io/badge/CODIGO-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:CODIGO)
-[![GitHub Repo stars](https://img.shields.io/badge/ANDROID-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=+topic:ANDROID-JOGO)
+[![GitHub Repo stars](https://img.shields.io/badge/ANDROID-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:ANDROID)
 [![GitHub Repo stars](https://img.shields.io/badge/WINDOWS-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:WINDOWS)
 [![GitHub Repo stars](https://img.shields.io/badge/LINUX-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:LINUX)
 
