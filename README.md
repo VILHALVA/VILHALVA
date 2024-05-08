@@ -188,6 +188,10 @@
 [![GitHub Repo stars](https://img.shields.io/badge/WINDOWS-00FF00)](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:WINDOWS)
 [![GitHub Repo stars](https://img.shields.io/badge/LINUX-00FF00)](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:LINUX)
 
+[![GitHub Repo stars](https://img.shields.io/badge/TERMINAL-00FF00)](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:TERMINAL)
+[![GitHub Repo stars](https://img.shields.io/badge/INTERFACE-00FF00)](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:GUI)
+[![GitHub Repo stars](https://img.shields.io/badge/HTML-00FF00)](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:HTML)
+
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:JAVA" target="_blank" rel="noreferrer"><img src="FOTOS/JAVA.png" alt="JAVA" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:KOTLIN" target="_blank" rel="noreferrer"> <img src="FOTOS/KOTLIN.png" alt="KOTLIN" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:SWIFT" target="_blank" rel="noreferrer"><img src="FOTOS/SWIFT.png" alt="SWIFT" width="40" height="40"/></a>
@@ -226,8 +230,8 @@
 [![GitHub Repo stars](https://img.shields.io/badge/LINUX-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:LINUX)
 
 [![GitHub Repo stars](https://img.shields.io/badge/TERMINAL-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:TERMINAL)
-[![GitHub Repo stars](https://img.shields.io/badge/HTML-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:HTML)
 [![GitHub Repo stars](https://img.shields.io/badge/ENGINE-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:ENGINE)
+[![GitHub Repo stars](https://img.shields.io/badge/HTML-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:HTML)
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:C" target="_blank" rel="noreferrer"><img src="FOTOS/C.png" alt="C" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:C-PLUS-PLUS" target="_blank" rel="noreferrer"><img src="FOTOS/C_PLUS_PLUS.png" alt="C++" width="40" height="40"/></a>
