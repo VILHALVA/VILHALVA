@@ -119,7 +119,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-UNITY" target="_blank" rel="noreferrer"><img src="FOTOS/UNITY.png" alt="UNITY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-GAME-MAKER" target="_blank" rel="noreferrer"><img src="FOTOS/GAME_MAKER.png" alt="GAME MAKER" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-GODOT" target="_blank" rel="noreferrer"><img src="FOTOS/GODOT.png" alt="GODOT" width="40" height="40"/></a> 
-<a href="https://github.com/VILHALVA/CURSO-DE-CRYENGINE" target="_blank" rel="noreferrer"><img src="FOTOS/CRYENGINE.png" alt="CRYENGINE" width="40" height="40"/></a> <br>
+<a href="https://github.com/VILHALVA/CURSO-DE-CRYENGINE" target="_blank" rel="noreferrer"><img src="FOTOS/CRYENGINE2.png" alt="CRYENGINE" width="40" height="40"/></a> <br>
 
 ![](https://i.imgur.com/waxVImv.png)
 
@@ -247,7 +247,7 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:UNITY" target="_blank" rel="noreferrer"><img src="FOTOS/UNITY.png" alt="UNITY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:GAME-MAKER" target="_blank" rel="noreferrer"><img src="FOTOS/GAME_MAKER.png" alt="GAME MAKER" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:GODOT" target="_blank" rel="noreferrer"><img src="FOTOS/GODOT.png" alt="GODOT" width="40" height="40"/></a> 
-<a href="https://github.com/VILHALVA?tab=repositories&q=topic:CRYENGINE" target="_blank" rel="noreferrer"><img src="FOTOS/CRYENGINE.png" alt="CRYENGINE" width="40" height="40"/></a> <br>
+<a href="https://github.com/VILHALVA?tab=repositories&q=topic:CRYENGINE" target="_blank" rel="noreferrer"><img src="FOTOS/CRYENGINE2.png" alt="CRYENGINE" width="40" height="40"/></a> <br>
 
 ![](https://i.imgur.com/waxVImv.png)
 
