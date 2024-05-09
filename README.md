@@ -133,12 +133,12 @@
 [![GitHub Repo stars](https://img.shields.io/badge/DATABASE-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:DATABASE)
 [![GitHub Repo stars](https://img.shields.io/badge/CRUD-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:CRUD)
 [![GitHub Repo stars](https://img.shields.io/badge/API-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:API)
-[![GitHub Repo stars](https://img.shields.io/badge/FORMULARIO-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:FORMULARIO)
+[![GitHub Repo stars](https://img.shields.io/badge/FORM-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:FORMULARIO)
 
-[![GitHub Repo stars](https://img.shields.io/badge/PESQUISADOR-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:SEARCH)
+[![GitHub Repo stars](https://img.shields.io/badge/SEARCH-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:SEARCH)
 [![GitHub Repo stars](https://img.shields.io/badge/INTERFACE-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:INTERFACE)
-[![GitHub Repo stars](https://img.shields.io/badge/MATEMATICA-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:MATEMATICA)
-[![GitHub Repo stars](https://img.shields.io/badge/MULTIMIDIA-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:MULTIMIDIA)
+[![GitHub Repo stars](https://img.shields.io/badge/MATHE-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:MATEMATICA)
+[![GitHub Repo stars](https://img.shields.io/badge/MUIDIA-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:MULTIMIDIA)
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO-EM-VIDEO" target="_blank" rel="noreferrer"> <img src="FOTOS/CURSO_EM_VIDEO.png" alt="CURSO EM VIDEO" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:HTML" target="_blank" rel="noreferrer"> <img src="FOTOS/HTML.png" alt="HTML" width="40" height="40"/></a> 
