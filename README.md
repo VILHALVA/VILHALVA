@@ -166,7 +166,6 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:PKL" target="_blank" rel="noreferrer"><img src="FOTOS/PKL.png" alt="PKL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:TXT" target="_blank" rel="noreferrer"><img src="FOTOS/TXT.png" alt="TXT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:API-REST" target="_blank" rel="noreferrer"><img src="FOTOS/API_REST.png" alt="API REST" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:CART" target="_blank" rel="noreferrer"><img src="FOTOS/CART.png" alt="CART" width="40" height="40"/></a>
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:ANGULAR" target="_blank" rel="noreferrer"><img src="FOTOS/ANGULAR.png" alt="ANGULAR" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:REACT" target="_blank" rel="noreferrer"><img src="FOTOS/REACT.png" alt="REACT" width="40" height="40"/></a>
