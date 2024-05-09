@@ -158,10 +158,10 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:NODEJS+topic:MYSQL" target="_blank" rel="noreferrer"><img src="FOTOS/NODEJS_COM_MYSQL.png" alt="NODEJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PHP+topic:MYSQL" target="_blank" rel="noreferrer"><img src="FOTOS/MYSQL_COM_PHP.png" alt="MYSQL COM PHP" width="50" height="50"/></a> 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:MYSQL" target="_blank" rel="noreferrer"><img src="FOTOS/MYSQL.png" alt="MYSQL" width="40" height="40"/></a> 
-<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:SQLITE" target="_blank" rel="noreferrer"><img src="FOTOS/SQLITE.png" alt="SQLITE" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:MARIADB" target="_blank" rel="noreferrer"><img src="FOTOS/MARIADB.png" alt="MARIADB" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:POSTGRESQL" target="_blank" rel="noreferrer"><img src="FOTOS/POSTGRESQL.png" alt="POSTGRESQL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:MONGODB" target="_blank" rel="noreferrer"><img src="FOTOS/MONGODB.png" alt="MONGODB" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:SQLITE" target="_blank" rel="noreferrer"><img src="FOTOS/SQLITE.png" alt="SQLITE" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:JSON" target="_blank" rel="noreferrer"><img src="FOTOS/JSON.png" alt="JSON" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:JSON-SERVER" target="_blank" rel="noreferrer"><img src="FOTOS/JSON_SERVER.png" alt="JSON-SERVER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:PKL" target="_blank" rel="noreferrer"><img src="FOTOS/PKL.png" alt="PKL" width="40" height="40"/></a>
