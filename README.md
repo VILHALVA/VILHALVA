@@ -96,7 +96,6 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-CUSTOMTKINTER" target="_blank" rel="noreferrer"><img src="FOTOS/CUSTOMTKINTER.png" alt="CUSTOMTKINTER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-KIVY" target="_blank" rel="noreferrer"><img src="FOTOS/KIVY.png" alt="KIVY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-BEEWARE" target="_blank" rel="noreferrer"><img src="FOTOS/BEEWARE.png" alt="BEEWARE" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-EXE" target="_blank" rel="noreferrer"><img src="FOTOS/EXE.png" alt="EXE" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-TELEBOT" target="_blank" rel="noreferrer"><img src="FOTOS/TELEBOT.png" alt="TELEBOT" width="40" height="40"/></a>
 
 ## ( 04 ) TECNOLOGIAS
