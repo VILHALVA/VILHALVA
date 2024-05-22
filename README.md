@@ -57,6 +57,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-SCSS" target="_blank" rel="noreferrer"><img src="FOTOS/SCSS.png" alt="SCSS" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT" target="_blank" rel="noreferrer"> <img src="FOTOS/JAVASCRIPT.png" alt="JAVASCRIPT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT-POO" target="_blank" rel="noreferrer"> <img src="FOTOS/JAVASCRIPT_POO.png" alt="JAVASCRIPT POO" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-EJS" target="_blank" rel="noreferrer"> <img src="FOTOS/EJS.png" alt="EJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-TYPESCRIPT" target="_blank" rel="noreferrer"> <img src="FOTOS/TYPESCRIPT.png" alt="TYPECRIPT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PHP" target="_blank" rel="noreferrer"><img src="FOTOS/PHP.png" alt="PHP" width="50" height="50"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-RUBY" target="_blank" rel="noreferrer"><img src="FOTOS/RUBY.jpg" alt="RUBY" width="40" height="40"/></a>
