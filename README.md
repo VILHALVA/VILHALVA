@@ -148,6 +148,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/MULTIMIDIA-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:MULTIMIDIA)
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO-EM-VIDEO" target="_blank" rel="noreferrer"> <img src="FOTOS/CURSO_EM_VIDEO.png" alt="CURSO EM VIDEO" width="40" height="40"/></a> 
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:CURSE" target="_blank" rel="noreferrer"> <img src="FOTOS/CURSE.png" alt="CURSE" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:HTML" target="_blank" rel="noreferrer"> <img src="FOTOS/HTML.png" alt="HTML" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:CSS" target="_blank" rel="noreferrer"><img src="FOTOS/CSS.png" alt="CSS" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:SCSS" target="_blank" rel="noreferrer"><img src="FOTOS/SCSS.png" alt="SCSS" width="40" height="40"/></a> 
