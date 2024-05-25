@@ -94,7 +94,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-GIN" target="_blank" rel="noreferrer"><img src="FOTOS/GIN.png" alt="GIN" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-DJANGO" target="_blank" rel="noreferrer"><img src="FOTOS/DJANGO.png" alt="DJANGO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-FLASK" target="_blank" rel="noreferrer"><img src="FOTOS/FLASK.png" alt="FLASK" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-PYSCRIPT" target="_blank" rel="noreferrer"><img src="FOTOS/PYSCRIPT2.png" alt="PYSCRIPT" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-PYSCRIPT" target="_blank" rel="noreferrer"><img src="FOTOS/PYSCRIPT.png" alt="PYSCRIPT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-ELECTRONJS" target="_blank" rel="noreferrer"><img src="FOTOS/ELECTRONJS.png" alt="ELECTRONJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-TKINTER" target="_blank" rel="noreferrer"><img src="FOTOS/TKINTER.png" alt="TKINTER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-CUSTOMTKINTER" target="_blank" rel="noreferrer"><img src="FOTOS/CUSTOMTKINTER.png" alt="CUSTOMTKINTER" width="40" height="40"/></a>
@@ -192,7 +192,7 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:GIN" target="_blank" rel="noreferrer"><img src="FOTOS/GIN.png" alt="GIN" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:DJANGO" target="_blank" rel="noreferrer"><img src="FOTOS/DJANGO.png" alt="DJANGO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:FLASK" target="_blank" rel="noreferrer"><img src="FOTOS/FLASK.png" alt="FLASK" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:PYSCRIPT" target="_blank" rel="noreferrer"><img src="FOTOS/PYSCRIPT2.png" alt="PYSCRIPT" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:PYSCRIPT" target="_blank" rel="noreferrer"><img src="FOTOS/PYSCRIPT.png" alt="PYSCRIPT" width="40" height="40"/></a>
 
 ## [( 02 ) CRIAÇÃO DE APLICATIVOS](https://github.com/VILHALVA?tab=repositories&q=+topic:APLICATIVO)
 [![GitHub Repo stars](https://img.shields.io/badge/CODIGO-00FF00)](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:CODIGO)
