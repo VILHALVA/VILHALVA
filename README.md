@@ -113,6 +113,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-MARIADB" target="_blank" rel="noreferrer"><img src="FOTOS/MARIADB.png" alt="MARIADB" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-POSTGRESQL" target="_blank" rel="noreferrer"><img src="FOTOS/POSTGRESQL.png" alt="POSTGRESQL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-MONGODB" target="_blank" rel="noreferrer"><img src="FOTOS/MONGODB.png" alt="MONGODB" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-SQLITE" target="_blank" rel="noreferrer"><img src="FOTOS/SQLITE.png" alt="SQLITE" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PRISMA" target="_blank" rel="noreferrer"><img src="FOTOS/PRISMA.png" alt="PRISMA" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-ANDROID-STUDIO-EM-JAVA" target="_blank" rel="noreferrer"><img src="FOTOS/ANDROID_STUDIO_JA.png" alt="ANDROID STUDIO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-ANDROID-STUDIO-EM-KOTLIN" target="_blank" rel="noreferrer"><img src="FOTOS/ANDROID_STUDIO_KT.png" alt="ANDROID STUDIO" width="40" height="40"/></a>
