@@ -107,7 +107,7 @@
 ## ( 04 ) TECNOLOGIAS
 <a href="https://github.com/VILHALVA/CURSO-DE-WORDPRESS" target="_blank" rel="noreferrer"><img src="FOTOS/WORDPRESS.png" alt="WORDPRESS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-NODEJS" target="_blank" rel="noreferrer"><img src="FOTOS/NODEJS.png" alt="NODEJS" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-NODEJS-COM-MYSQL" target="_blank" rel="noreferrer"><img src="FOTOS/NODEJS_COM_MYSQL.png" alt="NODEJS" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-NODEJS-COM-MYSQL" target="_blank" rel="noreferrer"><img src="FOTOS/NODEJS_COM_MYSQL2.png" alt="NODEJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PHP-COM-MYSQL" target="_blank" rel="noreferrer"><img src="FOTOS/PHP_COM_MYSQL.png" alt="PHP COM MYSQL" width="50" height="50"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-PYTHON-COM-SQLITE" target="_blank" rel="noreferrer"><img src="FOTOS/PYTHON_COM_SQLITE.png" alt="PYTHON COM SQLITE" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-MYSQL" target="_blank" rel="noreferrer"><img src="FOTOS/MYSQL.png" alt="MYSQL" width="40" height="40"/></a> 
@@ -165,7 +165,7 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:WORDPRESS" target="_blank" rel="noreferrer"><img src="FOTOS/WORDPRESS.png" alt="WORDPRESS" width="40" height="40"/></a>
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:NODEJS" target="_blank" rel="noreferrer"><img src="FOTOS/NODEJS.png" alt="NODEJS" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=topic:NODEJS+topic:MYSQL" target="_blank" rel="noreferrer"><img src="FOTOS/NODEJS_COM_MYSQL.png" alt="NODEJS" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=topic:NODEJS+topic:MYSQL" target="_blank" rel="noreferrer"><img src="FOTOS/NODEJS_COM_MYSQL2.png" alt="NODEJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PHP+topic:MYSQL" target="_blank" rel="noreferrer"><img src="FOTOS/PHP_COM_MYSQL.png" alt="PHP COM MYSQL" width="50" height="50"/></a> 
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYTHON+topic:SQLITE" target="_blank" rel="noreferrer"><img src="FOTOS/PYTHON_COM_SQLITE.png" alt="PYTHON COM SQLITE" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:MYSQL" target="_blank" rel="noreferrer"><img src="FOTOS/MYSQL.png" alt="MYSQL" width="40" height="40"/></a> 
