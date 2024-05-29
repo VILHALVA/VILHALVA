@@ -122,7 +122,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVA-SWING" target="_blank" rel="noreferrer"><img src="FOTOS/JAVA_SWING.png" alt="JAVA SWING" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-VISUAL-STUDIO-2022" target="_blank" rel="noreferrer"><img src="FOTOS/VISUAL_STUDIO_2022.png" alt="VISUAL STUDIO 2022" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-AUTOMACAO" target="_blank" rel="noreferrer"><img src="FOTOS/AUTOMACAO.png" alt="AUTOMACAO" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-BOTPRESS" target="_blank" rel="noreferrer"><img src="FOTOS/BOTPRESS1.png" alt="BOTPRESS" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-BOTPRESS" target="_blank" rel="noreferrer"><img src="FOTOS/BOTPRESS.png" alt="BOTPRESS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-CONSTRUCT" target="_blank" rel="noreferrer"><img src="FOTOS/CONSTRUT.png" alt="CONSTRUCT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PHASER" target="_blank" rel="noreferrer"><img src="FOTOS/PHASER.png" alt="PHASER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-UNITY" target="_blank" rel="noreferrer"><img src="FOTOS/UNITY.png" alt="UNITY" width="40" height="40"/></a>
@@ -238,7 +238,7 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYTHON" target="_blank" rel="noreferrer"><img src="FOTOS/PYTHON.png" alt="PYTHON" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:TELEBOT" target="_blank" rel="noreferrer"><img src="FOTOS/TELEBOT.png" alt="TELEBOT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:AUTOMACAO" target="_blank" rel="noreferrer"><img src="FOTOS/AUTOMACAO.png" alt="AUTOMACAO" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=topic:BOTPRESS" target="_blank" rel="noreferrer"><img src="FOTOS/BOTPRESS1.png" alt="BOTPRESS" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=topic:BOTPRESS" target="_blank" rel="noreferrer"><img src="FOTOS/BOTPRESS.png" alt="BOTPRESS" width="40" height="40"/></a>
 
 ## [( 04 ) CRIAÇÃO DE JOGOS](https://github.com/VILHALVA?tab=repositories&q=+topic:JOGO)
 [![GitHub Repo stars](https://img.shields.io/badge/CODIGO-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:CODIGO)
