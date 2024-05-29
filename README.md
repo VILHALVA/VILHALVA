@@ -92,7 +92,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-MATERIALIZECSS" target="_blank" rel="noreferrer"><img src="FOTOS/MATERIALIZECSS.png" alt="MATERIALIZECSS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LARAVEL" target="_blank" rel="noreferrer"><img src="FOTOS/LARAVEL.png" alt="LARAVEL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-RUBY-ON-RAILS" target="_blank" rel="noreferrer"><img src="FOTOS/RUBY_ON_RAILS.png" alt="RUBY ON RAILS" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-GIN" target="_blank" rel="noreferrer"><img src="FOTOS/GIN.png" alt="GIN" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-GIN" target="_blank" rel="noreferrer"><img src="FOTOS/GIN1.png" alt="GIN" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-DJANGO" target="_blank" rel="noreferrer"><img src="FOTOS/DJANGO.png" alt="DJANGO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-FLASK" target="_blank" rel="noreferrer"><img src="FOTOS/FLASK.png" alt="FLASK" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PYSCRIPT" target="_blank" rel="noreferrer"><img src="FOTOS/PYSCRIPT.png" alt="PYSCRIPT" width="40" height="40"/></a>
@@ -194,7 +194,7 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:CHARTJS" target="_blank" rel="noreferrer"><img src="FOTOS/CHARTJS.png" alt="CHARTJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:LARAVEL" target="_blank" rel="noreferrer"><img src="FOTOS/LARAVEL.png" alt="LARAVEL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:RUBY-ON-RAILS" target="_blank" rel="noreferrer"><img src="FOTOS/RUBY_ON_RAILS.png" alt="RUBY ON RAILS" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:GIN" target="_blank" rel="noreferrer"><img src="FOTOS/GIN.png" alt="GIN" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:GIN" target="_blank" rel="noreferrer"><img src="FOTOS/GIN1.png" alt="GIN" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:DJANGO" target="_blank" rel="noreferrer"><img src="FOTOS/DJANGO.png" alt="DJANGO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:FLASK" target="_blank" rel="noreferrer"><img src="FOTOS/FLASK.png" alt="FLASK" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:PYSCRIPT" target="_blank" rel="noreferrer"><img src="FOTOS/PYSCRIPT.png" alt="PYSCRIPT" width="40" height="40"/></a>
