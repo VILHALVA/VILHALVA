@@ -84,7 +84,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-ANGULAR" target="_blank" rel="noreferrer"><img src="FOTOS/ANGULAR.png" alt="ANGULAR" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-REACT" target="_blank" rel="noreferrer"><img src="FOTOS/REACT.png" alt="REACT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-NEXTJS" target="_blank" rel="noreferrer"><img src="FOTOS/NEXTJS.png" alt="NEXTJS" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-VUEJS" target="_blank" rel="noreferrer"><img src="FOTOS/VUEJS.png" alt="VUEJS" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-VUEJS" target="_blank" rel="noreferrer"><img src="FOTOS/VUEJS1.png" alt="VUEJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-EXPRESSJS" target="_blank" rel="noreferrer"><img src="FOTOS/EXPRESSJS.png" alt="EXPRESSJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-SVELTE" target="_blank" rel="noreferrer"><img src="FOTOS/SVELTE.png" alt="SVELTE" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-EMBERJS" target="_blank" rel="noreferrer"><img src="FOTOS/EMBERJS.png" alt="EMBERJS" width="40" height="40"/></a>
@@ -184,7 +184,7 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:ANGULAR" target="_blank" rel="noreferrer"><img src="FOTOS/ANGULAR.png" alt="ANGULAR" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:REACT" target="_blank" rel="noreferrer"><img src="FOTOS/REACT.png" alt="REACT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:NEXTJS" target="_blank" rel="noreferrer"><img src="FOTOS/NEXTJS.png" alt="NEXTJS" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:VUEJS" target="_blank" rel="noreferrer"><img src="FOTOS/VUEJS.png" alt="VUEJS" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:VUEJS" target="_blank" rel="noreferrer"><img src="FOTOS/VUEJS1.png" alt="VUEJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:EXPRESSJS" target="_blank" rel="noreferrer"><img src="FOTOS/EXPRESSJS.png" alt="EXPRESSJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:SVELTE" target="_blank" rel="noreferrer"><img src="FOTOS/SVELTE.png" alt="SVELTE" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:EMBERJS" target="_blank" rel="noreferrer"><img src="FOTOS/EMBERJS.png" alt="EMBERJS" width="40" height="40"/></a>
