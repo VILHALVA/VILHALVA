@@ -120,7 +120,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-ANDROID-STUDIO-EM-JAVA" target="_blank" rel="noreferrer"><img src="FOTOS/ANDROID_STUDIO_JAVA.png" alt="ANDROID STUDIO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-ANDROID-STUDIO-EM-KOTLIN" target="_blank" rel="noreferrer"><img src="FOTOS/ANDROID_STUDIO_KOTLIN.png" alt="ANDROID STUDIO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVA-SWING" target="_blank" rel="noreferrer"><img src="FOTOS/JAVA_SWING.png" alt="JAVA SWING" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-VISUAL-STUDIO-2022" target="_blank" rel="noreferrer"><img src="FOTOS/VISUAL_STUDIO_2022.png" alt="VISUAL STUDIO 2022" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-VISUAL-STUDIO-2022" target="_blank" rel="noreferrer"><img src="FOTOS/VISUAL_STUDIO_20221.png" alt="VISUAL STUDIO 2022" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-AUTOMACAO" target="_blank" rel="noreferrer"><img src="FOTOS/AUTOMACAO.png" alt="AUTOMACAO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-BOTPRESS" target="_blank" rel="noreferrer"><img src="FOTOS/BOTPRESS.png" alt="BOTPRESS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-CONSTRUCT" target="_blank" rel="noreferrer"><img src="FOTOS/CONSTRUT.png" alt="CONSTRUCT" width="40" height="40"/></a>
@@ -225,7 +225,7 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:CUSTOMTKINTER" target="_blank" rel="noreferrer"><img src="FOTOS/CUSTOMTKINTER.png" alt="CUSTOMTKINTER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:KIVY" target="_blank" rel="noreferrer"><img src="FOTOS/KIVY.png" alt="KIVY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:BEEWARE" target="_blank" rel="noreferrer"><img src="FOTOS/BEEWARE.png" alt="BEEWARE" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=topic:VISUAL-STUDIO-2022" target="_blank" rel="noreferrer"><img src="FOTOS/VISUAL_STUDIO_2022.png" alt="VISUAL STUDIO 2022" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=topic:VISUAL-STUDIO-2022" target="_blank" rel="noreferrer"><img src="FOTOS/VISUAL_STUDIO_20221.png" alt="VISUAL STUDIO 2022" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:WPF" target="_blank" rel="noreferrer"><img src="FOTOS/WPF.png" alt="WPF" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:WINFORMS" target="_blank" rel="noreferrer"><img src="FOTOS/WINFORMS.png" alt="WINFORMS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:EXE" target="_blank" rel="noreferrer"><img src="FOTOS/EXE.png" alt="EXE" width="40" height="40"/></a>
