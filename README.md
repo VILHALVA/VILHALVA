@@ -98,7 +98,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-PYSCRIPT" target="_blank" rel="noreferrer"><img src="FOTOS/PYSCRIPT.png" alt="PYSCRIPT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-ELECTRONJS" target="_blank" rel="noreferrer"><img src="FOTOS/ELECTRONJS.png" alt="ELECTRONJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-TKINTER" target="_blank" rel="noreferrer"><img src="FOTOS/TKINTER.png" alt="TKINTER" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-CUSTOMTKINTER" target="_blank" rel="noreferrer"><img src="FOTOS/CUSTOMTKINTER.png" alt="CUSTOMTKINTER" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-CUSTOMTKINTER" target="_blank" rel="noreferrer"><img src="FOTOS/CUSTOMTKINTER1.png" alt="CUSTOMTKINTER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-KIVY" target="_blank" rel="noreferrer"><img src="FOTOS/KIVY.png" alt="KIVY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-BEEWARE" target="_blank" rel="noreferrer"><img src="FOTOS/BEEWARE.png" alt="BEEWARE" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-WPF" target="_blank" rel="noreferrer"><img src="FOTOS/WPF.png" alt="WPF" width="40" height="40"/></a>
@@ -222,7 +222,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVA-SWING" target="_blank" rel="noreferrer"><img src="FOTOS/JAVA_SWING.png" alt="JAVA SWING" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:ELECTRONJS" target="_blank" rel="noreferrer"><img src="FOTOS/ELECTRONJS.png" alt="ELECTRONJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:TKINTER" target="_blank" rel="noreferrer"><img src="FOTOS/TKINTER.png" alt="TKINTER" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=topic:CUSTOMTKINTER" target="_blank" rel="noreferrer"><img src="FOTOS/CUSTOMTKINTER.png" alt="CUSTOMTKINTER" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=topic:CUSTOMTKINTER" target="_blank" rel="noreferrer"><img src="FOTOS/CUSTOMTKINTER1.png" alt="CUSTOMTKINTER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:KIVY" target="_blank" rel="noreferrer"><img src="FOTOS/KIVY.png" alt="KIVY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:BEEWARE" target="_blank" rel="noreferrer"><img src="FOTOS/BEEWARE.png" alt="BEEWARE" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:VISUAL-STUDIO-2022" target="_blank" rel="noreferrer"><img src="FOTOS/VISUAL_STUDIO_2022.png" alt="VISUAL STUDIO 2022" width="40" height="40"/></a>
