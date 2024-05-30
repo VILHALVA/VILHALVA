@@ -114,6 +114,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-POSTGRESQL" target="_blank" rel="noreferrer"><img src="FOTOS/POSTGRESQL.png" alt="POSTGRESQL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-MONGODB" target="_blank" rel="noreferrer"><img src="FOTOS/MONGODB.png" alt="MONGODB" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-SQLITE" target="_blank" rel="noreferrer"><img src="FOTOS/SQLITE.png" alt="SQLITE" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-JSON-SERVER" target="_blank" rel="noreferrer"><img src="FOTOS/JSON_SERVER.png" alt="JSON-SERVER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PRISMA" target="_blank" rel="noreferrer"><img src="FOTOS/PRISMA.png" alt="PRISMA" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-NODEJS-COM-MYSQL" target="_blank" rel="noreferrer"><img src="FOTOS/NODEJS_COM_MYSQL.png" alt="NODEJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PHP-COM-MYSQL" target="_blank" rel="noreferrer"><img src="FOTOS/PHP_COM_MYSQL.png" alt="PHP COM MYSQL" width="50" height="50"/></a> 
