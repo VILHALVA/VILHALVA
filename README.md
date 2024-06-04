@@ -88,6 +88,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-EXPRESSJS" target="_blank" rel="noreferrer"><img src="FOTOS/EXPRESSJS.png" alt="EXPRESSJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-SVELTE" target="_blank" rel="noreferrer"><img src="FOTOS/SVELTE.png" alt="SVELTE" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-EMBERJS" target="_blank" rel="noreferrer"><img src="FOTOS/EMBERJS.png" alt="EMBERJS" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-ADONISJS" target="_blank" rel="noreferrer"><img src="FOTOS/ADONISJS.png" alt="ADONISJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LARAVEL" target="_blank" rel="noreferrer"><img src="FOTOS/LARAVEL.png" alt="LARAVEL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-RUBY-ON-RAILS" target="_blank" rel="noreferrer"><img src="FOTOS/RUBY_ON_RAILS.png" alt="RUBY ON RAILS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-GIN" target="_blank" rel="noreferrer"><img src="FOTOS/GIN.png" alt="GIN" width="40" height="40"/></a>
@@ -164,6 +165,7 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:RUBY" target="_blank" rel="noreferrer"><img src="FOTOS/RUBY.jpg" alt="RUBY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:GOLANG" target="_blank" rel="noreferrer"><img src="FOTOS/GO.png" alt="GO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:WORDPRESS" target="_blank" rel="noreferrer"><img src="FOTOS/WORDPRESS.png" alt="WORDPRESS" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:NODEJS" target="_blank" rel="noreferrer"><img src="FOTOS/NODEJS.png" alt="NODEJS" width="40" height="40"/></a> 
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:ANGULAR" target="_blank" rel="noreferrer"><img src="FOTOS/ANGULAR.png" alt="ANGULAR" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:REACT" target="_blank" rel="noreferrer"><img src="FOTOS/REACT.png" alt="REACT" width="40" height="40"/></a>
@@ -172,13 +174,13 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:EXPRESSJS" target="_blank" rel="noreferrer"><img src="FOTOS/EXPRESSJS.png" alt="EXPRESSJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:SVELTE" target="_blank" rel="noreferrer"><img src="FOTOS/SVELTE.png" alt="SVELTE" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:EMBERJS" target="_blank" rel="noreferrer"><img src="FOTOS/EMBERJS.png" alt="EMBERJS" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:ADONISJS" target="_blank" rel="noreferrer"><img src="FOTOS/ADONISJS.png" alt="PRISMA" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:LARAVEL" target="_blank" rel="noreferrer"><img src="FOTOS/LARAVEL.png" alt="LARAVEL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:RUBY-ON-RAILS" target="_blank" rel="noreferrer"><img src="FOTOS/RUBY_ON_RAILS.png" alt="RUBY ON RAILS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:GIN" target="_blank" rel="noreferrer"><img src="FOTOS/GIN.png" alt="GIN" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:DJANGO" target="_blank" rel="noreferrer"><img src="FOTOS/DJANGO.png" alt="DJANGO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:FLASK" target="_blank" rel="noreferrer"><img src="FOTOS/FLASK.png" alt="FLASK" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:PYSCRIPT" target="_blank" rel="noreferrer"><img src="FOTOS/PYSCRIPT.png" alt="PYSCRIPT" width="40" height="40"/></a>
-
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:SCSS" target="_blank" rel="noreferrer"><img src="FOTOS/SCSS.png" alt="SCSS" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:EJS" target="_blank" rel="noreferrer"> <img src="FOTOS/EJS.png" alt="EJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:HANDLEBARS" target="_blank" rel="noreferrer"><img src="FOTOS/HANDLEBARS.png" alt="HANDLEBARS" width="40" height="40"/></a> 
@@ -196,12 +198,9 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:JSON" target="_blank" rel="noreferrer"><img src="FOTOS/JSON.png" alt="JSON" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:JSON-SERVER" target="_blank" rel="noreferrer"><img src="FOTOS/JSON_SERVER.png" alt="JSON-SERVER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:API-REST" target="_blank" rel="noreferrer"><img src="FOTOS/API_REST.png" alt="API REST" width="40" height="40"/></a>
-
-<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:NODEJS" target="_blank" rel="noreferrer"><img src="FOTOS/NODEJS.png" alt="NODEJS" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:NODEJS+topic:MYSQL" target="_blank" rel="noreferrer"><img src="FOTOS/NODEJS_COM_MYSQL.png" alt="NODEJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PHP+topic:MYSQL" target="_blank" rel="noreferrer"><img src="FOTOS/PHP_COM_MYSQL.png" alt="PHP COM MYSQL" width="50" height="50"/></a> 
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYTHON+topic:SQLITE" target="_blank" rel="noreferrer"><img src="FOTOS/PYTHON_COM_SQLITE.png" alt="PYTHON COM SQLITE" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:ADONISJS" target="_blank" rel="noreferrer"><img src="FOTOS/ADONISJS.png" alt="PRISMA" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:PRISMA" target="_blank" rel="noreferrer"><img src="FOTOS/PRISMA.png" alt="PRISMA" width="40" height="40"/></a>
 
 ## [( 02 ) CRIAÇÃO DE APLICATIVOS](https://github.com/VILHALVA?tab=repositories&q=+topic:APLICATIVO)
