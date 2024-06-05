@@ -99,6 +99,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-BOOTSTRAP" target="_blank" rel="noreferrer"><img src="FOTOS/BOOTSTRAP.png" alt="BOOTSTRAP" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-MATERIALIZECSS" target="_blank" rel="noreferrer"><img src="FOTOS/MATERIALIZECSS.png" alt="MATERIALIZECSS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-CHARTJS" target="_blank" rel="noreferrer"><img src="FOTOS/CHARTJS.png" alt="CHARTJS" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-JQUERY" target="_blank" rel="noreferrer"><img src="FOTOS/JQUERY.png" alt="JQUERY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-ELECTRONJS" target="_blank" rel="noreferrer"><img src="FOTOS/ELECTRONJS.png" alt="ELECTRONJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-TKINTER" target="_blank" rel="noreferrer"><img src="FOTOS/TKINTER.png" alt="TKINTER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-CUSTOMTKINTER" target="_blank" rel="noreferrer"><img src="FOTOS/CUSTOMTKINTER.png" alt="CUSTOMTKINTER" width="40" height="40"/></a>
@@ -189,6 +190,7 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:BOOTSTRAP" target="_blank" rel="noreferrer"><img src="FOTOS/BOOTSTRAP.png" alt="BOOTSTRAP" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:MATERIALIZECSS" target="_blank" rel="noreferrer"><img src="FOTOS/MATERIALIZECSS.png" alt="MATERIALIZE" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:CHARTJS" target="_blank" rel="noreferrer"><img src="FOTOS/CHARTJS.png" alt="CHARTJS" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:JQUERY" target="_blank" rel="noreferrer"><img src="FOTOS/JQUERY.png" alt="JQUERY" width="40" height="40"/></a>
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:MYSQL" target="_blank" rel="noreferrer"><img src="FOTOS/MYSQL.png" alt="MYSQL" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:MARIADB" target="_blank" rel="noreferrer"><img src="FOTOS/MARIADB.png" alt="MARIADB" width="40" height="40"/></a>
