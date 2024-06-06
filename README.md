@@ -119,10 +119,10 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-SQLITE" target="_blank" rel="noreferrer"><img src="FOTOS/SQLITE.png" alt="SQLITE" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-JSON-SERVER" target="_blank" rel="noreferrer"><img src="FOTOS/JSON_SERVER.png" alt="JSON SERVER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-API-REST" target="_blank" rel="noreferrer"><img src="FOTOS/API_REST.png" alt="API REST" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-PRISMA" target="_blank" rel="noreferrer"><img src="FOTOS/PRISMA.png" alt="PRISMA" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-NODEJS-COM-MYSQL" target="_blank" rel="noreferrer"><img src="FOTOS/NODEJS_COM_MYSQL.png" alt="NODEJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PHP-COM-MYSQL" target="_blank" rel="noreferrer"><img src="FOTOS/PHP_COM_MYSQL.png" alt="PHP COM MYSQL" width="50" height="50"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-PYTHON-COM-SQLITE" target="_blank" rel="noreferrer"><img src="FOTOS/PYTHON_COM_SQLITE.png" alt="PYTHON COM SQLITE" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-PRISMA" target="_blank" rel="noreferrer"><img src="FOTOS/PRISMA.png" alt="PRISMA" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-ANDROID-STUDIO-EM-JAVA" target="_blank" rel="noreferrer"><img src="FOTOS/ANDROID_STUDIO_JAVA.png" alt="ANDROID STUDIO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-ANDROID-STUDIO-EM-KOTLIN" target="_blank" rel="noreferrer"><img src="FOTOS/ANDROID_STUDIO_KOTLIN.png" alt="ANDROID STUDIO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVA-SWING" target="_blank" rel="noreferrer"><img src="FOTOS/JAVA_SWING.png" alt="JAVA SWING" width="40" height="40"/></a>
