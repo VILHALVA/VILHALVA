@@ -60,6 +60,10 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-PHP" target="_blank" rel="noreferrer"><img src="FOTOS/PHP.png" alt="PHP" width="50" height="50"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-RUBY" target="_blank" rel="noreferrer"><img src="FOTOS/RUBY.jpg" alt="RUBY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-GOLANG" target="_blank" rel="noreferrer"><img src="FOTOS/GO.png" alt="GO" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-EJS" target="_blank" rel="noreferrer"> <img src="FOTOS/EJS.png" alt="EJS" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-SCSS" target="_blank" rel="noreferrer"><img src="FOTOS/SCSS.png" alt="SCSS" width="40" height="40"/></a> 
+<a href="https://github.com/VILHALVA/CURSO-DE-HANDLEBARS" target="_blank" rel="noreferrer"><img src="FOTOS/HANDLEBARS.png" alt="HANDLEBARS" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-JSON" target="_blank" rel="noreferrer"><img src="FOTOS/JSON.png" alt="JSON" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVA" target="_blank" rel="noreferrer"><img src="FOTOS/JAVA.png" alt="JAVA" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-KOTLIN" target="_blank" rel="noreferrer"> <img src="FOTOS/KOTLIN.png" alt="KOTLIN" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-SWIFT" target="_blank" rel="noreferrer"><img src="FOTOS/SWIFT.png" alt="SWIFT" width="40" height="40"/></a>
@@ -75,10 +79,6 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-C-SHARP" target="_blank" rel="noreferrer"><img src="FOTOS/C_SHARP.png" alt="C#" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LUA" target="_blank" rel="noreferrer"><img src="FOTOS/LUA.png" alt="LUA" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-GML" target="_blank" rel="noreferrer"><img src="FOTOS/GML.png" alt="GML" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-EJS" target="_blank" rel="noreferrer"> <img src="FOTOS/EJS.png" alt="EJS" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-SCSS" target="_blank" rel="noreferrer"><img src="FOTOS/SCSS.png" alt="SCSS" width="40" height="40"/></a> 
-<a href="https://github.com/VILHALVA/CURSO-DE-HANDLEBARS" target="_blank" rel="noreferrer"><img src="FOTOS/HANDLEBARS.png" alt="HANDLEBARS" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-JSON" target="_blank" rel="noreferrer"><img src="FOTOS/JSON.png" alt="JSON" width="40" height="40"/></a>
 
 ## ( 03 ) FRAMEWORKS/BIBLIOTECAS
 <a href="https://github.com/VILHALVA/CURSO-DE-ANGULAR" target="_blank" rel="noreferrer"><img src="FOTOS/ANGULAR.png" alt="ANGULAR" width="40" height="40"/></a>
