@@ -112,6 +112,7 @@
 ## ( 04 ) TECNOLOGIAS
 <a href="https://github.com/VILHALVA/CURSO-DE-WORDPRESS" target="_blank" rel="noreferrer"><img src="FOTOS/WORDPRESS.png" alt="WORDPRESS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-NODEJS" target="_blank" rel="noreferrer"><img src="FOTOS/NODEJS.png" alt="NODEJS" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-WEBSOCKETS" target="_blank" rel="noreferrer"><img src="FOTOS/WEBSOCKETS.png" alt="WEBSOCKETS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-MYSQL" target="_blank" rel="noreferrer"><img src="FOTOS/MYSQL.png" alt="MYSQL" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-MARIADB" target="_blank" rel="noreferrer"><img src="FOTOS/MARIADB.png" alt="MARIADB" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-POSTGRESQL" target="_blank" rel="noreferrer"><img src="FOTOS/POSTGRESQL.png" alt="POSTGRESQL" width="40" height="40"/></a>
@@ -168,6 +169,7 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:GOLANG" target="_blank" rel="noreferrer"><img src="FOTOS/GO.png" alt="GO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:WORDPRESS" target="_blank" rel="noreferrer"><img src="FOTOS/WORDPRESS.png" alt="WORDPRESS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:NODEJS" target="_blank" rel="noreferrer"><img src="FOTOS/NODEJS.png" alt="NODEJS" width="40" height="40"/></a> 
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:WEBSOCKETS" target="_blank" rel="noreferrer"><img src="FOTOS/WEBSOCKETS.png" alt="WEBSOCKETS" width="40" height="40"/></a> 
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:ANGULAR" target="_blank" rel="noreferrer"><img src="FOTOS/ANGULAR.png" alt="ANGULAR" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:REACT" target="_blank" rel="noreferrer"><img src="FOTOS/REACT.png" alt="REACT" width="40" height="40"/></a>
