@@ -229,7 +229,7 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:ANDROID-STUDIO" target="_blank" rel="noreferrer"><img src="FOTOS/ANDROID_STUDIO.png" alt="ANDROID STUDIO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:ANDROID-STUDIO+topic:JAVA" target="_blank" rel="noreferrer"><img src="FOTOS/ANDROID_STUDIO_JAVA.png" alt="ANDROID STUDIO JAVA" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:ANDROID-STUDIO+topic:KOTLIN" target="_blank" rel="noreferrer"><img src="FOTOS/ANDROID_STUDIO_KOTLIN.png" alt="ANDROID STUDIO KOTLIN" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-JAVA-SWING" target="_blank" rel="noreferrer"><img src="FOTOS/JAVA_SWING.png" alt="JAVA SWING" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=topic:JAVA-SWING" target="_blank" rel="noreferrer"><img src="FOTOS/JAVA_SWING.png" alt="JAVA SWING" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:ELECTRONJS" target="_blank" rel="noreferrer"><img src="FOTOS/ELECTRONJS.png" alt="ELECTRONJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:TKINTER" target="_blank" rel="noreferrer"><img src="FOTOS/TKINTER.png" alt="TKINTER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:CUSTOMTKINTER" target="_blank" rel="noreferrer"><img src="FOTOS/CUSTOMTKINTER.png" alt="CUSTOMTKINTER" width="40" height="40"/></a>
