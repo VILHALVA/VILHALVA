@@ -213,7 +213,6 @@
 [![GitHub Repo stars](https://img.shields.io/badge/CODIGO-00FF00)](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:CODIGO)
 [![GitHub Repo stars](https://img.shields.io/badge/ANDROID-00FF00)](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:ANDROID)
 [![GitHub Repo stars](https://img.shields.io/badge/WINDOWS-00FF00)](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:WINDOWS)
-[![GitHub Repo stars](https://img.shields.io/badge/LINUX-00FF00)](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:LINUX)
 
 [![GitHub Repo stars](https://img.shields.io/badge/TERMINAL-00FF00)](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:TERMINAL)
 [![GitHub Repo stars](https://img.shields.io/badge/INTERFACE-00FF00)](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:GUI)
@@ -259,7 +258,6 @@
 [![GitHub Repo stars](https://img.shields.io/badge/CODIGO-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:CODIGO)
 [![GitHub Repo stars](https://img.shields.io/badge/ANDROID-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:ANDROID)
 [![GitHub Repo stars](https://img.shields.io/badge/WINDOWS-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:WINDOWS)
-[![GitHub Repo stars](https://img.shields.io/badge/LINUX-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:LINUX)
 
 [![GitHub Repo stars](https://img.shields.io/badge/TERMINAL-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:TERMINAL)
 [![GitHub Repo stars](https://img.shields.io/badge/ENGINE-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:ENGINE)
