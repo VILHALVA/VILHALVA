@@ -10,15 +10,15 @@
 # 👶SUBSIDIOS:
 <a href="https://github.com/VILHALVA/CURSO-DE-PORTUGOL" target="_blank"><img src="https://img.shields.io/badge/SE%20FOR%20NOVATO%20CLIQUE%20AQUI-FF00FF?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO" target="_blank"><img src="https://img.shields.io/badge/MEUS%20CURSOS-FF0000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:MINI-CURSO" target="_blank"><img src="https://img.shields.io/badge/MEUS%20MINICURSOS-FF0000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:MINI-CURSO" target="_blank"><img src="https://img.shields.io/badge/MEUS%20MINICURSOS-FFA500?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:PROJETO" target="_blank"><img src="https://img.shields.io/badge/MEUS%20PROJETOS-FFF000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:UPDATE" target="_blank"><img src="https://img.shields.io/badge/PROJETOS%20UPDATES-FFF000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:PREMIUM" target="_blank"><img src="https://img.shields.io/badge/PROJETOS%20PREMIUM-FFF000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:UPDATE" target="_blank"><img src="https://img.shields.io/badge/PROJETOS%20UPDATES-008000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:PREMIUM" target="_blank"><img src="https://img.shields.io/badge/PROJETOS%20PREMIUM-800080?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://github.com/VILHALVA?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/MEUS%20REPOSITÓRIOS-00FF00?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://vilhalva.github.io/STYLER/STYLER.html" target="_blank"><img src="https://img.shields.io/badge/MEU%20PRIMEIRO%20SITE-0000FF?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
-<a href="./HELP/README.md" target="_blank"><img src="https://img.shields.io/badge/NOS%20AJUDE-0000FF?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
-<a href="./MAIS SOBRE MIM/README.md" target="_blank"><img src="https://img.shields.io/badge/ME%20CONHEÇA%20MAIS-0000FF?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
-<a href="./FREELANCER/README.md" target="_blank"><img src="https://img.shields.io/badge/SOU%20FREELANCER-FF0000?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
+<a href="./HELP/README.md" target="_blank"><img src="https://img.shields.io/badge/NOS%20AJUDE-00CED1?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
+<a href="./MAIS%20SOBRE%20MIM/README.md" target="_blank"><img src="https://img.shields.io/badge/ME%20CONHEÇA%20MAIS-FF69B4?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
+<a href="./FREELANCER/README.md" target="_blank"><img src="https://img.shields.io/badge/SOU%20FREELANCER-00FFFF?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
 
 # 🌚REDES SOCIAIS:
 [![GitHub Repo stars](https://img.shields.io/badge/CODIGOS-CANAL-03A9F4?logo=telegram)](https://t.me/CODIGOCN) 
