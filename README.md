@@ -102,6 +102,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-JSON-SERVER" target="_blank" rel="noreferrer"><img src="FOTOS/JSON_SERVER.png" alt="JSON SERVER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVA-SWING" target="_blank" rel="noreferrer"><img src="FOTOS/JAVA_SWING.png" alt="JAVA SWING" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-ELECTRONJS" target="_blank" rel="noreferrer"><img src="FOTOS/ELECTRONJS.png" alt="ELECTRONJS" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-TAURI" target="_blank" rel="noreferrer"><img src="FOTOS/TAURI.png" alt="TAURI" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-TKINTER" target="_blank" rel="noreferrer"><img src="FOTOS/TKINTER.png" alt="TKINTER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-CUSTOMTKINTER" target="_blank" rel="noreferrer"><img src="FOTOS/CUSTOMTKINTER.png" alt="CUSTOMTKINTER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-KIVY" target="_blank" rel="noreferrer"><img src="FOTOS/KIVY.png" alt="KIVY" width="40" height="40"/></a>
@@ -231,6 +232,7 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:ANDROID-STUDIO+topic:KOTLIN" target="_blank" rel="noreferrer"><img src="FOTOS/ANDROID_STUDIO_KOTLIN.png" alt="ANDROID STUDIO KOTLIN" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:JAVA-SWING" target="_blank" rel="noreferrer"><img src="FOTOS/JAVA_SWING.png" alt="JAVA SWING" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:ELECTRONJS" target="_blank" rel="noreferrer"><img src="FOTOS/ELECTRONJS.png" alt="ELECTRONJS" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=topic:TAURI" target="_blank" rel="noreferrer"><img src="FOTOS/TAURI.png" alt="TAURI" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:TKINTER" target="_blank" rel="noreferrer"><img src="FOTOS/TKINTER.png" alt="TKINTER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:CUSTOMTKINTER" target="_blank" rel="noreferrer"><img src="FOTOS/CUSTOMTKINTER.png" alt="CUSTOMTKINTER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:KIVY" target="_blank" rel="noreferrer"><img src="FOTOS/KIVY.png" alt="KIVY" width="40" height="40"/></a>
