@@ -284,7 +284,14 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 
+# 📊ESTATÍSTICAS
+<div>
+  <a href="https://github.com/VILHALVA">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VILHALVA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VILHALVA&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+![](https://i.imgur.com/waxVImv.png)
+
 [![MasterHead](./MIDIAS/MIDIA_2.gif)](https://github.com/VILHALVA?tab=repositories&q=+topic:PROJETO)
- 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 
