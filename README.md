@@ -209,13 +209,13 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:PRISMA" target="_blank" rel="noreferrer"><img src="FOTOS/PRISMA.png" alt="PRISMA" width="40" height="40"/></a>
 
 ## [( 02 ) CRIAÇÃO DE APLICATIVOS](https://github.com/VILHALVA?tab=repositories&q=+topic:APLICATIVO)
-[![GitHub Repo stars](https://img.shields.io/badge/CODIGO-00FF00)](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:CODIGO)
-[![GitHub Repo stars](https://img.shields.io/badge/ANDROID-00FF00)](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:ANDROID)
-[![GitHub Repo stars](https://img.shields.io/badge/WINDOWS-00FF00)](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:WINDOWS)
+[![GitHub Repo stars](https://img.shields.io/badge/CODIGO-006400)](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:CODIGO)
+[![GitHub Repo stars](https://img.shields.io/badge/ANDROID-006400)](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:ANDROID)
+[![GitHub Repo stars](https://img.shields.io/badge/WINDOWS-006400)](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:WINDOWS)
 
-[![GitHub Repo stars](https://img.shields.io/badge/TERMINAL-00FF00)](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:TERMINAL)
-[![GitHub Repo stars](https://img.shields.io/badge/INTERFACE-00FF00)](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:GUI)
-[![GitHub Repo stars](https://img.shields.io/badge/HTML-00FF00)](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:HTML)
+[![GitHub Repo stars](https://img.shields.io/badge/TERMINAL-006400)](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:TERMINAL)
+[![GitHub Repo stars](https://img.shields.io/badge/INTERFACE-006400)](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:GUI)
+[![GitHub Repo stars](https://img.shields.io/badge/HTML-006400)](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:HTML)
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:JAVA" target="_blank" rel="noreferrer"><img src="FOTOS/JAVA.png" alt="JAVA" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:KOTLIN" target="_blank" rel="noreferrer"> <img src="FOTOS/KOTLIN.png" alt="KOTLIN" width="40" height="40"/></a>
