@@ -106,6 +106,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-TKINTER" target="_blank" rel="noreferrer"><img src="FOTOS/TKINTER.png" alt="TKINTER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-CUSTOMTKINTER" target="_blank" rel="noreferrer"><img src="FOTOS/CUSTOMTKINTER.png" alt="CUSTOMTKINTER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PYQT" target="_blank" rel="noreferrer"><img src="FOTOS/PYQT.png" alt="PYQT" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-PYSIDE" target="_blank" rel="noreferrer"><img src="FOTOS/PYSIDE.png" alt="PYSIDE" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-KIVY" target="_blank" rel="noreferrer"><img src="FOTOS/KIVY.png" alt="KIVY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-BEEWARE" target="_blank" rel="noreferrer"><img src="FOTOS/BEEWARE.png" alt="BEEWARE" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-WINFORMS" target="_blank" rel="noreferrer"><img src="FOTOS/WINFORMS.png" alt="WINFORMS" width="40" height="40"/></a>
@@ -237,6 +238,7 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:TKINTER" target="_blank" rel="noreferrer"><img src="FOTOS/TKINTER.png" alt="TKINTER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:CUSTOMTKINTER" target="_blank" rel="noreferrer"><img src="FOTOS/CUSTOMTKINTER.png" alt="CUSTOMTKINTER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYQT" target="_blank" rel="noreferrer"><img src="FOTOS/PYQT.png" alt="PYQT" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYSIDE" target="_blank" rel="noreferrer"><img src="FOTOS/PYSIDE.png" alt="PYSIDE" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:KIVY" target="_blank" rel="noreferrer"><img src="FOTOS/KIVY.png" alt="KIVY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:BEEWARE" target="_blank" rel="noreferrer"><img src="FOTOS/BEEWARE.png" alt="BEEWARE" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:VISUAL-STUDIO" target="_blank" rel="noreferrer"><img src="FOTOS/VISUAL_STUDIO.png" alt="VISUAL STUDIO" width="40" height="40"/></a>
