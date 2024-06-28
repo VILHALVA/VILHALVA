@@ -101,6 +101,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-CHARTJS" target="_blank" rel="noreferrer"><img src="FOTOS/CHARTJS.png" alt="CHARTJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-JQUERY" target="_blank" rel="noreferrer"><img src="FOTOS/JQUERY.png" alt="JQUERY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-JSON-SERVER" target="_blank" rel="noreferrer"><img src="FOTOS/JSON_SERVER.png" alt="JSON SERVER" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-FLUTTER" target="_blank" rel="noreferrer"><img src="FOTOS/FLUTTER.png" alt="FLUTTER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVA-SWING" target="_blank" rel="noreferrer"><img src="FOTOS/JAVA_SWING.png" alt="JAVA SWING" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-ELECTRONJS" target="_blank" rel="noreferrer"><img src="FOTOS/ELECTRONJS.png" alt="ELECTRONJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-TAURI" target="_blank" rel="noreferrer"><img src="FOTOS/TAURI.png" alt="TAURI" width="40" height="40"/></a>
@@ -236,6 +237,7 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:ANDROID-STUDIO" target="_blank" rel="noreferrer"><img src="FOTOS/ANDROID_STUDIO.png" alt="ANDROID STUDIO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:ANDROID-STUDIO+topic:JAVA" target="_blank" rel="noreferrer"><img src="FOTOS/ANDROID_STUDIO_JAVA.png" alt="ANDROID STUDIO JAVA" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:ANDROID-STUDIO+topic:KOTLIN" target="_blank" rel="noreferrer"><img src="FOTOS/ANDROID_STUDIO_KOTLIN.png" alt="ANDROID STUDIO KOTLIN" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=topic:FLUTTER" target="_blank" rel="noreferrer"><img src="FOTOS/FLUTTER.png" alt="FLUTTER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:JAVA-SWING" target="_blank" rel="noreferrer"><img src="FOTOS/JAVA_SWING.png" alt="JAVA SWING" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:ELECTRONJS" target="_blank" rel="noreferrer"><img src="FOTOS/ELECTRONJS.png" alt="ELECTRONJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:TAURI" target="_blank" rel="noreferrer"><img src="FOTOS/TAURI.png" alt="TAURI" width="40" height="40"/></a>
