@@ -149,8 +149,8 @@
 ## [( 01 ) CRIAÇÃO DE SITES](https://github.com/VILHALVA?tab=repositories&q=+topic:SITE)
 
 [![GitHub Repo stars](https://img.shields.io/badge/DATABASE-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:DATABASE)
-[![GitHub Repo stars](https://img.shields.io/badge/CLOUD-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:CLOUD)
 [![GitHub Repo stars](https://img.shields.io/badge/CRUD-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:CRUD)
+[![GitHub Repo stars](https://img.shields.io/badge/CLOUD-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:CLOUD)
 [![GitHub Repo stars](https://img.shields.io/badge/API-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:API)
 
 [![GitHub Repo stars](https://img.shields.io/badge/FRAMEWORK-FF0000
