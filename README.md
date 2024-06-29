@@ -253,7 +253,7 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:WINFORMS" target="_blank" rel="noreferrer"><img src="FOTOS/WINFORMS.png" alt="WINFORMS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:WPF" target="_blank" rel="noreferrer"><img src="FOTOS/WPF.png" alt="WPF" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:EXE" target="_blank" rel="noreferrer"><img src="FOTOS/EXE.png" alt="EXE" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=topic:INSTALLER" target="_blank" rel="noreferrer"><img src="FOTOS/INSTALLER.png" alt="INSTALLER" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=topic:INSTALLER" target="_blank" rel="noreferrer"><img src="FOTOS/INSTALLER2.png" alt="INSTALLER" width="40" height="40"/></a>
 
 ## [( 03 ) CRIAÇÃO DE ROBÔS](https://github.com/VILHALVA?tab=repositories&q=+topic:BOT)
 [![GitHub Repo stars](https://img.shields.io/badge/REDES%20SOCIAIS-0000FF)](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:REDES-SOCIAIS)
