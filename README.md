@@ -137,7 +137,6 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-ANDROID-STUDIO-EM-KOTLIN" target="_blank" rel="noreferrer"><img src="FOTOS/ANDROID_STUDIO_KOTLIN.png" alt="ANDROID STUDIO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-VISUAL-STUDIO" target="_blank" rel="noreferrer"><img src="FOTOS/VISUAL_STUDIO.png" alt="VISUAL STUDIO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-AUTOMACAO" target="_blank" rel="noreferrer"><img src="FOTOS/AUTOMACAO.png" alt="AUTOMACAO" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-BOTPRESS" target="_blank" rel="noreferrer"><img src="FOTOS/BOTPRESS.png" alt="BOTPRESS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-CONSTRUCT" target="_blank" rel="noreferrer"><img src="FOTOS/CONSTRUT.png" alt="CONSTRUCT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PHASER" target="_blank" rel="noreferrer"><img src="FOTOS/PHASER.png" alt="PHASER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-UNITY" target="_blank" rel="noreferrer"><img src="FOTOS/UNITY.png" alt="UNITY" width="40" height="40"/></a>
