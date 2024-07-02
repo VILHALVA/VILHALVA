@@ -280,7 +280,7 @@
 ## [( 04 ) CRIAÇÃO DE JOGOS](https://github.com/VILHALVA?tab=repositories&q=+topic:JOGO)
 [![GitHub Repo stars](https://img.shields.io/badge/CODIGO-800080)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:CODIGO)
 [![GitHub Repo stars](https://img.shields.io/badge/ANDROID-800080)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:ANDROID)
-[![GitHub Repo stars](https://img.shields.io/badge/WINDOWS-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:WINDOWS)
+[![GitHub Repo stars](https://img.shields.io/badge/WINDOWS-800080)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:WINDOWS)
 
 [![GitHub Repo stars](https://img.shields.io/badge/TERMINAL-800080)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:TERMINAL)
 [![GitHub Repo stars](https://img.shields.io/badge/ENGINE-800080)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:ENGINE)
