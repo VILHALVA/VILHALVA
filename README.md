@@ -167,7 +167,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/MATEMATICA-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:MATEMATICA)
 
 [![GitHub Repo stars](https://img.shields.io/badge/DATASCIENCE-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:DATA-SCIENCE)
-[![GitHub Repo stars](https://img.shields.io/badge/APLICATION-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:APLICATION)
+[![GitHub Repo stars](https://img.shields.io/badge/APLICAÇÃO-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:APLICATION)
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO-EM-VIDEO" target="_blank" rel="noreferrer"> <img src="FOTOS/CURSO_EM_VIDEO.png" alt="CURSO EM VIDEO" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:CURSE" target="_blank" rel="noreferrer"> <img src="FOTOS/CURSE.png" alt="CURSE" width="40" height="40"/></a> 
