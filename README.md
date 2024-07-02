@@ -163,8 +163,11 @@
 [![GitHub Repo stars](https://img.shields.io/badge/FORMULARIO-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:FORMULARIO)
 
 [![GitHub Repo stars](https://img.shields.io/badge/INTERFACE-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:INTERFACE)
-[![GitHub Repo stars](https://img.shields.io/badge/MATEMATICA-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:MATEMATICA)
 [![GitHub Repo stars](https://img.shields.io/badge/MULTIMIDIA-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:MULTIMIDIA)
+[![GitHub Repo stars](https://img.shields.io/badge/MATEMATICA-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:MATEMATICA)
+
+[![GitHub Repo stars](https://img.shields.io/badge/DATASCIENCE-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:DATA-SCIENCE)
+[![GitHub Repo stars](https://img.shields.io/badge/APLICATION-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:APLICATION)
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO-EM-VIDEO" target="_blank" rel="noreferrer"> <img src="FOTOS/CURSO_EM_VIDEO.png" alt="CURSO EM VIDEO" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:CURSE" target="_blank" rel="noreferrer"> <img src="FOTOS/CURSE.png" alt="CURSE" width="40" height="40"/></a> 
@@ -207,9 +210,9 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:MYSQL" target="_blank" rel="noreferrer"><img src="FOTOS/MYSQL.png" alt="MYSQL" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:MARIADB" target="_blank" rel="noreferrer"><img src="FOTOS/MARIADB.png" alt="MARIADB" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:POSTGRESQL" target="_blank" rel="noreferrer"><img src="FOTOS/POSTGRESQL.png" alt="POSTGRESQL" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:SQL-SERVER" target="_blank" rel="noreferrer"><img src="FOTOS/SQL_SERVER.png" alt="SQL SERVER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:MONGODB" target="_blank" rel="noreferrer"><img src="FOTOS/MONGODB.png" alt="MONGODB" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:SQLITE" target="_blank" rel="noreferrer"><img src="FOTOS/SQLITE.png" alt="SQLITE" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:SQL-SERVER" target="_blank" rel="noreferrer"><img src="FOTOS/SQL_SERVER.png" alt="SQL SERVER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:TXT" target="_blank" rel="noreferrer"><img src="FOTOS/TXT.png" alt="TXT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:PKL" target="_blank" rel="noreferrer"><img src="FOTOS/PKL.png" alt="PKL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:JSON" target="_blank" rel="noreferrer"><img src="FOTOS/JSON.png" alt="JSON" width="40" height="40"/></a>
@@ -275,13 +278,13 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:BOTPRESS" target="_blank" rel="noreferrer"><img src="FOTOS/BOTPRESS.png" alt="BOTPRESS" width="40" height="40"/></a>
 
 ## [( 04 ) CRIAÇÃO DE JOGOS](https://github.com/VILHALVA?tab=repositories&q=+topic:JOGO)
-[![GitHub Repo stars](https://img.shields.io/badge/CODIGO-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:CODIGO)
-[![GitHub Repo stars](https://img.shields.io/badge/ANDROID-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:ANDROID)
+[![GitHub Repo stars](https://img.shields.io/badge/CODIGO-800080)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:CODIGO)
+[![GitHub Repo stars](https://img.shields.io/badge/ANDROID-800080)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:ANDROID)
 [![GitHub Repo stars](https://img.shields.io/badge/WINDOWS-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:WINDOWS)
 
-[![GitHub Repo stars](https://img.shields.io/badge/TERMINAL-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:TERMINAL)
-[![GitHub Repo stars](https://img.shields.io/badge/ENGINE-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:ENGINE)
-[![GitHub Repo stars](https://img.shields.io/badge/HTML-FFFF00)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:HTML)
+[![GitHub Repo stars](https://img.shields.io/badge/TERMINAL-800080)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:TERMINAL)
+[![GitHub Repo stars](https://img.shields.io/badge/ENGINE-800080)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:ENGINE)
+[![GitHub Repo stars](https://img.shields.io/badge/HTML-800080)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:HTML)
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:C" target="_blank" rel="noreferrer"><img src="FOTOS/C.png" alt="C" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:C-PLUS-PLUS" target="_blank" rel="noreferrer"><img src="FOTOS/C_PLUS_PLUS.png" alt="C++" width="40" height="40"/></a>
