@@ -267,7 +267,7 @@
 
 ## [( 03 ) CRIAÇÃO DE ROBÔS](https://github.com/VILHALVA?tab=repositories&q=+topic:BOT)
 [![GitHub Repo stars](https://img.shields.io/badge/PYTHON-0000FF)](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:PYTHON)
-[![GitHub Repo stars](https://img.shields.io/badge/JAVASCRIPT-0000FF)](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:JAVASCRIPT)
+[![GitHub Repo stars](https://img.shields.io/badge/NODEJS-0000FF)](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:NODEJS)
 
 [![GitHub Repo stars](https://img.shields.io/badge/REDES%20SOCIAIS-0000FF)](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:REDES-SOCIAIS)
 [![GitHub Repo stars](https://img.shields.io/badge/CHAT%20BOT-0000FF)](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:CHAT-BOT)
