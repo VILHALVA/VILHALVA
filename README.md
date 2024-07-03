@@ -272,10 +272,12 @@
 [![GitHub Repo stars](https://img.shields.io/badge/CHAT%20BOT-0000FF)](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:CHAT-BOT)
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYTHON" target="_blank" rel="noreferrer"><img src="FOTOS/PYTHON.png" alt="PYTHON" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=topic:AUTOMACAO" target="_blank" rel="noreferrer"><img src="FOTOS/AUTOMACAO.png" alt="AUTOMACAO" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=topic:TELEGRAM" target="_blank" rel="noreferrer"><img src="FOTOS/TELEGRAM.png" alt="TELEGRAM" width="40" height="40"/></a>
+
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:TELEBOT" target="_blank" rel="noreferrer"><img src="FOTOS/TELEBOT.png" alt="TELEBOT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:TELEGRAF" target="_blank" rel="noreferrer"><img src="FOTOS/TELEGRAF.png" alt="TELEGRAF" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYROGRAM" target="_blank" rel="noreferrer"><img src="FOTOS/PYROGRAM.png" alt="PYROGRAM" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=topic:AUTOMACAO" target="_blank" rel="noreferrer"><img src="FOTOS/AUTOMACAO.png" alt="AUTOMACAO" width="40" height="40"/></a>
 
 ## [( 04 ) CRIAÇÃO DE JOGOS](https://github.com/VILHALVA?tab=repositories&q=+topic:JOGO)
 [![GitHub Repo stars](https://img.shields.io/badge/CODIGO-800080)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:CODIGO)
