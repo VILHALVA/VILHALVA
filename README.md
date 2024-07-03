@@ -265,11 +265,11 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:INSTALLER" target="_blank" rel="noreferrer"><img src="FOTOS/INSTALLER.png" alt="INSTALLER" width="40" height="40"/></a>
 
 ## [( 03 ) CRIAÇÃO DE ROBÔS](https://github.com/VILHALVA?tab=repositories&q=+topic:BOT)
-[![GitHub Repo stars](https://img.shields.io/badge/SOCIAL-0000FF)](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:REDES-SOCIAIS)
-[![GitHub Repo stars](https://img.shields.io/badge/AUTOMAÇÃO-0000FF)](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:AUTOMACAO)
+[![GitHub Repo stars](https://img.shields.io/badge/PYTHON-0000FF)](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:PYTHON)
+[![GitHub Repo stars](https://img.shields.io/badge/JAVASCRIPT-0000FF)](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:JAVASCRIPT)
 
+[![GitHub Repo stars](https://img.shields.io/badge/REDES%20SOCIAIS-0000FF)](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:REDES-SOCIAIS)
 [![GitHub Repo stars](https://img.shields.io/badge/CHAT%20BOT-0000FF)](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:CHAT-BOT)
-[![GitHub Repo stars](https://img.shields.io/badge/HTML-0000FF)](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:HTML)
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYTHON" target="_blank" rel="noreferrer"><img src="FOTOS/PYTHON.png" alt="PYTHON" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:TELEBOT" target="_blank" rel="noreferrer"><img src="FOTOS/TELEBOT.png" alt="TELEBOT" width="40" height="40"/></a>
