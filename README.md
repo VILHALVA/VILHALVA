@@ -120,6 +120,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-TELEBOT" target="_blank" rel="noreferrer"><img src="FOTOS/TELEBOT.png" alt="TELEBOT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-TELEGRAF" target="_blank" rel="noreferrer"><img src="FOTOS/TELEGRAF.png" alt="TELEGRAF" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PYROGRAM" target="_blank" rel="noreferrer"><img src="FOTOS/PYROGRAM.png" alt="PYROGRAM" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-DISCORDPY" target="_blank" rel="noreferrer"><img src="FOTOS/DISCORDPY.png" alt="DISCORDPY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-DISCORDJS" target="_blank" rel="noreferrer"><img src="FOTOS/DISCORDJS.png" alt="DISCORDJS" width="40" height="40"/></a>
 
 ## ( 04 ) TECNOLOGIAS
@@ -280,8 +281,8 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:TELEBOT" target="_blank" rel="noreferrer"><img src="FOTOS/TELEBOT.png" alt="TELEBOT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:TELEGRAF" target="_blank" rel="noreferrer"><img src="FOTOS/TELEGRAF.png" alt="TELEGRAF" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYROGRAM" target="_blank" rel="noreferrer"><img src="FOTOS/PYROGRAM.png" alt="PYROGRAM" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=topic:DISCORDPY" target="_blank" rel="noreferrer"><img src="FOTOS/DISCORDPY.png" alt="DISCORDPY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:DISCORDJS" target="_blank" rel="noreferrer"><img src="FOTOS/DISCORDJS.png" alt="DISCORDJS" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=topic:UMBRAPLUS" target="_blank" rel="noreferrer"><img src="FOTOS/UMBRAPLUS.png" alt="UMBRAPLUS" width="40" height="40"/></a>
 
 ## [( 04 ) CRIAÇÃO DE JOGOS](https://github.com/VILHALVA?tab=repositories&q=+topic:JOGO)
 [![GitHub Repo stars](https://img.shields.io/badge/CODIGO-800080)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:CODIGO)
