@@ -117,7 +117,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-BEEWARE" target="_blank" rel="noreferrer"><img src="FOTOS/BEEWARE.png" alt="BEEWARE" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-WINFORMS" target="_blank" rel="noreferrer"><img src="FOTOS/WINFORMS.png" alt="WINFORMS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-WPF" target="_blank" rel="noreferrer"><img src="FOTOS/WPF.png" alt="WPF" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-TELEBOT" target="_blank" rel="noreferrer"><img src="FOTOS/TELEBOT.png" alt="TELEBOT" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-TELEBOT" target="_blank" rel="noreferrer"><img src="FOTOS/TELEBOT2.png" alt="TELEBOT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-TELEGRAF" target="_blank" rel="noreferrer"><img src="FOTOS/TELEGRAF.png" alt="TELEGRAF" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PYROGRAM" target="_blank" rel="noreferrer"><img src="FOTOS/PYROGRAM.png" alt="PYROGRAM" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-DISCORDPY" target="_blank" rel="noreferrer"><img src="FOTOS/DISCORDPY.png" alt="DISCORDPY" width="40" height="40"/></a>
@@ -281,8 +281,8 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:TELEGRAM" target="_blank" rel="noreferrer"><img src="FOTOS/TELEGRAM.png" alt="TELEGRAM" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:DISCORD" target="_blank" rel="noreferrer"><img src="FOTOS/DISCORD.png" alt="DISCORD" width="40" height="40"/></a>
 
-<a href="https://github.com/VILHALVA?tab=repositories&q=topic:TELEBOT" target="_blank" rel="noreferrer"><img src="FOTOS/TELEBOT.png" alt="TELEBOT" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYTHON-TELEGRAM-BOT" target="_blank" rel="noreferrer"><img src="FOTOS/PYTHON_TELEGRAM_BOT.png" alt="PYTHON TELEGRAM BOT" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=topic:TELEBOT" target="_blank" rel="noreferrer"><img src="FOTOS/TELEBOT2.png" alt="TELEBOT" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYTHON-TELEGRAM-BOT" target="_blank" rel="noreferrer"><img src="FOTOS/PYTHON_TELEGRAM_BOT2.png" alt="PYTHON TELEGRAM BOT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:API-DE-BOTS-TELEGRAM" target="_blank" rel="noreferrer"><img src="FOTOS/API_BOTS_TELEGRAM.png" alt="API BOTS TELEGRAM" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:TELEGRAF" target="_blank" rel="noreferrer"><img src="FOTOS/TELEGRAF.png" alt="TELEGRAF" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYROGRAM" target="_blank" rel="noreferrer"><img src="FOTOS/PYROGRAM.png" alt="PYROGRAM" width="40" height="40"/></a>
