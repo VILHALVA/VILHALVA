@@ -171,6 +171,7 @@
 
 [![GitHub Repo stars](https://img.shields.io/badge/DATASCIENCE-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:DATA-SCIENCE)
 [![GitHub Repo stars](https://img.shields.io/badge/APLICAÇÃO-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:APLICATION)
+[![GitHub Repo stars](https://img.shields.io/badge/PAGES-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:PAGES)
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO-EM-VIDEO" target="_blank" rel="noreferrer"> <img src="FOTOS/CURSO_EM_VIDEO.png" alt="CURSO EM VIDEO" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:CURSE" target="_blank" rel="noreferrer"> <img src="FOTOS/CURSE.png" alt="CURSE" width="40" height="40"/></a> 
@@ -213,9 +214,9 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:MYSQL" target="_blank" rel="noreferrer"><img src="FOTOS/MYSQL.png" alt="MYSQL" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:MARIADB" target="_blank" rel="noreferrer"><img src="FOTOS/MARIADB.png" alt="MARIADB" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:POSTGRESQL" target="_blank" rel="noreferrer"><img src="FOTOS/POSTGRESQL.png" alt="POSTGRESQL" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:SQL-SERVER" target="_blank" rel="noreferrer"><img src="FOTOS/SQL_SERVER.png" alt="SQL SERVER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:MONGODB" target="_blank" rel="noreferrer"><img src="FOTOS/MONGODB.png" alt="MONGODB" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:SQLITE" target="_blank" rel="noreferrer"><img src="FOTOS/SQLITE.png" alt="SQLITE" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:SQL-SERVER" target="_blank" rel="noreferrer"><img src="FOTOS/SQL_SERVER.png" alt="SQL SERVER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:TXT" target="_blank" rel="noreferrer"><img src="FOTOS/TXT.png" alt="TXT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:PKL" target="_blank" rel="noreferrer"><img src="FOTOS/PKL.png" alt="PKL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:JSON" target="_blank" rel="noreferrer"><img src="FOTOS/JSON.png" alt="JSON" width="40" height="40"/></a>
@@ -269,9 +270,11 @@
 ## [( 03 ) CRIAÇÃO DE ROBÔS](https://github.com/VILHALVA?tab=repositories&q=+topic:BOT)
 [![GitHub Repo stars](https://img.shields.io/badge/PYTHON-0000FF)](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:PYTHON)
 [![GitHub Repo stars](https://img.shields.io/badge/NODEJS-0000FF)](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:NODEJS)
+[![GitHub Repo stars](https://img.shields.io/badge/HTML-0000FF)](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:HTML)
 
-[![GitHub Repo stars](https://img.shields.io/badge/REDES%20SOCIAIS-0000FF)](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:REDES-SOCIAIS)
-[![GitHub Repo stars](https://img.shields.io/badge/CHAT%20BOT-0000FF)](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:CHAT-BOT)
+[![GitHub Repo stars](https://img.shields.io/badge/SOCIAL-0000FF)](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:REDES-SOCIAIS)
+[![GitHub Repo stars](https://img.shields.io/badge/CHATBOT-0000FF)](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:CHAT-BOT)
+[![GitHub Repo stars](https://img.shields.io/badge/MODERAÇÃO-0000FF)](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:MODERATION)
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYTHON" target="_blank" rel="noreferrer"><img src="FOTOS/PYTHON.png" alt="PYTHON" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:AUTOMACAO" target="_blank" rel="noreferrer"><img src="FOTOS/AUTOMACAO.png" alt="AUTOMACAO" width="40" height="40"/></a>
