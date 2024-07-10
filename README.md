@@ -267,7 +267,7 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:EXE" target="_blank" rel="noreferrer"><img src="FOTOS/EXE.png" alt="EXE" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:INSTALLER" target="_blank" rel="noreferrer"><img src="FOTOS/INSTALLER.png" alt="INSTALLER" width="40" height="40"/></a>
 
-## [( 03 ) CRIAÇÃO DE ROBÔS](https://github.com/VILHALVA?tab=repositories&q=+topic:BOT)
+## [( 03 ) CRIAÇÃO DE BOTS](https://github.com/VILHALVA?tab=repositories&q=+topic:BOT)
 [![GitHub Repo stars](https://img.shields.io/badge/PYTHON-0000FF)](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:PYTHON)
 [![GitHub Repo stars](https://img.shields.io/badge/NODEJS-0000FF)](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:NODEJS)
 [![GitHub Repo stars](https://img.shields.io/badge/HTML-0000FF)](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:HTML)
