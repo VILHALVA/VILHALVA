@@ -264,6 +264,7 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:VISUAL-STUDIO" target="_blank" rel="noreferrer"><img src="FOTOS/VISUAL_STUDIO.png" alt="VISUAL STUDIO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:WINFORMS" target="_blank" rel="noreferrer"><img src="FOTOS/WINFORMS.png" alt="WINFORMS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:WPF" target="_blank" rel="noreferrer"><img src="FOTOS/WPF.png" alt="WPF" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=topic:AUTOMACAO" target="_blank" rel="noreferrer"><img src="FOTOS/AUTOMACAO.png" alt="AUTOMACAO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:EXE" target="_blank" rel="noreferrer"><img src="FOTOS/EXE.png" alt="EXE" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:INSTALLER" target="_blank" rel="noreferrer"><img src="FOTOS/INSTALLER.png" alt="INSTALLER" width="40" height="40"/></a>
 
@@ -277,7 +278,6 @@
 [![GitHub Repo stars](https://img.shields.io/badge/MODERAÇÃO-0000FF)](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:MODERATION)
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYTHON" target="_blank" rel="noreferrer"><img src="FOTOS/PYTHON.png" alt="PYTHON" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:AUTOMACAO" target="_blank" rel="noreferrer"><img src="FOTOS/AUTOMACAO.png" alt="AUTOMACAO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:TELEGRAM" target="_blank" rel="noreferrer"><img src="FOTOS/TELEGRAM.png" alt="TELEGRAM" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:DISCORD" target="_blank" rel="noreferrer"><img src="FOTOS/DISCORD.png" alt="DISCORD" width="40" height="40"/></a>
 
