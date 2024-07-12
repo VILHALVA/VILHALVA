@@ -32,9 +32,9 @@
 ![](https://i.imgur.com/waxVImv.png)
 
 # [👨‍💻MEUS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
-> 👇EXPLORE OS CURSOS CLICANDO NAS FOTOS!
+> 👇CLIQUE NAS FOTOS PARA EXPLORAR OS CURSOS!
 
-## ( 01 ) TEORICO
+## ( 01 ) TEORIA/TEORICO
 <a href="https://github.com/VILHALVA/CURSO-DE-GIT-E-GITHUB-01" target="_blank" rel="noreferrer"><img src="FOTOS/GITHUB_01.png" alt="GITHUB 01" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-GIT-E-GITHUB-02" target="_blank" rel="noreferrer"><img src="FOTOS/GITHUB_02.png" alt="GITHUB 02" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LINUX-01" target="_blank" rel="noreferrer"><img src="FOTOS/LINUX_01.png" alt="LINUX 01" width="40" height="40"/></a>
@@ -49,7 +49,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-SEO" target="_blank" rel="noreferrer"><img src="FOTOS/SEO.png" alt="SEO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LGPD" target="_blank" rel="noreferrer"><img src="FOTOS/LGPD.png" alt="LGPD" width="40" height="40"/></a>
 
-## ( 02 ) LINGUAGENS
+## ( 02 ) LINGUAGENS/MARCAÇÕES
 <a href="https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS" target="_blank" rel="noreferrer"><img src="FOTOS/HTML_E_CSS.png" alt="HTML E CSS" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT" target="_blank" rel="noreferrer"> <img src="FOTOS/JAVASCRIPT.png" alt="JAVASCRIPT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT-POO" target="_blank" rel="noreferrer"> <img src="FOTOS/JAVASCRIPT_POO.png" alt="JAVASCRIPT POO" width="40" height="40"/></a>
@@ -124,7 +124,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-DISCORDJS" target="_blank" rel="noreferrer"><img src="FOTOS/DISCORDJS.png" alt="DISCORDJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-TWEEPY" target="_blank" rel="noreferrer"><img src="FOTOS/TWEEPY.png" alt="TWEEPY" width="40" height="40"/></a>
 
-## ( 04 ) TECNOLOGIAS
+## ( 04 ) FERRAMENTAS/TECNOLOGIAS
 <a href="https://github.com/VILHALVA/CURSO-DE-WORDPRESS" target="_blank" rel="noreferrer"><img src="FOTOS/WORDPRESS.png" alt="WORDPRESS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-NODEJS" target="_blank" rel="noreferrer"><img src="FOTOS/NODEJS.png" alt="NODEJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-WEBSOCKETS" target="_blank" rel="noreferrer"><img src="FOTOS/WEBSOCKETS.png" alt="WEBSOCKETS" width="40" height="40"/></a>
@@ -152,7 +152,7 @@
 ![](https://i.imgur.com/waxVImv.png)
 
 # [👨‍💻MEUS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=+topic:PROJETO)
-> 👇EXPLORE OS PROJETOS CLICANDO NOS BOTÕES E NAS FOTOS!
+> 👇CLIQUE NOS BOTÕES E NAS FOTOS PARA EXPLORAR OS PROJETOS!
 
 ## [( 01 ) CRIAÇÃO DE SITES](https://github.com/VILHALVA?tab=repositories&q=+topic:SITE)
 
