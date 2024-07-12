@@ -123,6 +123,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-DISCORDPY" target="_blank" rel="noreferrer"><img src="FOTOS/DISCORDPY.png" alt="DISCORDPY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-DISCORDJS" target="_blank" rel="noreferrer"><img src="FOTOS/DISCORDJS.png" alt="DISCORDJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-TWEEPY" target="_blank" rel="noreferrer"><img src="FOTOS/TWEEPY.png" alt="TWEEPY" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-TWIT" target="_blank" rel="noreferrer"><img src="FOTOS/TWIT.png" alt="TWIT" width="40" height="40"/></a>
 
 ## ( 04 ) FERRAMENTAS/TECNOLOGIAS
 <a href="https://github.com/VILHALVA/CURSO-DE-WORDPRESS" target="_blank" rel="noreferrer"><img src="FOTOS/WORDPRESS.png" alt="WORDPRESS" width="40" height="40"/></a>
@@ -291,6 +292,7 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:DISCORDPY" target="_blank" rel="noreferrer"><img src="FOTOS/DISCORDPY.png" alt="DISCORDPY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:DISCORDJS" target="_blank" rel="noreferrer"><img src="FOTOS/DISCORDJS.png" alt="DISCORDJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:TWEEPY" target="_blank" rel="noreferrer"><img src="FOTOS/TWEEPY.png" alt="TWEEPY" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=topic:TWIT" target="_blank" rel="noreferrer"><img src="FOTOS/TWIT.png" alt="TWIT" width="40" height="40"/></a>
 
 ## [( 04 ) CRIAÇÃO DE JOGOS](https://github.com/VILHALVA?tab=repositories&q=+topic:JOGO)
 [![GitHub Repo stars](https://img.shields.io/badge/CODIGO-800080)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:CODIGO)
