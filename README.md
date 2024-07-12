@@ -277,7 +277,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/HTML-0000FF)](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:HTML)
 
 [![GitHub Repo stars](https://img.shields.io/badge/SOCIAL-0000FF)](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:REDES-SOCIAIS)
-[![GitHub Repo stars](https://img.shields.io/badge/CHATBOT-0000FF)](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:CHAT-BOT)
+[![GitHub Repo stars](https://img.shields.io/badge/CHATBOT-0000FF)](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:CHATBOT)
 [![GitHub Repo stars](https://img.shields.io/badge/MODERAÇÃO-0000FF)](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:MODERATION)
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYTHON" target="_blank" rel="noreferrer"><img src="FOTOS/PYTHON.png" alt="PYTHON" width="40" height="40"/></a>
