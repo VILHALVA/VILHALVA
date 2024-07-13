@@ -143,7 +143,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-ANDROID-STUDIO-EM-KOTLIN" target="_blank" rel="noreferrer"><img src="FOTOS/ANDROID_STUDIO_KOTLIN.png" alt="ANDROID STUDIO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-VISUAL-STUDIO" target="_blank" rel="noreferrer"><img src="FOTOS/VISUAL_STUDIO.png" alt="VISUAL STUDIO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-AUTOMACAO" target="_blank" rel="noreferrer"><img src="FOTOS/AUTOMACAO.png" alt="AUTOMACAO" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-MICROSOFT-BOT-FRAMEWORK" target="_blank" rel="noreferrer"><img src="FOTOS/MICROSOFT_BOT_FRAMEWORK2.png" alt="MICROSOFT BOT FRAMEWORK" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-MICROSOFT-BOT-FRAMEWORK" target="_blank" rel="noreferrer"><img src="FOTOS/MICROSOFT_BOT_FRAMEWORK.png" alt="MICROSOFT BOT FRAMEWORK" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-CONSTRUCT" target="_blank" rel="noreferrer"><img src="FOTOS/CONSTRUT.png" alt="CONSTRUCT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PHASER" target="_blank" rel="noreferrer"><img src="FOTOS/PHASER.png" alt="PHASER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-UNITY" target="_blank" rel="noreferrer"><img src="FOTOS/UNITY.png" alt="UNITY" width="40" height="40"/></a>
@@ -284,7 +284,7 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:TELEGRAM" target="_blank" rel="noreferrer"><img src="FOTOS/TELEGRAM.png" alt="TELEGRAM" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:DISCORD" target="_blank" rel="noreferrer"><img src="FOTOS/DISCORD.png" alt="DISCORD" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:TWITTER" target="_blank" rel="noreferrer"><img src="FOTOS/TWITTER.png" alt="TWITTER" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:MICROSOFT-BOT-FRAMEWORK" target="_blank" rel="noreferrer"><img src="FOTOS/MICROSOFT_BOT_FRAMEWORK2.png" alt="MICROSOFT BOT FRAMEWORK" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:MICROSOFT-BOT-FRAMEWORK" target="_blank" rel="noreferrer"><img src="FOTOS/MICROSOFT_BOT_FRAMEWORK.png" alt="MICROSOFT BOT FRAMEWORK" width="40" height="40"/></a>
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:TELEBOT" target="_blank" rel="noreferrer"><img src="FOTOS/TELEBOT.png" alt="TELEBOT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYTHON-TELEGRAM-BOT" target="_blank" rel="noreferrer"><img src="FOTOS/PYTHON_TELEGRAM_BOT.png" alt="PYTHON TELEGRAM BOT" width="40" height="40"/></a>
