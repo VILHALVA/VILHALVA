@@ -287,9 +287,10 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:TWITTER" target="_blank" rel="noreferrer"><img src="FOTOS/TWITTER.png" alt="TWITTER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:MICROSOFT-BOT-FRAMEWORK" target="_blank" rel="noreferrer"><img src="FOTOS/MICROSOFT_BOT_FRAMEWORK.png" alt="MICROSOFT BOT FRAMEWORK" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:REACT-CHATBOT-KIT" target="_blank" rel="noreferrer"><img src="FOTOS/REACT_CHATBOT_KIT.png" alt="REACT CHATBOT KIT" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:TERMINAL" target="_blank" rel="noreferrer"><img src="FOTOS/TERMINAL.png" alt="TERMINAL" width="40" height="40"/></a>
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:TELEBOT" target="_blank" rel="noreferrer"><img src="FOTOS/TELEBOT.png" alt="TELEBOT" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=topic:TELEPOT" target="_blank" rel="noreferrer"><img src="FOTOS/TELEPOT_TI.png" alt="TELEPOT" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=topic:TELEPOT" target="_blank" rel="noreferrer"><img src="FOTOS/TELEPOT.png" alt="TELEPOT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYTHON-TELEGRAM-BOT" target="_blank" rel="noreferrer"><img src="FOTOS/PYTHON_TELEGRAM_BOT.png" alt="PYTHON TELEGRAM BOT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:TELETHON" target="_blank" rel="noreferrer"><img src="FOTOS/TELETHON.png" alt="TELETHON" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:API-DE-BOTS-TELEGRAM" target="_blank" rel="noreferrer"><img src="FOTOS/API_BOTS_TELEGRAM.png" alt="API BOTS TELEGRAM" width="40" height="40"/></a>
