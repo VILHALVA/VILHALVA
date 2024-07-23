@@ -174,7 +174,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/MULTIMIDIA-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:MULTIMIDIA)
 [![GitHub Repo stars](https://img.shields.io/badge/MATEMATICA-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:MATEMATICA)
 
-[![GitHub Repo stars](https://img.shields.io/badge/DATASCIENCE-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:DATA-SCIENCE)
+[![GitHub Repo stars](https://img.shields.io/badge/SCIENCE-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:SCIENCE)
 [![GitHub Repo stars](https://img.shields.io/badge/APLICAÇÃO-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:APLICATION)
 [![GitHub Repo stars](https://img.shields.io/badge/PAGES-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:PAGES)
 
@@ -334,7 +334,7 @@
 <div>
   <a href="https://github.com/VILHALVA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VILHALVA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VILHALVA&layout=compact&langs_count=20&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VILHALVA&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 
 ![](https://i.imgur.com/waxVImv.png)
