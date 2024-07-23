@@ -1,5 +1,5 @@
 # [FREELANCER](https://telegra.ph/FREELANCER-10-19-9)
-<img src="IMAGENS/FREELANCER.jpg" align="center" width="500"> <br>
+<img src="IMAGENS/VILHALVA_1.jpg" align="center" width="500"> <br>
 
 ### Você está pronto para levar seus projetos ao próximo nível?
 Caro Cliente em Potencial,
@@ -118,6 +118,6 @@ Cumprimentos,
 
 -> Para entrar em contato: [Clique aqui](https://t.me/VILHALVA100), ou pesquise @VILHALVA100 no Telegram!
 
-<img src="IMAGENS/VILHALVA.png" align="center" width="500"> <br>
-> Muitos clientes dizem que eu nunca mostro a minha foto. Está aí, esse cara da foto sou eu. Eu sei que sou feio que dói. Mas eu acredito que você irá entrar em contato comigo não pra namorar, mas para trabalhar!
+<img src="IMAGENS/VILHALVA_2.jpg" align="center" width="500"> <br>
+
 
