@@ -151,7 +151,6 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-UNITY" target="_blank" rel="noreferrer"><img src="FOTOS/UNITY.png" alt="UNITY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-GAME-MAKER" target="_blank" rel="noreferrer"><img src="FOTOS/GAME_MAKER.png" alt="GAME MAKER" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-GODOT" target="_blank" rel="noreferrer"><img src="FOTOS/GODOT.png" alt="GODOT" width="40" height="40"/></a> 
-<a href="https://github.com/VILHALVA/CURSO-DE-CRYENGINE" target="_blank" rel="noreferrer"><img src="FOTOS/CRYENGINE.png" alt="CRYENGINE" width="40" height="40"/></a> <br>
 
 ![](https://i.imgur.com/waxVImv.png)
 
@@ -321,13 +320,11 @@
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:CANVAS" target="_blank" rel="noreferrer"><img src="FOTOS/CANVAS.png" alt="CANVAS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYGAME" target="_blank" rel="noreferrer"><img src="FOTOS/PYGAME.png" alt="PYGAME" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYOPENGL" target="_blank" rel="noreferrer"><img src="FOTOS/PYOPENGL.png" alt="PYOPENGL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:CONSTRUCT" target="_blank" rel="noreferrer"><img src="FOTOS/CONSTRUT.png" alt="CONSTRUCT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PHASER" target="_blank" rel="noreferrer"><img src="FOTOS/PHASER.png" alt="PHASER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:UNITY" target="_blank" rel="noreferrer"><img src="FOTOS/UNITY.png" alt="UNITY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:GAME-MAKER" target="_blank" rel="noreferrer"><img src="FOTOS/GAME_MAKER.png" alt="GAME MAKER" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:GODOT" target="_blank" rel="noreferrer"><img src="FOTOS/GODOT.png" alt="GODOT" width="40" height="40"/></a> 
-<a href="https://github.com/VILHALVA?tab=repositories&q=topic:CRYENGINE" target="_blank" rel="noreferrer"><img src="FOTOS/CRYENGINE.png" alt="CRYENGINE" width="40" height="40"/></a> <br>
 
 ![](https://i.imgur.com/waxVImv.png)
 
