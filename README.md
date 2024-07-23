@@ -125,6 +125,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-TWEEPY" target="_blank" rel="noreferrer"><img src="FOTOS/TWEEPY.png" alt="TWEEPY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-TWIT" target="_blank" rel="noreferrer"><img src="FOTOS/TWIT.png" alt="TWIT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-REACT-CHATBOT-KIT" target="_blank" rel="noreferrer"><img src="FOTOS/REACT_CHATBOT_KIT.png" alt="REACT CHATBOT KIT" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-PHASER" target="_blank" rel="noreferrer"><img src="FOTOS/PHASER.png" alt="PHASER" width="40" height="40"/></a>
 
 ## ( 04 ) FERRAMENTAS/TECNOLOGIAS
 <a href="https://github.com/VILHALVA/CURSO-DE-WORDPRESS" target="_blank" rel="noreferrer"><img src="FOTOS/WORDPRESS.png" alt="WORDPRESS" width="40" height="40"/></a>
@@ -146,7 +147,6 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-VISUAL-STUDIO" target="_blank" rel="noreferrer"><img src="FOTOS/VISUAL_STUDIO.png" alt="VISUAL STUDIO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-AUTOMACAO" target="_blank" rel="noreferrer"><img src="FOTOS/AUTOMACAO.png" alt="AUTOMACAO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-MICROSOFT-BOT-FRAMEWORK" target="_blank" rel="noreferrer"><img src="FOTOS/MICROSOFT_BOT_FRAMEWORK.png" alt="MICROSOFT BOT FRAMEWORK" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-PHASER" target="_blank" rel="noreferrer"><img src="FOTOS/PHASER.png" alt="PHASER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-UNITY" target="_blank" rel="noreferrer"><img src="FOTOS/UNITY.png" alt="UNITY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-GAME-MAKER" target="_blank" rel="noreferrer"><img src="FOTOS/GAME_MAKER.png" alt="GAME MAKER" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-GODOT" target="_blank" rel="noreferrer"><img src="FOTOS/GODOT.png" alt="GODOT" width="40" height="40"/></a> 
