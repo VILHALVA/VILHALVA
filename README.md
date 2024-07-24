@@ -49,7 +49,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-SEO" target="_blank" rel="noreferrer"><img src="FOTOS/SEO.png" alt="SEO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LGPD" target="_blank" rel="noreferrer"><img src="FOTOS/LGPD.png" alt="LGPD" width="40" height="40"/></a>
 
-## ( 02 ) LINGUAGENS/MARCAÇÕES
+## ( 02 ) LINGUAGENS/MARCADORES
 <a href="https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS" target="_blank" rel="noreferrer"><img src="FOTOS/HTML_E_CSS.png" alt="HTML E CSS" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT" target="_blank" rel="noreferrer"> <img src="FOTOS/JAVASCRIPT.png" alt="JAVASCRIPT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT-POO" target="_blank" rel="noreferrer"> <img src="FOTOS/JAVASCRIPT_POO.png" alt="JAVASCRIPT POO" width="40" height="40"/></a>
@@ -317,8 +317,9 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:GML" target="_blank" rel="noreferrer"><img src="FOTOS/GML.png" alt="GML" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:GDSCRIPT" target="_blank" rel="noreferrer"><img src="FOTOS/GDSCRIPT.png" alt="GDSCRIPT" width="40" height="40"/></a>
 
-<a href="https://github.com/VILHALVA?tab=repositories&q=topic:CANVAS" target="_blank" rel="noreferrer"><img src="FOTOS/CANVAS.png" alt="CANVAS" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYTHON-GAME" target="_blank" rel="noreferrer"><img src="FOTOS/PYTHON_GAME.png" alt="PYTHON GAME" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYGAME" target="_blank" rel="noreferrer"><img src="FOTOS/PYGAME.png" alt="PYGAME" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=topic:CANVAS" target="_blank" rel="noreferrer"><img src="FOTOS/CANVAS.png" alt="CANVAS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PHASER" target="_blank" rel="noreferrer"><img src="FOTOS/PHASER.png" alt="PHASER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:CONSTRUCT" target="_blank" rel="noreferrer"><img src="FOTOS/CONSTRUT.png" alt="CONSTRUCT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:UNITY" target="_blank" rel="noreferrer"><img src="FOTOS/UNITY.png" alt="UNITY" width="40" height="40"/></a>
