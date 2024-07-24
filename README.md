@@ -79,6 +79,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-C-SHARP" target="_blank" rel="noreferrer"><img src="FOTOS/C_SHARP.png" alt="C#" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LUA" target="_blank" rel="noreferrer"><img src="FOTOS/LUA.png" alt="LUA" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-GML" target="_blank" rel="noreferrer"><img src="FOTOS/GML.png" alt="GML" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-GDSCRIPT" target="_blank" rel="noreferrer"><img src="FOTOS/GDSCRIPT.png" alt="GDSCRIPT" width="40" height="40"/></a>
 
 ## ( 03 ) FRAMEWORKS/BIBLIOTECAS
 <a href="https://github.com/VILHALVA/CURSO-DE-ANGULAR" target="_blank" rel="noreferrer"><img src="FOTOS/ANGULAR.png" alt="ANGULAR" width="40" height="40"/></a>
