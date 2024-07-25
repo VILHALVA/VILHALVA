@@ -148,7 +148,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-VISUAL-STUDIO" target="_blank" rel="noreferrer"><img src="FOTOS/VISUAL_STUDIO.png" alt="VISUAL STUDIO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-AUTOMACAO" target="_blank" rel="noreferrer"><img src="FOTOS/AUTOMACAO.png" alt="AUTOMACAO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-MICROSOFT-BOT-FRAMEWORK" target="_blank" rel="noreferrer"><img src="FOTOS/MICROSOFT_BOT_FRAMEWORK.png" alt="MICROSOFT BOT FRAMEWORK" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-CONSTRUT" target="_blank" rel="noreferrer"><img src="FOTOS/CONSTRUT.png" alt="CONSTRUT" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-CONSTRUCT" target="_blank" rel="noreferrer"><img src="FOTOS/CONSTRUCT.png" alt="https://github.com/VILHALVA/CURSO-DE-CONSTRUCT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-UNITY" target="_blank" rel="noreferrer"><img src="FOTOS/UNITY.png" alt="UNITY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-GAME-MAKER" target="_blank" rel="noreferrer"><img src="FOTOS/GAME_MAKER.png" alt="GAME MAKER" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-GODOT" target="_blank" rel="noreferrer"><img src="FOTOS/GODOT.png" alt="GODOT" width="40" height="40"/></a> 
@@ -323,7 +323,7 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYGAME" target="_blank" rel="noreferrer"><img src="FOTOS/PYGAME.png" alt="PYGAME" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:CANVAS" target="_blank" rel="noreferrer"><img src="FOTOS/CANVAS.png" alt="CANVAS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PHASER" target="_blank" rel="noreferrer"><img src="FOTOS/PHASER.png" alt="PHASER" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=topic:CONSTRUCT" target="_blank" rel="noreferrer"><img src="FOTOS/CONSTRUT.png" alt="CONSTRUCT" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=topic:CONSTRUCT" target="_blank" rel="noreferrer"><img src="FOTOS/CONSTRUCT.png" alt="CONSTRUCT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:UNITY" target="_blank" rel="noreferrer"><img src="FOTOS/UNITY.png" alt="UNITY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:GAME-MAKER" target="_blank" rel="noreferrer"><img src="FOTOS/GAME_MAKER.png" alt="GAME MAKER" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:GODOT" target="_blank" rel="noreferrer"><img src="FOTOS/GODOT.png" alt="GODOT" width="40" height="40"/></a> 
