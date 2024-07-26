@@ -80,6 +80,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-LUA" target="_blank" rel="noreferrer"><img src="FOTOS/LUA.png" alt="LUA" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-GML" target="_blank" rel="noreferrer"><img src="FOTOS/GML.png" alt="GML" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-GDSCRIPT" target="_blank" rel="noreferrer"><img src="FOTOS/GDSCRIPT.png" alt="GDSCRIPT" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-CANVAS" target="_blank" rel="noreferrer"><img src="FOTOS/CANVAS.png" alt="CANVAS" width="38" height="38"/></a>
 
 ## ( 03 ) FRAMEWORKS/BIBLIOTECAS
 <a href="https://github.com/VILHALVA/CURSO-DE-ANGULAR" target="_blank" rel="noreferrer"><img src="FOTOS/ANGULAR.png" alt="ANGULAR" width="40" height="40"/></a>
@@ -127,7 +128,6 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-TWIT" target="_blank" rel="noreferrer"><img src="FOTOS/TWIT.png" alt="TWIT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-REACT-CHATBOT-KIT" target="_blank" rel="noreferrer"><img src="FOTOS/REACT_CHATBOT_KIT.png" alt="REACT CHATBOT KIT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PYGAME" target="_blank" rel="noreferrer"><img src="FOTOS/PYGAME.png" alt="PYGAME" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-CANVAS" target="_blank" rel="noreferrer"><img src="FOTOS/CANVAS.png" alt="CANVAS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PHASER" target="_blank" rel="noreferrer"><img src="FOTOS/PHASER.png" alt="PHASER" width="40" height="40"/></a>
 
 ## ( 04 ) FERRAMENTAS/TECNOLOGIAS
@@ -306,13 +306,17 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:TWIT" target="_blank" rel="noreferrer"><img src="FOTOS/TWIT.png" alt="TWIT" width="40" height="40"/></a>
 
 ## [( 04 ) CRIAÇÃO DE JOGOS](https://github.com/VILHALVA?tab=repositories&q=+topic:JOGO)
+[![GitHub Repo stars](https://img.shields.io/badge/PYTHON-800080)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:PYTHON)
+[![GitHub Repo stars](https://img.shields.io/badge/JAVASCRIPT-800080)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:JAVASCRIPT)
+[![GitHub Repo stars](https://img.shields.io/badge/HTML-800080)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:HTML)
+
 [![GitHub Repo stars](https://img.shields.io/badge/CODIGO-800080)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:CODIGO)
 [![GitHub Repo stars](https://img.shields.io/badge/ANDROID-800080)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:ANDROID)
 [![GitHub Repo stars](https://img.shields.io/badge/WINDOWS-800080)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:WINDOWS)
 
 [![GitHub Repo stars](https://img.shields.io/badge/TERMINAL-800080)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:TERMINAL)
+[![GitHub Repo stars](https://img.shields.io/badge/INTERFACE-800080)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:INTERFACE)
 [![GitHub Repo stars](https://img.shields.io/badge/ENGINE-800080)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:ENGINE)
-[![GitHub Repo stars](https://img.shields.io/badge/HTML-800080)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:HTML)
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:C" target="_blank" rel="noreferrer"><img src="FOTOS/C.png" alt="C" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:C-PLUS-PLUS" target="_blank" rel="noreferrer"><img src="FOTOS/C_PLUS_PLUS.png" alt="C++" width="40" height="40"/></a>
@@ -323,7 +327,7 @@
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYTHON-GAME" target="_blank" rel="noreferrer"><img src="FOTOS/PYTHON_GAME.png" alt="PYTHON GAME" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYGAME" target="_blank" rel="noreferrer"><img src="FOTOS/PYGAME.png" alt="PYGAME" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=topic:CANVAS" target="_blank" rel="noreferrer"><img src="FOTOS/CANVAS.png" alt="CANVAS" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=topic:CANVAS" target="_blank" rel="noreferrer"><img src="FOTOS/CANVAS.png" alt="CANVAS" width="38" height="38"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PHASER" target="_blank" rel="noreferrer"><img src="FOTOS/PHASER.png" alt="PHASER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:CONSTRUCT" target="_blank" rel="noreferrer"><img src="FOTOS/CONSTRUCT.png" alt="CONSTRUCT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:UNITY" target="_blank" rel="noreferrer"><img src="FOTOS/UNITY.png" alt="UNITY" width="40" height="40"/></a>
