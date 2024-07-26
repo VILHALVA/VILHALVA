@@ -127,6 +127,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-TWIT" target="_blank" rel="noreferrer"><img src="FOTOS/TWIT.png" alt="TWIT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-REACT-CHATBOT-KIT" target="_blank" rel="noreferrer"><img src="FOTOS/REACT_CHATBOT_KIT.png" alt="REACT CHATBOT KIT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PYGAME" target="_blank" rel="noreferrer"><img src="FOTOS/PYGAME.png" alt="PYGAME" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-CANVAS" target="_blank" rel="noreferrer"><img src="FOTOS/CANVAS.png" alt="CANVAS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PHASER" target="_blank" rel="noreferrer"><img src="FOTOS/PHASER.png" alt="PHASER" width="40" height="40"/></a>
 
 ## ( 04 ) FERRAMENTAS/TECNOLOGIAS
@@ -322,7 +323,7 @@
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYTHON-GAME" target="_blank" rel="noreferrer"><img src="FOTOS/PYTHON_GAME.png" alt="PYTHON GAME" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYGAME" target="_blank" rel="noreferrer"><img src="FOTOS/PYGAME.png" alt="PYGAME" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=topic:CANVAS" target="_blank" rel="noreferrer"><img src="FOTOS/CANVAS2.png" alt="CANVAS" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=topic:CANVAS" target="_blank" rel="noreferrer"><img src="FOTOS/CANVAS.png" alt="CANVAS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PHASER" target="_blank" rel="noreferrer"><img src="FOTOS/PHASER.png" alt="PHASER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:CONSTRUCT" target="_blank" rel="noreferrer"><img src="FOTOS/CONSTRUCT.png" alt="CONSTRUCT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:UNITY" target="_blank" rel="noreferrer"><img src="FOTOS/UNITY.png" alt="UNITY" width="40" height="40"/></a>
