@@ -101,6 +101,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-DJANGO" target="_blank" rel="noreferrer"><img src="FOTOS/DJANGO.png" alt="DJANGO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-FLASK" target="_blank" rel="noreferrer"><img src="FOTOS/FLASK.png" alt="FLASK" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PYSCRIPT" target="_blank" rel="noreferrer"><img src="FOTOS/PYSCRIPT.png" alt="PYSCRIPT" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-PANDAS" target="_blank" rel="noreferrer"><img src="FOTOS/PANDAS.png" alt="PANDAS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-BOOTSTRAP" target="_blank" rel="noreferrer"><img src="FOTOS/BOOTSTRAP.png" alt="BOOTSTRAP" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-MATERIALIZECSS" target="_blank" rel="noreferrer"><img src="FOTOS/MATERIALIZECSS.png" alt="MATERIALIZECSS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-CHARTJS" target="_blank" rel="noreferrer"><img src="FOTOS/CHARTJS.png" alt="CHARTJS" width="40" height="40"/></a>
@@ -211,6 +212,7 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:DJANGO" target="_blank" rel="noreferrer"><img src="FOTOS/DJANGO.png" alt="DJANGO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:FLASK" target="_blank" rel="noreferrer"><img src="FOTOS/FLASK.png" alt="FLASK" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:PYSCRIPT" target="_blank" rel="noreferrer"><img src="FOTOS/PYSCRIPT.png" alt="PYSCRIPT" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:PANDAS" target="_blank" rel="noreferrer"><img src="FOTOS/PANDAS.png" alt="PANDAS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:SCSS" target="_blank" rel="noreferrer"><img src="FOTOS/SCSS.png" alt="SCSS" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:EJS" target="_blank" rel="noreferrer"> <img src="FOTOS/EJS.png" alt="EJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:HANDLEBARS" target="_blank" rel="noreferrer"><img src="FOTOS/HANDLEBARS.png" alt="HANDLEBARS" width="40" height="40"/></a> 
