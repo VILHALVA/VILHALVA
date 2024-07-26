@@ -80,6 +80,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-LUA" target="_blank" rel="noreferrer"><img src="FOTOS/LUA.png" alt="LUA" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-GML" target="_blank" rel="noreferrer"><img src="FOTOS/GML.png" alt="GML" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-GDSCRIPT" target="_blank" rel="noreferrer"><img src="FOTOS/GDSCRIPT.png" alt="GDSCRIPT" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-BATCH-SCRIPT" target="_blank" rel="noreferrer"><img src="FOTOS/BATCH_SCRIPT.png" alt="BATCH SCRIPT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-CANVAS" target="_blank" rel="noreferrer"><img src="FOTOS/CANVAS.png" alt="CANVAS" width="38" height="38"/></a>
 
 ## ( 03 ) FRAMEWORKS/BIBLIOTECAS
@@ -324,6 +325,7 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:LUA" target="_blank" rel="noreferrer"><img src="FOTOS/LUA.png" alt="LUA" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:GML" target="_blank" rel="noreferrer"><img src="FOTOS/GML.png" alt="GML" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:GDSCRIPT" target="_blank" rel="noreferrer"><img src="FOTOS/GDSCRIPT.png" alt="GDSCRIPT" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=topic:BATCH-SCRIPT" target="_blank" rel="noreferrer"><img src="FOTOS/BATCH_SCRIPT.png" alt="BATCH SCRIPT" width="40" height="40"/></a>
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYTHON-GAME" target="_blank" rel="noreferrer"><img src="FOTOS/PYTHON_GAME.png" alt="PYTHON GAME" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYGAME" target="_blank" rel="noreferrer"><img src="FOTOS/PYGAME.png" alt="PYGAME" width="40" height="40"/></a>
