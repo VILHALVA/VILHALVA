@@ -17,7 +17,7 @@ Caro Cliente em Potencial, Saudações! Estou empolgado por você considerar meu
 - Os bots que desenvolvo podem realizar uma variedade de funções personalizadas, desde automação de tarefas simples até interações mais complexas.
 
 ### 04) CRIAÇÃO DE JOGOS: 
-- Embora eu não seja um especialista, posso trabalhar na criação de jogos, utilizando diversas ferramentas; Como Unity, Game Maker, Godot, e até mesmo implementações em Python e JavaScript.
+- Embora eu não seja um especialista, posso trabalhar na criação de jogos, utilizando diversas Engines populares, até mesmo implementações em Python e JavaScript.
 
 ### 05) CRIAÇÃO DE ROTEIROS: 
 - Seja para vídeos, apresentações ou qualquer forma de conteúdo, minha especialidade inclui a criação de roteiros perspicazes e envolventes.
