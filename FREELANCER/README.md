@@ -2,9 +2,7 @@
 <img src="IMAGENS/VILHALVA_1.jpg" align="center" width="500"> <br>
 
 ## VOCÊ ESTÁ PRONTO PARA LEVAR SEUS PROJETOS AO PRÓXIMO NÍVEL?
-Caro Cliente em Potencial,
-
-Saudações! Estou empolgado por você considerar meus serviços para o seu próximo projeto. Quero garantir que você saiba que sou apaixonado por fornecer soluções de alta qualidade e atender às suas necessidades.
+Caro Cliente em Potencial, Saudações! Estou empolgado por você considerar meus serviços para o seu próximo projeto. Quero garantir que você saiba que sou apaixonado por fornecer soluções de alta qualidade e atender às suas necessidades.
 
 ## O QUE POSSO OFERECER A VOCÊ?
 ### 01) CRIAÇÃO DE SITES:
@@ -51,13 +49,11 @@ Saudações! Estou empolgado por você considerar meus serviços para o seu pró
 > Eu desenvolvo o projeto, compartilhando capturas de tela para mostrar o progresso ao cliente. A entrega dos arquivos ocorre somente após o pagamento ser efetuado. A hospedagem e distribuição nas lojas são de responsabilidade do cliente, com orientações opcionais fornecidas por mim para ajudar na publicação.
 
 ## EM BUSCA DE MAIS INFORMAÇÕES OU TEM ALGUMA DÚVIDA?
-Para conferir o meu Portfólio, me siga no [GitHub](https://github.com/VILHALVA), [YouTube](https://www.youtube.com/channel/UCmSPU_gp3NA7a8pb5Iwy3lQ), [Telegram](https://t.me/VILHALVA100_CANAL), [LINKEDIN](http://www.linkedin.com/in/vilhalva) e no [Facebook](https://facebook.com/VILHALVA100). Nessas redes sociais, você poderá acompanhar de perto minha jornada e obter as respostas que procura.
+- Para conferir o meu Portfólio, me siga no [GitHub](https://github.com/VILHALVA), [YouTube](https://www.youtube.com/channel/UCmSPU_gp3NA7a8pb5Iwy3lQ), [Telegram](https://t.me/VILHALVA100_CANAL), [LINKEDIN](http://www.linkedin.com/in/vilhalva) e no [Facebook](https://facebook.com/VILHALVA100). Nessas redes sociais, você poderá acompanhar de perto minha jornada e obter as respostas que procura.
 
-Agradeço por considerar nossa parceria. Não hesite em entrar em contato para discutir as próximas etapas e tirar suas dúvidas. Estou ansioso para ajudá-lo a alcançar seus objetivos.
+- Agradeço por considerar nossa parceria. Não hesite em entrar em contato para discutir as próximas etapas e tirar suas dúvidas. Estou ansioso para ajudá-lo a alcançar seus objetivos.
 
-Cumprimentos,
-
-[Samuel Martins Vilhalva](https://t.me/VILHALVA100)
+- Cumprimentos, [Samuel Martins Vilhalva](https://t.me/VILHALVA100)
 
 -> Para entrar em contato: [Clique aqui](https://t.me/VILHALVA100), ou pesquise @VILHALVA100 no Telegram!
 
