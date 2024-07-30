@@ -128,8 +128,8 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-TWIT" target="_blank" rel="noreferrer"><img src="FOTOS/TWIT.png" alt="TWIT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-REACT-CHATBOT-KIT" target="_blank" rel="noreferrer"><img src="FOTOS/REACT_CHATBOT_KIT.png" alt="REACT CHATBOT KIT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PYGAME" target="_blank" rel="noreferrer"><img src="FOTOS/PYGAME.png" alt="PYGAME" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-PHASER" target="_blank" rel="noreferrer"><img src="FOTOS/PHASER.png" alt="PHASER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LOVE" target="_blank" rel="noreferrer"><img src="FOTOS/LOVE.png" alt="LOVE" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-PHASER" target="_blank" rel="noreferrer"><img src="FOTOS/PHASER.png" alt="PHASER" width="40" height="40"/></a>
 
 ## ( 04 ) FERRAMENTAS/TECNOLOGIAS
 <a href="https://github.com/VILHALVA/CURSO-DE-WORDPRESS" target="_blank" rel="noreferrer"><img src="FOTOS/WORDPRESS.png" alt="WORDPRESS" width="40" height="40"/></a>
@@ -227,6 +227,8 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:SQL-SERVER" target="_blank" rel="noreferrer"><img src="FOTOS/SQL_SERVER.png" alt="SQL SERVER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:MONGODB" target="_blank" rel="noreferrer"><img src="FOTOS/MONGODB.png" alt="MONGODB" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:SQLITE" target="_blank" rel="noreferrer"><img src="FOTOS/SQLITE.png" alt="SQLITE" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:FIREBASE" target="_blank" rel="noreferrer"><img src="FOTOS/FIREBASE.png" alt="FIREBASE" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:EXCEL" target="_blank" rel="noreferrer"><img src="FOTOS/EXCEL.png" alt="EXCEL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:TXT" target="_blank" rel="noreferrer"><img src="FOTOS/TXT.png" alt="TXT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:PKL" target="_blank" rel="noreferrer"><img src="FOTOS/PKL.png" alt="PKL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:JSON" target="_blank" rel="noreferrer"><img src="FOTOS/JSON.png" alt="JSON" width="40" height="40"/></a>
@@ -331,9 +333,9 @@
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYTHON-GAME" target="_blank" rel="noreferrer"><img src="FOTOS/PYTHON_GAME.png" alt="PYTHON GAME" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYGAME" target="_blank" rel="noreferrer"><img src="FOTOS/PYGAME.png" alt="PYGAME" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=topic:LOVE" target="_blank" rel="noreferrer"><img src="FOTOS/LOVE.png" alt="LOVE" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:CANVAS" target="_blank" rel="noreferrer"><img src="FOTOS/CANVAS.png" alt="CANVAS" width="38" height="38"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PHASER" target="_blank" rel="noreferrer"><img src="FOTOS/PHASER.png" alt="PHASER" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=topic:LOVE" target="_blank" rel="noreferrer"><img src="FOTOS/LOVE.png" alt="LOVE" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:CONSTRUCT" target="_blank" rel="noreferrer"><img src="FOTOS/CONSTRUCT.png" alt="CONSTRUCT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:UNITY" target="_blank" rel="noreferrer"><img src="FOTOS/UNITY.png" alt="UNITY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:GAME-MAKER" target="_blank" rel="noreferrer"><img src="FOTOS/GAME_MAKER.png" alt="GAME MAKER" width="40" height="40"/></a> 
