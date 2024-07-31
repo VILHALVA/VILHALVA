@@ -245,7 +245,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/WINDOWS-006400)](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:WINDOWS)
 
 [![GitHub Repo stars](https://img.shields.io/badge/TERMINAL-006400)](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:TERMINAL)
-[![GitHub Repo stars](https://img.shields.io/badge/INTERFACE-006400)](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:GUI)
+[![GitHub Repo stars](https://img.shields.io/badge/INTERFACE-006400)](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:INTERFACE)
 [![GitHub Repo stars](https://img.shields.io/badge/HTML-006400)](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:HTML)
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:JAVA" target="_blank" rel="noreferrer"><img src="FOTOS/JAVA.png" alt="JAVA" width="40" height="40"/></a> 
