@@ -44,5 +44,17 @@
     - [JOGOS](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:PYTHON)
 
 A mesma lógica se aplica a outras tecnologias.
+
+### 2.3) LICENÇA:
+- Todos os projetos e cursos que publico utilizam a licença `MIT`. Isso significa que você está livre para copiar, modificar e distribuir meus projetos e cursos, desde que atribua os devidos créditos ao criador, conforme estipulado na licença. Assim como eu faço ao referenciar as fontes e inspirações dos meus projetos, espero que você faça o mesmo ao utilizar meu trabalho.
+
+**Mais sobre a licença MIT:**
+A licença MIT é uma licença de software permissiva que é simples e clara, permitindo quase total liberdade com o software, com a única condição de que você mantenha os direitos autorais e a nota de licença original nos trabalhos derivados. Aqui estão os principais pontos:
+  - **Liberdade de uso:** Você pode usar o código para qualquer propósito.
+  - **Liberdade de modificação:** Você pode modificar o código conforme suas necessidades.
+  - **Liberdade de distribuição:** Você pode distribuir cópias do código, incluindo as modificações que você fez.
+  - **Liberdade de sublicenciamento:** Você pode sublicenciar o código e suas modificações, ou seja, liberar sob uma licença diferente, desde que mantenha o aviso de direitos autorais original e a nota de licença.
+
+Para mais detalhes, você pode consultar o [texto completo da licença MIT](https://opensource.org/licenses/MIT).
       
 
