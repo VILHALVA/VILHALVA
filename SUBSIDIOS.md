@@ -29,10 +29,6 @@ Neste README.md, você encontrará uma visão geral abrangente dos projetos e cu
    - **Licença:** Informações sobre a licença `MIT` que cobre todos os projetos e cursos, permitindo que você utilize, modifique e distribua o conteúdo, desde que os créditos sejam mantidos.
    - **Reconhecimento de Fontes:** Detalhes sobre como e onde os créditos são dados, reconhecendo as fontes e contribuições externas.
 
-6. **Contato e Suporte:**
-   - **Informações de Contato:** Como entrar em contato para dúvidas, sugestões ou suporte adicional.
-   - **FAQs:** Respostas para perguntas frequentes que podem surgir ao utilizar os projetos e cursos.
-
 ### OBJETIVO DO REPOSITÓRIO:
 Este repositório foi criado para fornecer recursos educacionais e práticos para desenvolvedores e entusiastas de tecnologia. A intenção é compartilhar conhecimentos e facilitar o aprendizado através de exemplos práticos e cursos bem estruturados. Queremos que você encontre aqui tudo o que precisa para aprender, aplicar e expandir suas habilidades.
 
