@@ -79,7 +79,7 @@ Obrigado por visitar e explorar este repositório. Esperamos que você encontre 
 
 A mesma lógica se aplica a outras tecnologias.
 
-## 3) CONTRIBUIÇÕES
+## 3) CONTRIBUIÇÕES:
 Contribuições são sempre bem-vindas! Se você deseja contribuir para meus projetos e cursos, por favor, siga as diretrizes abaixo para garantir um processo de colaboração eficiente e organizado:
 
 ### 3.1) DIRETRIZES PARA CONTRIBUIÇÕES:
