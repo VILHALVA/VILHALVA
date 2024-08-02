@@ -37,6 +37,12 @@
     - A) **O BOTÃO [CLOUD:](https://github.com/VILHALVA?tab=repositories&q=+topic:CLOUD)** Destina-se a projetos que fazem uso de bancos de dados externos, indicando que o projeto envolve a utilização de serviços de armazenamento de dados na nuvem. Isso inclui plataformas como [Firebase](https://github.com/VILHALVA?tab=repositories&q=+topic:FIREBASE), Carto, Amazon RDS, Google Cloud SQL, entre outras opções disponíveis.
     - B) **[O BOTÃO DATABASE:](https://github.com/VILHALVA?tab=repositories&q=+topic:DATABASE)** Refere-se a projetos que utilizam bancos de dados locais, tais como [MySQL](https://github.com/VILHALVA?tab=repositories&q=+topic:MYSQL), [MongoDB](https://github.com/VILHALVA?tab=repositories&q=+topic:MONGODB), [MariaDB](https://github.com/VILHALVA?tab=repositories&q=+topic:MARIADB), [PostgreSQL](https://github.com/VILHALVA?tab=repositories&q=+topic:POSTGRESQL), [SQLite](https://github.com/VILHALVA?tab=repositories&q=+topic:SQLITE), [SQL SERVER](https://github.com/VILHALVA?tab=repositories&q=+topic:SQL-SERVER), entre outros.
 
+5. **ESSA SEÇÃO NÃO É ABSOLUTA, MAS RELATIVA:** Por exemplo, o [Python](https://github.com/VILHALVA?tab=repositories&q=+topic:PYTHON) está na seção de [CRIAÇÃO DE BOTS](https://github.com/VILHALVA?tab=repositories&q=+topic:BOT), mas também pode ser utilizado para criar:
+    - [SITES](https://github.com/VILHALVA?tab=repositories&q=topic:SITE+topic:PYTHON)
+    - [APLICATIVOS](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:PYTHON)
+    - [BOTS](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:PYTHON)
+    - [JOGOS](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:PYTHON)
 
+A mesma lógica se aplica a outras tecnologias.
       
 
