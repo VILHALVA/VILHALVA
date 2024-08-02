@@ -34,9 +34,9 @@
 3. [**SOBRE O TXT:**](https://github.com/VILHALVA?tab=repositories&q=+topic:TXT) De maneira similar, não serão listados projetos que fazem uso do "requirements.txt" (utilizado para o gerenciamento de dependências em projetos feitos com DJANGO e FLASK, por exemplo). A seleção abrange exclusivamente projetos que utilizam o "TXT" como banco de dados principal e/ou arquivo de configuração.
 
 4. **NÃO CONFUDIR ["CLOUD"](https://github.com/VILHALVA?tab=repositories&q=+topic:CLOUD) COM ["DATABASE"](https://github.com/VILHALVA?tab=repositories&q=+topic:DATABASE):**
-    - A) **O BOTÃO [CLOUD:](https://github.com/VILHALVA?tab=repositories&q=+topic:CLOUD)** Este se destina a projetos que fazem uso de bancos de dados externos, indicando que o projeto envolve a utilização de serviços de armazenamento de dados na nuvem. Isso inclui plataformas como Firebase, Carto, Amazon RDS, Google Cloud SQL, entre outras opções disponíveis.  
+    - A) **O BOTÃO [CLOUD:]**(https://github.com/VILHALVA?tab=repositories&q=+topic:CLOUD) Este se destina a projetos que fazem uso de bancos de dados externos, indicando que o projeto envolve a utilização de serviços de armazenamento de dados na nuvem. Isso inclui plataformas como Firebase, Carto, Amazon RDS, Google Cloud SQL, entre outras opções disponíveis.  
 
-    - B) **[O BOTÃO DATABASE:](https://github.com/VILHALVA?tab=repositories&q=+topic:DATABASE)** Este se refere a projetos que utilizam bancos de dados locais, tais como MySQL, MongoDB, MariaDB, PostgreSQL, SQLite, entre outros.
+    - B) **[O BOTÃO DATABASE:]**(https://github.com/VILHALVA?tab=repositories&q=+topic:DATABASE) Este se refere a projetos que utilizam bancos de dados locais, tais como MySQL, MongoDB, MariaDB, PostgreSQL, SQLite, entre outros.
 
       
 
