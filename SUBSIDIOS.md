@@ -63,7 +63,7 @@ Obrigado por visitar e explorar este repositório. Esperamos que você encontre 
     - A) [**BOTÃO DE API:**](https://github.com/VILHALVA?tab=repositories&q=+topic:API) Refere-se a projetos que utilizam APIs de terceiros, geralmente através de [CDN](https://github.com/VILHALVA?tab=repositories&q=+topic:CDN). Um exemplo é ["ESTATISTICAS DO GITHUB"](https://github.com/VILHALVA/ESTATISTICAS-DO-GITHUB), que é uma aplicação web que consome a API do GitHub para obter informações sobre os repositórios públicos de um usuário específico e exibe esses dados em gráficos interativos.
     - B) [**FOTO DE API-REST:**](https://github.com/VILHALVA?tab=repositories&q=+topic:API-REST) Refere-se a projetos que utilizam APIs REST locais. Estas APIs são criadas, editadas e publicadas por mim, podendo ser apenas a API ou uma aplicação cliente com API. Lembre-se que a foto do Postman é apenas ilustrativa; você pode usar qualquer ferramenta para testar sua API.
 
-2. **[SOBRE O JSON:](https://github.com/VILHALVA?tab=repositories&q=+topic:JSON)** Ao clicar nesta foto, você terá acesso apenas a projetos que utilizam JSON como banco de dados e/ou como arquivo de configuração (tais como settings.json ou CONFIG.json). Projetos que empregam o MongoDB, bem como aqueles que dependem do arquivo "package.json" (usado para gerenciar as dependências dos projetos no Node.js) e o "JSON-Server" (comumente utilizado em APIs REST), não estão incluídos.
+2. **[SOBRE O JSON:](https://github.com/VILHALVA?tab=repositories&q=+topic:JSON)** Ao clicar nesta foto, você terá acesso apenas a projetos que utilizam JSON como banco de dados e/ou como arquivo de configuração (tais como settings.json ou CONFIG.json). Projetos que empregam o [MongoDB](https://github.com/VILHALVA?tab=repositories&q=+topic:MONGODB), bem como aqueles que dependem do arquivo "package.json" (usado para gerenciar as dependências dos projetos no [Node.js](https://github.com/VILHALVA?tab=repositories&q=+topic:NODEJS)) e o "JSON-Server" (comumente utilizado em [APIs REST](https://github.com/VILHALVA?tab=repositories&q=+topic:API-REST)), não estão incluídos.
 
 3. **[SOBRE O TXT:](https://github.com/VILHALVA?tab=repositories&q=+topic:TXT)** De maneira similar, não serão listados projetos que fazem uso do "requirements.txt" (utilizado para o gerenciamento de dependências em projetos feitos com [Django](https://github.com/VILHALVA?tab=repositories&q=+topic:DJANGO) e [Flask](https://github.com/VILHALVA?tab=repositories&q=+topic:FLASK), por exemplo). A seleção abrange exclusivamente projetos que utilizam o "TXT" como banco de dados principal e/ou arquivo de configuração.
 
@@ -77,7 +77,7 @@ Obrigado por visitar e explorar este repositório. Esperamos que você encontre 
     - [BOTS](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:PYTHON)
     - [JOGOS](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:PYTHON)
 
-A mesma lógica se aplica a outras tecnologias.
+A mesma lógica se aplica a outras Linguagens/Tecnologias.
 
 ## 3) CONTRIBUIÇÕES:
 Contribuições são sempre bem-vindas! Se você deseja contribuir para meus projetos e cursos, por favor, siga as diretrizes abaixo para garantir um processo de colaboração eficiente e organizado:
