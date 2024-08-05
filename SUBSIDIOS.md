@@ -63,21 +63,30 @@ Obrigado por visitar e explorar este repositório. Esperamos que você encontre 
     - A) [**BOTÃO DE API:**](https://github.com/VILHALVA?tab=repositories&q=+topic:API) Refere-se a projetos que utilizam APIs de terceiros, geralmente através de [CDN](https://github.com/VILHALVA?tab=repositories&q=+topic:CDN). Um exemplo é ["ESTATISTICAS DO GITHUB"](https://github.com/VILHALVA/ESTATISTICAS-DO-GITHUB), que é uma aplicação web que consome a API do GitHub para obter informações sobre os repositórios públicos de um usuário específico e exibe esses dados em gráficos interativos.
     - B) [**FOTO DE API-REST:**](https://github.com/VILHALVA?tab=repositories&q=+topic:API-REST) Refere-se a projetos que utilizam APIs REST locais. Estas APIs são criadas, editadas e publicadas por mim, podendo ser apenas a API ou uma aplicação cliente com API. Lembre-se que a foto do Postman é apenas ilustrativa; você pode usar qualquer ferramenta para testar sua API.
 
-2. **[SOBRE O JSON:](https://github.com/VILHALVA?tab=repositories&q=+topic:JSON)** Ao clicar nesta foto, você terá acesso apenas a projetos que utilizam JSON como banco de dados e/ou como arquivo de configuração (tais como settings.json ou CONFIG.json). Projetos que empregam o [MongoDB](https://github.com/VILHALVA?tab=repositories&q=+topic:MONGODB), bem como aqueles que dependem do arquivo "package.json" (usado para gerenciar as dependências dos projetos no [Node.js](https://github.com/VILHALVA?tab=repositories&q=+topic:NODEJS)) e o ["JSON-Server"](https://github.com/VILHALVA?tab=repositories&q=+topic:JSON-SERVER) (comumente utilizado em [APIs REST](https://github.com/VILHALVA?tab=repositories&q=+topic:API-REST)), não estão incluídos.
-
-3. **[SOBRE O TXT:](https://github.com/VILHALVA?tab=repositories&q=+topic:TXT)** De maneira similar, não serão listados projetos que fazem uso do "requirements.txt" (utilizado para o gerenciamento de dependências em projetos feitos com [Django](https://github.com/VILHALVA?tab=repositories&q=+topic:DJANGO) e [Flask](https://github.com/VILHALVA?tab=repositories&q=+topic:FLASK), por exemplo). A seleção abrange exclusivamente projetos que utilizam o "TXT" como banco de dados principal e/ou arquivo de configuração.
-
-4. **NÃO CONFUNDIR ["CLOUD"](https://github.com/VILHALVA?tab=repositories&q=+topic:CLOUD) COM ["DATABASE"](https://github.com/VILHALVA?tab=repositories&q=+topic:DATABASE):**
+2. **NÃO CONFUNDIR ["CLOUD"](https://github.com/VILHALVA?tab=repositories&q=+topic:CLOUD) COM ["DATABASE"](https://github.com/VILHALVA?tab=repositories&q=+topic:DATABASE):**
     - A) **O BOTÃO [CLOUD:](https://github.com/VILHALVA?tab=repositories&q=+topic:CLOUD)** Destina-se a projetos que fazem uso de bancos de dados externos, indicando que o projeto envolve a utilização de serviços de armazenamento de dados na nuvem. Isso inclui plataformas como [Firebase](https://github.com/VILHALVA?tab=repositories&q=+topic:FIREBASE), Carto, Amazon RDS, Google Cloud SQL, entre outras opções disponíveis.
     - B) **[O BOTÃO DATABASE:](https://github.com/VILHALVA?tab=repositories&q=+topic:DATABASE)** Refere-se a projetos que utilizam bancos de dados locais, tais como [MySQL](https://github.com/VILHALVA?tab=repositories&q=+topic:MYSQL), [MongoDB](https://github.com/VILHALVA?tab=repositories&q=+topic:MONGODB), [MariaDB](https://github.com/VILHALVA?tab=repositories&q=+topic:MARIADB), [PostgreSQL](https://github.com/VILHALVA?tab=repositories&q=+topic:POSTGRESQL), [SQLite](https://github.com/VILHALVA?tab=repositories&q=+topic:SQLITE), [SQL SERVER](https://github.com/VILHALVA?tab=repositories&q=+topic:SQL-SERVER), entre outros.
 
-5. **ESSA SEÇÃO NÃO É ABSOLUTA, MAS RELATIVA:** Por exemplo, o [Python](https://github.com/VILHALVA?tab=repositories&q=+topic:PYTHON) está na seção de [CRIAÇÃO DE BOTS](https://github.com/VILHALVA?tab=repositories&q=+topic:BOT), mas também pode ser utilizado para criar:
+3. **ESCLARECIMENTOS SOBRE FRAMEWORKS E BIBLIOTECAS:**
+   - Você pode ter notado que ao clicar no botão [FRAMEWORK](https://github.com/VILHALVA?tab=repositories&q=+topic:FRAMEWORK), é direcionado também para projetos que usam alguma Bíblioteca, como o [REACT](https://github.com/VILHALVA?tab=repositories&q=topic:REACT) e [TKINTER](https://github.com/VILHALVA?tab=repositories&q=topic:TKINTER), por exemplo. Mas React e Tkinter não são frameworks, mas sim bibliotecas. A inclusão dessas tecnologias nessa categoria ocorre por dois motivos:
+
+   - **1) Simplificação de Organização:** Evitar a necessidade de criar um novo botão intitulado "BIBLIOTECA", o que exigiria a inclusão de todos os projetos que já utilizei (pois todos utilizam alguma biblioteca).
+
+   - **2) Conformidade com Classificações:** Para seguir os padrões que envolvem os cursos de frameworks para desenvolvimento web.
+
+   - **Reitero:** Embora o React e Tkinter estejam listados como "FRAMEWORK", no meu GITHUB, na verdade, são BIBLIOTECAS. Esta prática será mantida para os futuros projetos.
+
+4. **ESSA SEÇÃO NÃO É ABSOLUTA, MAS RELATIVA:** Por exemplo, o [Python](https://github.com/VILHALVA?tab=repositories&q=+topic:PYTHON) está na seção de [CRIAÇÃO DE BOTS](https://github.com/VILHALVA?tab=repositories&q=+topic:BOT), mas também pode ser utilizado para criar:
     - [SITES](https://github.com/VILHALVA?tab=repositories&q=topic:SITE+topic:PYTHON)
     - [APLICATIVOS](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:PYTHON)
     - [BOTS](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:PYTHON)
     - [JOGOS](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:PYTHON)
 
-A mesma lógica se aplica a outras Linguagens/Tecnologias.
+   A mesma lógica se aplica a outras Linguagens/Tecnologias.
+
+5. **[SOBRE O JSON:](https://github.com/VILHALVA?tab=repositories&q=+topic:JSON)** Ao clicar nesta foto, você terá acesso apenas a projetos que utilizam JSON como banco de dados e/ou como arquivo de configuração (tais como settings.json ou CONFIG.json). Projetos que empregam o [MongoDB](https://github.com/VILHALVA?tab=repositories&q=+topic:MONGODB), bem como aqueles que dependem do arquivo "package.json" (usado para gerenciar as dependências dos projetos no [Node.js](https://github.com/VILHALVA?tab=repositories&q=+topic:NODEJS)) e o ["JSON-Server"](https://github.com/VILHALVA?tab=repositories&q=+topic:JSON-SERVER) (comumente utilizado em [APIs REST](https://github.com/VILHALVA?tab=repositories&q=+topic:API-REST)), não estão incluídos.
+
+6. **[SOBRE O TXT:](https://github.com/VILHALVA?tab=repositories&q=+topic:TXT)** De maneira similar, não serão listados projetos que fazem uso do "requirements.txt" (utilizado para o gerenciamento de dependências em projetos feitos com [Django](https://github.com/VILHALVA?tab=repositories&q=+topic:DJANGO) e [Flask](https://github.com/VILHALVA?tab=repositories&q=+topic:FLASK), por exemplo). A seleção abrange exclusivamente projetos que utilizam o "TXT" como banco de dados principal e/ou arquivo de configuração.
 
 ## 3) CONTRIBUIÇÕES:
 Contribuições são sempre bem-vindas! Se você deseja contribuir para meus projetos e cursos, por favor, siga as diretrizes abaixo para garantir um processo de colaboração eficiente e organizado:
