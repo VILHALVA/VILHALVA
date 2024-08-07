@@ -76,7 +76,14 @@ Obrigado por visitar e explorar este repositório. Esperamos que você encontre 
 
    - **Reitero:** Embora o React e Tkinter estejam listados como "FRAMEWORK", no meu GITHUB, na verdade, são BIBLIOTECAS. Esta prática será mantida para os futuros projetos.
 
-4. **ESSA SEÇÃO NÃO É ABSOLUTA, MAS RELATIVA:** Por exemplo, o [Python](https://github.com/VILHALVA?tab=repositories&q=+topic:PYTHON) está na seção de [CRIAÇÃO DE BOTS](https://github.com/VILHALVA?tab=repositories&q=+topic:BOT), mas também pode ser utilizado para criar:
+4. **ESCLARECIMENTOS SOBRE OS BOTÕES DE INTERFACE:**
+   - **[01) CRIAÇÃO DE SITES](https://github.com/VILHALVA?tab=repositories&q=+topic:SITE):** Nessa seção, o botão de [INTERFACE](https://github.com/VILHALVA?tab=repositories&q=topic:SITE+topic:INTERFACE) representa apenas páginas web criadas exclusivamente para interface, ou seja, design (sem funcionalidade).
+
+   - **[02) CRIAÇÃO DE APLICATIVOS](https://github.com/VILHALVA?tab=repositories&q=+topic:APLICATIVO) E [04) CRIAÇÃO DE JOGOS](https://github.com/VILHALVA?tab=repositories&q=+topic:JOGO):** Nesta seção, tanto para [APLICATIVOS](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:INTERFACE) quanto para [JOGOS](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:INTERFACE), o botão representa projetos que utilizam interface gráfica, sendo o oposto de [APLICATIVOS DE TERMINAL](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:TERMINAL) e [JOGOS DE TERMINAL](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:TERMINAL).
+
+   - **03) SE USA HTML, NÃO USA INTERFACE:** Agora, [APLICATIVOS](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:HTML) e [JOGOS](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:HTML) classificados como `HTML` não precisam ser classificados como `INTERFACE`. (Você já viu algum projeto feito com HTML que não tenha interface?).
+
+4. **ESSA SEÇÃO NÃO É ABSOLUTA, MAS RELATIVA:** Por exemplo, o [PYTHON](https://github.com/VILHALVA?tab=repositories&q=+topic:PYTHON) está na seção de [CRIAÇÃO DE BOTS](https://github.com/VILHALVA?tab=repositories&q=+topic:BOT), mas também pode ser utilizado para criar:
     - [SITES](https://github.com/VILHALVA?tab=repositories&q=topic:SITE+topic:PYTHON)
     - [APLICATIVOS](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:PYTHON)
     - [BOTS](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:PYTHON)
