@@ -335,7 +335,7 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYTHON-GAME" target="_blank" rel="noreferrer"><img src="FOTOS/PYTHON_GAME.png" alt="PYTHON GAME" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYGAME" target="_blank" rel="noreferrer"><img src="FOTOS/PYGAME.png" alt="PYGAME" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:LOVE" target="_blank" rel="noreferrer"><img src="FOTOS/LOVE.png" alt="LOVE" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=topic:HTML-GAME" target="_blank" rel="noreferrer"><img src="FOTOS/HTML_GAME2.png" alt="HTML GAME" width="38" height="38"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=topic:HTML-GAME" target="_blank" rel="noreferrer"><img src="FOTOS/HTML_GAME.png" alt="HTML GAME" width="38" height="38"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:CANVAS" target="_blank" rel="noreferrer"><img src="FOTOS/CANVAS.png" alt="CANVAS" width="38" height="38"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PHASER" target="_blank" rel="noreferrer"><img src="FOTOS/PHASER.png" alt="PHASER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:CONSTRUCT" target="_blank" rel="noreferrer"><img src="FOTOS/CONSTRUCT.png" alt="CONSTRUCT" width="40" height="40"/></a>
