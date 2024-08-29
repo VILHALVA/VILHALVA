@@ -14,8 +14,8 @@
 <a href="./SUBSIDIOS.md" target="_blank"><img src="https://img.shields.io/badge/MAIS%20SUBSIDIOS-800080?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 # 🌚REDES SOCIAIS:
-[![GitHub Repo stars](https://img.shields.io/badge/CODIGOS-CANAL-03A9F4?logo=telegram)](https://t.me/CODIGOCN) 
-[![GitHub Repo stars](https://img.shields.io/badge/MEU-CANAL-03A9F4?logo=telegram)](https://t.me/VILHALVA100_CANAL) 
+[![GitHub Repo stars](https://img.shields.io/badge/CANAL_VILHALVA-03A9F4?logo=telegram)](https://t.me/VILHALVA100_CANAL) 
+[![GitHub Repo stars](https://img.shields.io/badge/PROJETOS-EXCLUSIVOS-03A9F4?logo=telegram)](https://t.me/EXCLUSIVOS_VILHALVA) 
 [![GitHub Repo stars](https://img.shields.io/badge/PARCERIA-SUPERCHATS-03A9F4?logo=telegram)](https://t.me/DIVULGACAO2023) <br>
 [![GitHub Repo stars](https://img.shields.io/badge/MEU%20PERFIL-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
 [![GitHub Repo stars](https://img.shields.io/badge/MEU-CANAL-03A9F4?logo=youtube)](https://www.youtube.com/channel/UCmSPU_gp3NA7a8pb5Iwy3lQ)
@@ -158,7 +158,6 @@
 
 [![GitHub Repo stars](https://img.shields.io/badge/UPDATES-000000?style=for-the-badge&logoColor=FFFFFF)](https://github.com/VILHALVA?tab=repositories&q=+topic:UPDATE)
 [![GitHub Repo stars](https://img.shields.io/badge/MINI%20CURSOS-000000?style=for-the-badge&logoColor=FFFFFF)](https://github.com/VILHALVA?tab=repositories&q=+topic:MINI-CURSO)
-[![GitHub Repo stars](https://img.shields.io/badge/PREMIUM-000000?style=for-the-badge&logoColor=FFFFFF)](https://github.com/VILHALVA?tab=repositories&q=+topic:PREMIUM)
 [![GitHub Repo stars](https://img.shields.io/badge/PAGES-000000?style=for-the-badge&logoColor=FFFFFF)](https://github.com/VILHALVA?tab=repositories&q=+topic:PAGES)
 [![GitHub Repo stars](https://img.shields.io/badge/FORK-000000?style=for-the-badge&logoColor=FFFFFF)](https://github.com/VILHALVA?tab=repositories&q=+topic:FORK)
 
