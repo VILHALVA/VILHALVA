@@ -34,8 +34,8 @@ Caro Cliente em Potencial, Saudações! Estou empolgado por você considerar meu
 ### 09) FAÇA OS TESTES:
 - Independentemente do projeto que você tenha desenvolvido, eu irei conduzir testes abrangentes e fornecer feedback detalhado, juntamente com sugestões de aprimoramento.
 
-### 10) COMPRAR UM PROJETO PREMIUM: 
-- Você tem a opção de requisitar a aquisição de projetos disponíveis em nosso diretório privado, denominado ['PROJETOS PREMIUM'](https://github.com/VILHALVA?tab=repositories&q=+topic:PREMIUM). Alguns desses projetos tem essa designação devido à sua qualidade e prontidão para serem utilizados e aprimorados em projetos de trabalho freelance. Eles não estão disponíveis publicamente no GitHub devido à sua natureza premium e à necessidade de manter sua confidencialidade.
+### 10) COMPRE UM PROJETO EXCLUSIVO: 
+- Você tem a opção de requisitar a aquisição de projetos disponíveis, denominado ['PROJETOS EXCLUSIVOS'](https://t.me/EXCLUSIVOS_VILHALVA). Alguns desses projetos tem essa designação devido à sua qualidade e prontidão para serem utilizados e aprimorados em projetos de trabalho freelance. Eles não estão disponíveis no GitHub, mas no canal: [@EXCLUSIVOS_VILHALVA](https://t.me/EXCLUSIVOS_VILHALVA).
 
 ### 11) SOLUÇÕES PERSONALIZADAS: 
 - Se você precisar de um serviço específico que não tenha sido mencionado anteriormente, não hesite em entrar em contato comigo através do meu PV (mensagem privada). Estou aqui para criar soluções personalizadas que atendam às suas necessidades exclusivas.
