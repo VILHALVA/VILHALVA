@@ -289,13 +289,13 @@
 [![GitHub Repo stars](https://img.shields.io/badge/MODERAÇÃO-0000FF)](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:MODERATION)
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYTHON" target="_blank" rel="noreferrer"><img src="FOTOS/PYTHON.png" alt="PYTHON" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:TERMINAL" target="_blank" rel="noreferrer"><img src="FOTOS/TERMINAL.png" alt="TERMINAL" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:WEBBOT" target="_blank" rel="noreferrer"><img src="FOTOS/WEBBOT.png" alt="WEBBOT" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=topic:MICROSOFT-BOT-FRAMEWORK" target="_blank" rel="noreferrer"><img src="FOTOS/MICROSOFT_BOT_FRAMEWORK.png" alt="MICROSOFT BOT FRAMEWORK" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:REACT-CHATBOT-KIT" target="_blank" rel="noreferrer"><img src="FOTOS/REACT_CHATBOT_KIT.png" alt="REACT CHATBOT KIT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:TELEGRAM" target="_blank" rel="noreferrer"><img src="FOTOS/TELEGRAM.png" alt="TELEGRAM" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:DISCORD" target="_blank" rel="noreferrer"><img src="FOTOS/DISCORD.png" alt="DISCORD" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:TWITTER" target="_blank" rel="noreferrer"><img src="FOTOS/TWITTER.png" alt="TWITTER" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=topic:MICROSOFT-BOT-FRAMEWORK" target="_blank" rel="noreferrer"><img src="FOTOS/MICROSOFT_BOT_FRAMEWORK.png" alt="MICROSOFT BOT FRAMEWORK" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:REACT-CHATBOT-KIT" target="_blank" rel="noreferrer"><img src="FOTOS/REACT_CHATBOT_KIT.png" alt="REACT CHATBOT KIT" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:WEBBOT" target="_blank" rel="noreferrer"><img src="FOTOS/WEBBOT.png" alt="WEBBOT" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:TERMINAL" target="_blank" rel="noreferrer"><img src="FOTOS/TERMINAL.png" alt="TERMINAL" width="40" height="40"/></a>
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:TELEBOT" target="_blank" rel="noreferrer"><img src="FOTOS/TELEBOT.png" alt="TELEBOT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:TELEPOT" target="_blank" rel="noreferrer"><img src="FOTOS/TELEPOT.png" alt="TELEPOT" width="40" height="40"/></a>
