@@ -247,6 +247,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/ENGINE-006400)](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:ENGINE)
 [![GitHub Repo stars](https://img.shields.io/badge/HTML-006400)](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:HTML)
 
+<a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYTHON" target="_blank" rel="noreferrer"><img src="FOTOS/PYTHON.png" alt="PYTHON" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:JAVA" target="_blank" rel="noreferrer"><img src="FOTOS/JAVA.png" alt="JAVA" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:KOTLIN" target="_blank" rel="noreferrer"> <img src="FOTOS/KOTLIN.png" alt="KOTLIN" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:DART" target="_blank" rel="noreferrer"> <img src="FOTOS/DART.png" alt="DART" width="40" height="40"/></a>
@@ -288,7 +289,6 @@
 [![GitHub Repo stars](https://img.shields.io/badge/CHATBOT-0000FF)](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:CHATBOT)
 [![GitHub Repo stars](https://img.shields.io/badge/MODERAÇÃO-0000FF)](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:MODERATION)
 
-<a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYTHON" target="_blank" rel="noreferrer"><img src="FOTOS/PYTHON.png" alt="PYTHON" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:TERMINAL" target="_blank" rel="noreferrer"><img src="FOTOS/TERMINAL.png" alt="TERMINAL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:WEBBOT" target="_blank" rel="noreferrer"><img src="FOTOS/WEBBOT.png" alt="WEBBOT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:MICROSOFT-BOT-FRAMEWORK" target="_blank" rel="noreferrer"><img src="FOTOS/MICROSOFT_BOT_FRAMEWORK.png" alt="MICROSOFT BOT FRAMEWORK" width="40" height="40"/></a>
