@@ -318,9 +318,9 @@
 [![GitHub Repo stars](https://img.shields.io/badge/ANDROID-800080)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:ANDROID)
 [![GitHub Repo stars](https://img.shields.io/badge/WINDOWS-800080)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:WINDOWS)
 
-[![GitHub Repo stars](https://img.shields.io/badge/TERMINAL-800080)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:TERMINAL)
 [![GitHub Repo stars](https://img.shields.io/badge/INTERFACE-800080)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:INTERFACE)
 [![GitHub Repo stars](https://img.shields.io/badge/ENGINE-800080)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:ENGINE)
+[![GitHub Repo stars](https://img.shields.io/badge/TERMINAL-800080)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:TERMINAL)
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:C" target="_blank" rel="noreferrer"><img src="FOTOS/C.png" alt="C" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:C-PLUS-PLUS" target="_blank" rel="noreferrer"><img src="FOTOS/C_PLUS_PLUS.png" alt="C++" width="40" height="40"/></a>
