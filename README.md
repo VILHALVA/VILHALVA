@@ -8,13 +8,13 @@
 [![MasterHead](./MIDIAS/MIDIA_1.gif)](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 # 👶SUBSIDIOS:
-<a href="https://vilhalva.github.io/STYLER/index.html" target="_blank"><img src="https://img.shields.io/badge/SITE%20STYLER-0000FF?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
-<a href="./FREELANCER/README.md" target="_blank"><img src="https://img.shields.io/badge/SOU%20FREELANCER-FF0000?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
-<a href="./SUBSIDIOS.md" target="_blank"><img src="https://img.shields.io/badge/MAIS%20SUBSIDIOS-800080?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:UPDATE" target="_blank"><img src="https://img.shields.io/badge/UPDATES-d81b60?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:MINI-CURSO" target="_blank"><img src="https://img.shields.io/badge/MINI%20CURSOS-9c27b0?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:PAGES" target="_blank"><img src="https://img.shields.io/badge/PAGES-0d47a1?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:FORK" target="_blank"><img src="https://img.shields.io/badge/FORKS-00695c?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://vilhalva.github.io/STYLER/index.html"><img src="https://img.shields.io/badge/SITE%20STYLER-0000FF?style=for-the-badge&logo=google&logoColor=white"></a>
+<a href="./FREELANCER/README.md"><img src="https://img.shields.io/badge/SOU%20FREELANCER-FF0000?style=for-the-badge&logo=google&logoColor=white"></a>
+<a href="./SUBSIDIOS.md"><img src="https://img.shields.io/badge/MAIS%20SUBSIDIOS-800080?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:UPDATE" target="_blank"><img src="https://img.shields.io/badge/UPDATES-d81b60?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:MINI-CURSO" ><img src="https://img.shields.io/badge/MINI%20CURSOS-9c27b0?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:PAGES"><img src="https://img.shields.io/badge/PAGES-0d47a1?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:FORK"><img src="https://img.shields.io/badge/FORKS-00695c?style=for-the-badge&logo=github&logoColor=white"></a>
 
 # 🌚REDES SOCIAIS:
 [![GitHub Repo stars](https://img.shields.io/badge/CANAL-VILHALVA-03A9F4?logo=telegram)](https://t.me/VILHALVA100_CANAL) 
@@ -31,7 +31,7 @@
 > 👇CLIQUE NAS FOTOS PARA EXPLORAR OS CURSOS!
 
 ## ( 01 ) TEORIA/TEORICO
-<a href="https://github.com/VILHALVA/CURSO-DE-GIT-E-GITHUB-01" target="_blank" rel="noreferrer"><img src="FOTOS/GITHUB_01.png" alt="GITHUB 01" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-GIT-E-GITHUB-01"><img src="FOTOS/GITHUB_01.png" alt="GITHUB 01" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-GIT-E-GITHUB-02" target="_blank" rel="noreferrer"><img src="FOTOS/GITHUB_02.png" alt="GITHUB 02" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LINUX-01" target="_blank" rel="noreferrer"><img src="FOTOS/LINUX_01.png" alt="LINUX 01" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LINUX-02" target="_blank" rel="noreferrer"><img src="FOTOS/LINUX_02.png" alt="LINUX 02" width="40" height="40"/></a>
