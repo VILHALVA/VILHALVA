@@ -8,10 +8,13 @@
 [![MasterHead](./MIDIAS/MIDIA_1.gif)](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 # 👶SUBSIDIOS:
-<a href="https://github.com/VILHALVA/CURSO-DE-PORTUGOL" target="_blank"><img src="https://img.shields.io/badge/SE%20FOR%20NOVATO%20CLIQUE%20AQUI-006400?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://vilhalva.github.io/STYLER/index.html" target="_blank"><img src="https://img.shields.io/badge/SITE%20STYLER-0000FF?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
 <a href="./FREELANCER/README.md" target="_blank"><img src="https://img.shields.io/badge/SOU%20FREELANCER-FF0000?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
 <a href="./SUBSIDIOS.md" target="_blank"><img src="https://img.shields.io/badge/MAIS%20SUBSIDIOS-800080?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:UPDATE" target="_blank"><img src="https://img.shields.io/badge/UPDATES-#d81b60?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:MINI-CURSO" target="_blank"><img src="https://img.shields.io/badge/MINI%20CURSOS-#9c27b0?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:PAGES" target="_blank"><img src="https://img.shields.io/badge/PAGES-#0d47a1?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:FORK" target="_blank"><img src="https://img.shields.io/badge/FORK-#00695c?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 # 🌚REDES SOCIAIS:
 [![GitHub Repo stars](https://img.shields.io/badge/CANAL-VILHALVA-03A9F4?logo=telegram)](https://t.me/VILHALVA100_CANAL) 
@@ -156,30 +159,28 @@
 # [👨‍💻MEUS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=+topic:PROJETO)
 > 👇CLIQUE NOS BOTÕES E NAS FOTOS PARA EXPLORAR OS PROJETOS!
 
-[![GitHub Repo stars](https://img.shields.io/badge/UPDATES-000000?style=for-the-badge&logoColor=FFFFFF)](https://github.com/VILHALVA?tab=repositories&q=+topic:UPDATE)
-[![GitHub Repo stars](https://img.shields.io/badge/MINI%20CURSOS-000000?style=for-the-badge&logoColor=FFFFFF)](https://github.com/VILHALVA?tab=repositories&q=+topic:MINI-CURSO)
-[![GitHub Repo stars](https://img.shields.io/badge/PAGES-000000?style=for-the-badge&logoColor=FFFFFF)](https://github.com/VILHALVA?tab=repositories&q=+topic:PAGES)
-[![GitHub Repo stars](https://img.shields.io/badge/FORK-000000?style=for-the-badge&logoColor=FFFFFF)](https://github.com/VILHALVA?tab=repositories&q=+topic:FORK)
+[![GitHub Repo stars](https://img.shields.io/badge/DATABASE-000000?style=for-the-badge&logoColor=FFFFFF)](https://github.com/VILHALVA?tab=repositories&q=+topic:DATABASE)
+[![GitHub Repo stars](https://img.shields.io/badge/CRUD-000000?style=for-the-badge&logoColor=FFFFFF)](https://github.com/VILHALVA?tab=repositories&q=+topic:CRUD)
+[![GitHub Repo stars](https://img.shields.io/badge/CLOUD-000000?style=for-the-badge&logoColor=FFFFFF)](https://github.com/VILHALVA?tab=repositories&q=+topic:CLOUD)
+[![GitHub Repo stars](https://img.shields.io/badge/API-000000?style=for-the-badge&logoColor=FFFFFF)](https://github.com/VILHALVA?tab=repositories&q=+topic:API)
+[![GitHub Repo stars](https://img.shields.io/badge/FRAMEWORK-000000?style=for-the-badge&logoColor=FFFFFF
+)](https://github.com/VILHALVA?tab=repositories&q=+topic:FRAMEWORK)
+[![GitHub Repo stars](https://img.shields.io/badge/CDN-000000?style=for-the-badge&logoColor=FFFFFF)](https://github.com/VILHALVA?tab=repositories&q=+topic:CDN)
+[![GitHub Repo stars](https://img.shields.io/badge/BUSCADOR-000000?style=for-the-badge&logoColor=FFFFFF)](https://github.com/VILHALVA?tab=repositories&q=+topic:SEARCH)
+[![GitHub Repo stars](https://img.shields.io/badge/LOGIN-000000?style=for-the-badge&logoColor=FFFFFF)](https://github.com/VILHALVA?tab=repositories&q=+topic:LOGIN)
+[![GitHub Repo stars](https://img.shields.io/badge/MULTIMIDIA-000000?style=for-the-badge&logoColor=FFFFFF)](https://github.com/VILHALVA?tab=repositories&q=+topic:MULTIMIDIA)
+[![GitHub Repo stars](https://img.shields.io/badge/MATEMATICA-000000?style=for-the-badge&logoColor=FFFFFF)](https://github.com/VILHALVA?tab=repositories&q=+topic:MATEMATICA)
+[![GitHub Repo stars](https://img.shields.io/badge/SCIENCE-000000?style=for-the-badge&logoColor=FFFFFF)](https://github.com/VILHALVA?tab=repositories&q=+topic:SCIENCE)
 
 ## [( 01 ) CRIAÇÃO DE SITES](https://github.com/VILHALVA?tab=repositories&q=+topic:SITE)
 
-[![GitHub Repo stars](https://img.shields.io/badge/DATABASE-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:DATABASE)
-[![GitHub Repo stars](https://img.shields.io/badge/CRUD-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:CRUD)
-[![GitHub Repo stars](https://img.shields.io/badge/CLOUD-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:CLOUD)
-[![GitHub Repo stars](https://img.shields.io/badge/API-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:API)
+[![GitHub Repo stars](https://img.shields.io/badge/NODEJS-FF0000)](https://github.com/VILHALVA?tab=repositories&q=topic:SITE+topic:NODEJS)
+[![GitHub Repo stars](https://img.shields.io/badge/JAVASCRIPT-FF0000)](https://github.com/VILHALVA?tab=repositories&q=topic:SITE+topic:JAVASCRIPT)
+[![GitHub Repo stars](https://img.shields.io/badge/HTML-FF0000)](https://github.com/VILHALVA?tab=repositories&q=topic:SITE+topic:HTML)
 
-[![GitHub Repo stars](https://img.shields.io/badge/FRAMEWORK-FF0000
-)](https://github.com/VILHALVA?tab=repositories&q=+topic:FRAMEWORK)
-[![GitHub Repo stars](https://img.shields.io/badge/CDN-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:CDN)
-[![GitHub Repo stars](https://img.shields.io/badge/SEARCH-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:SEARCH)
-
-[![GitHub Repo stars](https://img.shields.io/badge/LOGIN-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:LOGIN)
 [![GitHub Repo stars](https://img.shields.io/badge/INTERFACE-FF0000)](https://github.com/VILHALVA?tab=repositories&q=topic:SITE+topic:INTERFACE)
-[![GitHub Repo stars](https://img.shields.io/badge/MULTIMIDIA-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:MULTIMIDIA)
-
-[![GitHub Repo stars](https://img.shields.io/badge/MATEMATICA-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:MATEMATICA)
-[![GitHub Repo stars](https://img.shields.io/badge/SCIENCE-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:SCIENCE)
-[![GitHub Repo stars](https://img.shields.io/badge/APLICAÇÃO-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic:APLICATION)
+[![GitHub Repo stars](https://img.shields.io/badge/APLICAÇÃO-FF0000)](https://github.com/VILHALVA?tab=repositories&q=topic:SITE+topic:APLICATION)
+[![GitHub Repo stars](https://img.shields.io/badge/ROTAS-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic%3ASITE+ROTAS+COM&type=&language=&sort=)
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO-EM-VIDEO" target="_blank" rel="noreferrer"> <img src="FOTOS/CURSO_EM_VIDEO.png" alt="CURSO EM VIDEO" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:CURSE" target="_blank" rel="noreferrer"> <img src="FOTOS/CURSE.png" alt="CURSE" width="40" height="40"/></a> 
