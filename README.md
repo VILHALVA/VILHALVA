@@ -11,6 +11,7 @@
 <a href="https://vilhalva.github.io/STYLER/index.html" target="_blank"><img src="https://img.shields.io/badge/SITE%20STYLER-0000FF?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
 <a href="./FREELANCER/README.md" target="_blank"><img src="https://img.shields.io/badge/SOU%20FREELANCER-FF0000?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
 <a href="./SUBSIDIOS.md" target="_blank"><img src="https://img.shields.io/badge/MAIS%20SUBSIDIOS-800080?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:UPDATE" target="_blank"><img src="https://img.shields.io/badge/UPDATES-d81b60?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:MINI-CURSO" target="_blank"><img src="https://img.shields.io/badge/MINI%20CURSOS-9c27b0?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:PAGES" target="_blank"><img src="https://img.shields.io/badge/PAGES-0d47a1?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
