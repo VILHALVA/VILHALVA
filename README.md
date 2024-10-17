@@ -167,14 +167,13 @@
 [![GitHub Repo stars](https://img.shields.io/badge/SCIENCE-000000?style=for-the-badge&logoColor=FFFFFF)](https://github.com/VILHALVA?tab=repositories&q=+topic:SCIENCE)
 
 ## [( 01 ) CRIAÇÃO DE SITES](https://github.com/VILHALVA?tab=repositories&q=+topic:SITE)
-
 [![GitHub Repo stars](https://img.shields.io/badge/NODEJS-FF0000)](https://github.com/VILHALVA?tab=repositories&q=topic:SITE+topic:NODEJS)
 [![GitHub Repo stars](https://img.shields.io/badge/JAVASCRIPT-FF0000)](https://github.com/VILHALVA?tab=repositories&q=topic:SITE+topic:JAVASCRIPT)
 [![GitHub Repo stars](https://img.shields.io/badge/HTML-FF0000)](https://github.com/VILHALVA?tab=repositories&q=topic:SITE+topic:HTML)
 
-[![GitHub Repo stars](https://img.shields.io/badge/INTERFACE-FF0000)](https://github.com/VILHALVA?tab=repositories&q=topic:SITE+topic:INTERFACE)
+[![GitHub Repo stars](https://img.shields.io/badge/FRONTEND-FF0000)](https://github.com/VILHALVA?tab=repositories&q=topic:SITE+topic:INTERFACE)
+[![GitHub Repo stars](https://img.shields.io/badge/BACKEND-FF0000)](https://github.com/VILHALVA?tab=repositories&q=topic:SITE+topic:DATABASE)
 [![GitHub Repo stars](https://img.shields.io/badge/APLICAÇÃO-FF0000)](https://github.com/VILHALVA?tab=repositories&q=topic:SITE+topic:APLICATION)
-[![GitHub Repo stars](https://img.shields.io/badge/ROTAS-FF0000)](https://github.com/VILHALVA?tab=repositories&q=+topic%3ASITE+ROTAS+COM&type=&language=&sort=)
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO-EM-VIDEO"> <img src="FOTOS/CURSO_EM_VIDEO.png" alt="CURSO EM VIDEO" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:CURSE"> <img src="FOTOS/CURSE.png" alt="CURSE" width="40" height="40"/></a> 
