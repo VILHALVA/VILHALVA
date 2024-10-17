@@ -45,7 +45,7 @@
 
 ## ( 02 ) LINGUAGENS/MARCADORES
 <a href="https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS"><img src="FOTOS/HTML_E_CSS.png" alt="HTML E CSS" width="40" height="40"/></a> 
-<a href="https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT"><img src="FOTOS/JAVASCRIPT2.png" alt="JAVASCRIPT" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT"><img src="FOTOS/JAVASCRIPT.png" alt="JAVASCRIPT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-TYPESCRIPT"><img src="FOTOS/TYPESCRIPT.png" alt="TYPECRIPT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PHP"><img src="FOTOS/PHP.png" alt="PHP" width="50" height="50"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-RUBY"><img src="FOTOS/RUBY.jpg" alt="RUBY" width="40" height="40"/></a>
@@ -180,7 +180,7 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:CURSE"> <img src="FOTOS/CURSE.png" alt="CURSE" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:HTML"> <img src="FOTOS/HTML.ico" alt="HTML" width="42" height="42"/></a> 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:CSS"><img src="FOTOS/CSS.png" alt="CSS" width="38" height="38"/></a> 
-<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:JAVASCRIPT"> <img src="FOTOS/JAVASCRIPT2.png" alt="JAVASCRIPT" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:JAVASCRIPT"> <img src="FOTOS/JAVASCRIPT.png" alt="JAVASCRIPT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:TYPESCRIPT"> <img src="FOTOS/TYPESCRIPT.png" alt="TYPECRIPT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:PHP"><img src="FOTOS/PHP.png" alt="PHP" width="50" height="50"/></a> 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:RUBY"><img src="FOTOS/RUBY.jpg" alt="RUBY" width="40" height="40"/></a>
