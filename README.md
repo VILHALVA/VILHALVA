@@ -31,10 +31,8 @@
 > 👇CLIQUE NAS FOTOS PARA EXPLORAR OS CURSOS!
 
 ## ( 01 ) TEORIA/TEORICO
-<a href="https://github.com/VILHALVA/CURSO-DE-GIT-E-GITHUB-01"><img src="FOTOS/GITHUB_01.png" alt="GITHUB 01" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-GIT-E-GITHUB-02"><img src="FOTOS/GITHUB_02.png" alt="GITHUB 02" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-LINUX-01"><img src="FOTOS/LINUX_01.png" alt="LINUX 01" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-LINUX-02"><img src="FOTOS/LINUX_02.png" alt="LINUX 02" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-GIT-E-GITHUB"><img src="FOTOS/GITHUB.png" alt="GITHUB" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-LINUX"><img src="FOTOS/LINUX.png" alt="LINUX" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-REDES-DE-COMPUTADORES"><img src="FOTOS/REDES_DE_COMPUTADORES.png" alt="REDES DE COMPUTADORES" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-HARDWARE"><img src="FOTOS/HARDWARE.png" alt="HARDWARE" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-BASES-NUMERICAS"><img src="FOTOS/BASES_BINARIAS.png" alt="BASES NUMERICAS" width="40" height="40"/></a>
@@ -47,8 +45,7 @@
 
 ## ( 02 ) LINGUAGENS/MARCADORES
 <a href="https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS"><img src="FOTOS/HTML_E_CSS.png" alt="HTML E CSS" width="40" height="40"/></a> 
-<a href="https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT"><img src="FOTOS/JAVASCRIPT.png" alt="JAVASCRIPT" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT-POO"><img src="FOTOS/JAVASCRIPT_POO.png" alt="JAVASCRIPT POO" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT"><img src="FOTOS/JAVASCRIPT2.png" alt="JAVASCRIPT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-TYPESCRIPT"><img src="FOTOS/TYPESCRIPT.png" alt="TYPECRIPT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PHP"><img src="FOTOS/PHP.png" alt="PHP" width="50" height="50"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-RUBY"><img src="FOTOS/RUBY.jpg" alt="RUBY" width="40" height="40"/></a>
@@ -58,9 +55,6 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-HANDLEBARS"><img src="FOTOS/HANDLEBARS.png" alt="HANDLEBARS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-JSON"><img src="FOTOS/JSON.png" alt="JSON" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PYTHON"><img src="FOTOS/PYTHON.png" alt="PYTHON" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-PYTHON-POO"><img src="FOTOS/PYTHON_POO.png" alt="PYTHON POO" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-LOGICA-COM-PYTHON"><img src="FOTOS/LOGICA_COM_PYTHON.jpg" alt="LOGICA COM PYTHON" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-MESTRE-DO-PYTHON"><img src="FOTOS/MESTRE_DO_PYTHON.png" alt="MESTRE DO PYTHON" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVA"><img src="FOTOS/JAVA.png" alt="JAVA" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-KOTLIN"><img src="FOTOS/KOTLIN.png" alt="KOTLIN" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-DART"><img src="FOTOS/DART.png" alt="DART" width="40" height="40"/></a>
@@ -186,7 +180,7 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:CURSE"> <img src="FOTOS/CURSE.png" alt="CURSE" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:HTML"> <img src="FOTOS/HTML.ico" alt="HTML" width="42" height="42"/></a> 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:CSS"><img src="FOTOS/CSS.png" alt="CSS" width="38" height="38"/></a> 
-<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:JAVASCRIPT"> <img src="FOTOS/JAVASCRIPT_POO.png" alt="JAVASCRIPT" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:JAVASCRIPT"> <img src="FOTOS/JAVASCRIPT2.png" alt="JAVASCRIPT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:TYPESCRIPT"> <img src="FOTOS/TYPESCRIPT.png" alt="TYPECRIPT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:PHP"><img src="FOTOS/PHP.png" alt="PHP" width="50" height="50"/></a> 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:RUBY"><img src="FOTOS/RUBY.jpg" alt="RUBY" width="40" height="40"/></a>
