@@ -44,7 +44,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-LGPD"><img src="FOTOS/LGPD.png" alt="LGPD" width="40" height="40"/></a>
 
 ## ( 02 ) LINGUAGENS/MARCADORES
-<a href="https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS"><img src="FOTOS/HTML_E_CSS.png" alt="HTML E CSS" width="40" height="40"/></a> 
+<a href="https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS"><img src="FOTOS/HTML.ico" alt="HTML E CSS" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT"><img src="FOTOS/JAVASCRIPT.png" alt="JAVASCRIPT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-TYPESCRIPT"><img src="FOTOS/TYPESCRIPT.png" alt="TYPECRIPT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PHP"><img src="FOTOS/PHP.png" alt="PHP" width="50" height="50"/></a> 

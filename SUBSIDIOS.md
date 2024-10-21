@@ -4,7 +4,7 @@
 > Nesse vídeo, que foi publicado em 01/08/2024, mostro como funciona o README.md do meu perfil no GitHub. Cada botão e imagem são links clicáveis que irão direcioná-lo para os cursos e projetos correspondentes.
 
 ## INTRODUÇÃO GERAL:
-Bem-vindo ao repositório!
+Bem-vindo ao meu GITHUB!
 
 Neste README.md, você encontrará uma visão geral abrangente dos projetos e cursos disponíveis, bem como informações adicionais para ajudá-lo a navegar e utilizar os recursos oferecidos. Abaixo, descrevo o que você pode esperar encontrar e como utilizar este documento para obter o máximo benefício.
 
@@ -45,6 +45,8 @@ Obrigado por visitar e explorar este repositório. Esperamos que você encontre 
 
 3. **SOBRE OS CÓDIGOS:** Alguns códigos podem diferir ligeiramente dos desenvolvidos com o professor em cada capítulo. Outros cursos possuem apenas um `CÓDIGO` de projeto.
 
+**4. NÃO HÁ CURSO PARA TUDO:** Não é possível criar cursos para todas as tecnologias disponíveis. Eu foco nas mais populares e com maior relevância para os meus projetos. Além disso, nem sempre os projetos estarão diretamente ligados a um curso; nesses casos, incluirei no `README` um link para a documentação oficial.
+
 ## [02) SOBRE OS PROJETOS:](https://github.com/VILHALVA?tab=repositories&q=+topic:PROJETO)
 ### 2.1) OS READMES:
 1. **ORIGEM/FONTE:** Alguns projetos foram desenvolvidos durante os [CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSE), outros com base em tutoriais do YouTube, alguns foram baixados do GitHub e modificados, e outros foram criados por mim. Para mais informações, consulte a seção de `CREDITOS` nos README.md de cada PROJETO.
@@ -75,6 +77,8 @@ Obrigado por visitar e explorar este repositório. Esperamos que você encontre 
    - **2) Conformidade com Classificações:** Para seguir os padrões que envolvem os cursos de frameworks para desenvolvimento web.
 
    - **Reitero:** Embora o React e Tkinter estejam listados como "FRAMEWORK", no meu GITHUB, na verdade, são BIBLIOTECAS. Esta prática será mantida para os futuros projetos.
+
+   - **AVISO:** Se o projeto utilizar o Framework/Biblioteca exclusivamente via [CDN](https://github.com/VILHALVA?tab=repositories&q=+topic:CDN), ele não será classificado na categoria de [FRAMEWORK](https://github.com/VILHALVA?tab=repositories&q=+topic:FRAMEWORK).
 
 4. **ESCLARECIMENTOS SOBRE OS BOTÕES DE INTERFACE:**
    - **[01) CRIAÇÃO DE SITES](https://github.com/VILHALVA?tab=repositories&q=+topic:SITE):** Nessa seção, o botão de [INTERFACE](https://github.com/VILHALVA?tab=repositories&q=topic:SITE+topic:INTERFACE) representa apenas páginas web criadas exclusivamente para interface, ou seja, design (sem funcionalidade).
