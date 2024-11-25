@@ -62,7 +62,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-RUST"><img src="FOTOS/RUST.png" alt="RUST" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PASCAL"><img src="FOTOS/PASCAL.png" alt="PASCAL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PORTUGOL"><img src="FOTOS/PORTUGOL.png" alt="PORTUGOL" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA/CURSO-DE-ASSEMBLY"><img src="FOTOS/ASSEMBLY2.png" alt="ASSEMBLY" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-ASSEMBLY"><img src="FOTOS/ASSEMBLY.png" alt="ASSEMBLY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-XML"><img src="FOTOS/XML.png" alt="XML" width="40" height="40"/></a> 
 <a href="https://github.com/VILHALVA/CURSO-DE-C"><img src="FOTOS/C.png" alt="C" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-C-PLUS-PLUS"><img src="FOTOS/C_PLUS_PLUS.png" alt="C++" width="40" height="40"/></a>
@@ -250,7 +250,7 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:RUST"><img src="FOTOS/RUST.png" alt="RUST" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:PASCAL"><img src="FOTOS/PASCAL.png" alt="PASCAL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:PORTUGOL"><img src="FOTOS/PORTUGOL.png" alt="PORTUGOL" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:ASSEMBLY"><img src="FOTOS/ASSEMBLY2.png" alt="ASSEMBLY" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:ASSEMBLY"><img src="FOTOS/ASSEMBLY.png" alt="ASSEMBLY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:XML"><img src="FOTOS/XML.png" alt="XML" width="40" height="40"/></a>
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:ANDROID-STUDIO"><img src="FOTOS/ANDROID_STUDIO.png" alt="ANDROID STUDIO" width="40" height="40"/></a>
