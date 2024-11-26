@@ -42,6 +42,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-ANUNCIOS"><img src="FOTOS/ANUNCIOS.png" alt="ANUNCIOS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-SEO"><img src="FOTOS/SEO.png" alt="SEO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LGPD"><img src="FOTOS/LGPD.png" alt="LGPD" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/OS-PROGRAMADORES"><img src="FOTOS/OS_PROGRAMADORES.png" alt="OS PROGRAMADORES" width="40" height="40"/></a>
 
 ## ( 02 ) LINGUAGENS/MARCADORES
 <a href="https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS"><img src="FOTOS/HTML.ico" alt="HTML E CSS" width="40" height="40"/></a> 
