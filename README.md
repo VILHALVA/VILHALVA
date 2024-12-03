@@ -162,8 +162,8 @@
 [![GitHub Repo stars](https://img.shields.io/badge/BUSCADOR-ffc107?style=for-the-badge&logoColor=white)](https://github.com/VILHALVA?tab=repositories&q=+topic:SEARCH)
 [![GitHub Repo stars](https://img.shields.io/badge/LOGIN-198754?style=for-the-badge&logoColor=white)](https://github.com/VILHALVA?tab=repositories&q=+topic:LOGIN)
 
-[![GitHub Repo stars](https://img.shields.io/badge/MULTIMIDIA-005C53?style=for-the-badge&logoColor=white)](https://github.com/VILHALVA?tab=repositories&q=+topic:MULTIMIDIA)
-[![GitHub Repo stars](https://img.shields.io/badge/MATEMATICA-042940?style=for-the-badge&logoColor=white)](https://github.com/VILHALVA?tab=repositories&q=+topic:MATEMATICA)
+[![GitHub Repo stars](https://img.shields.io/badge/MULTIMIDIA-1C646D?style=for-the-badge&logoColor=white)](https://github.com/VILHALVA?tab=repositories&q=+topic:MULTIMIDIA)
+[![GitHub Repo stars](https://img.shields.io/badge/MATEMATICA-1F0802?style=for-the-badge&logoColor=white)](https://github.com/VILHALVA?tab=repositories&q=+topic:MATEMATICA)
 [![GitHub Repo stars](https://img.shields.io/badge/SCIENCE-6610f5?style=for-the-badge&logoColor=white)](https://github.com/VILHALVA?tab=repositories&q=+topic:SCIENCE)
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:UPDATE"><img src="https://img.shields.io/badge/UPDATES-d81b60?style=for-the-badge&logoColor=white"></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:MINI-CURSO"><img src="https://img.shields.io/badge/MINI%20CURSOS-9c27b0?style=for-the-badge&logoColor=white"></a>
