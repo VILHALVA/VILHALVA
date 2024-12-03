@@ -87,6 +87,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-SPRING-BOOT"><img src="FOTOS/SPRING_BOOT.png" alt="SPRING BOOT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-DJANGO"><img src="FOTOS/DJANGO.png" alt="DJANGO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-FLASK"><img src="FOTOS/FLASK.png" alt="FLASK" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-FASTHTML"><img src="FOTOS/FASTHTML.png" alt="FASTHTML" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PYSCRIPT"><img src="FOTOS/PYSCRIPT.png" alt="PYSCRIPT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PANDAS"><img src="FOTOS/PANDAS.png" alt="PANDAS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-BOOTSTRAP"><img src="FOTOS/BOOTSTRAP.png" alt="BOOTSTRAP" width="40" height="40"/></a>
@@ -208,6 +209,7 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:SPRING-BOOT"><img src="FOTOS/SPRING_BOOT.png" alt="SPRING BOOT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:DJANGO"><img src="FOTOS/DJANGO.png" alt="DJANGO" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:FLASK"><img src="FOTOS/FLASK.png" alt="FLASK" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:FASTHTML"><img src="FOTOS/FASTHTML.png" alt="FASTHTML" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:PYSCRIPT"><img src="FOTOS/PYSCRIPT.png" alt="PYSCRIPT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:PANDAS"><img src="FOTOS/PANDAS.png" alt="PANDAS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:SCSS"><img src="FOTOS/SCSS.png" alt="SCSS" width="40" height="40"/></a> 
