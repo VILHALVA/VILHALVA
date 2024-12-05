@@ -95,6 +95,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-CHARTJS"><img src="FOTOS/CHARTJS.png" alt="CHARTJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-JQUERY"><img src="FOTOS/JQUERY.png" alt="JQUERY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-SWIPER"><img src="FOTOS/SWIPER.png" alt="SWIPER" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-DATATABLES"><img src="FOTOS/DATATABLES.png" alt="DATATABLES" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-JSON-SERVER"><img src="FOTOS/JSON_SERVER.png" alt="JSON SERVER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-FLUTTER"><img src="FOTOS/FLUTTER.png" alt="FLUTTER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-JAVA-SWING"><img src="FOTOS/JAVA_SWING.png" alt="JAVA SWING" width="40" height="40"/></a>
@@ -220,6 +221,7 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:CHARTJS"><img src="FOTOS/CHARTJS.png" alt="CHARTJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:JQUERY"><img src="FOTOS/JQUERY.png" alt="JQUERY" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:SWIPER"><img src="FOTOS/SWIPER.png" alt="SWIPER" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:DATATABLES"><img src="FOTOS/DATATABLES.png" alt="DATATABLES" width="40" height="40"/></a>
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:MYSQL"><img src="FOTOS/MYSQL.png" alt="MYSQL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:MARIADB"><img src="FOTOS/MARIADB.png" alt="MARIADB" width="40" height="40"/></a>
