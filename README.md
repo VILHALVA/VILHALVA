@@ -230,8 +230,9 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:MONGODB"><img src="FOTOS/MONGODB.png" alt="MONGODB" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:SQLITE"><img src="FOTOS/SQLITE.png" alt="SQLITE" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:FIREBASE"><img src="FOTOS/FIREBASE.png" alt="FIREBASE" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:CSV"><img src="FOTOS/CSV.png" alt="CSV" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:TXT"><img src="FOTOS/TXT.png" alt="TXT" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:CSV"><img src="FOTOS/CSV.png" alt="CSV" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=+topic:PDF"><img src="FOTOS/PDF.png" alt="PDF" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:PKL"><img src="FOTOS/PKL.png" alt="PKL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:JSON"><img src="FOTOS/JSON.png" alt="JSON" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:JSON-SERVER"><img src="FOTOS/JSON_SERVER.png" alt="JSON-SERVER" width="40" height="40"/></a>
