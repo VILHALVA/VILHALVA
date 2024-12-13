@@ -11,6 +11,7 @@
 <a href="https://vilhalva.github.io/STYLER/index.html"><img src="https://img.shields.io/badge/SITE%20STYLER-0000FF?style=for-the-badge&logo=google&logoColor=white"></a>
 <a href="./FREELANCER/README.md"><img src="https://img.shields.io/badge/SOU%20FREELANCER-FF0000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="./SUBSIDIOS.md"><img src="https://img.shields.io/badge/MAIS%20SUBSIDIOS-800080?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="./APOIO/README.md"><img src="https://img.shields.io/badge/NOS%20APOIE-880e4f?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 # 🌚REDES SOCIAIS:
 [![GitHub Repo stars](https://img.shields.io/badge/CANAL-VILHALVA-03A9F4?logo=telegram)](https://t.me/VILHALVA100_CANAL) 
@@ -165,7 +166,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/LOGIN-198754?style=for-the-badge&logoColor=white)](https://github.com/VILHALVA?tab=repositories&q=+topic:LOGIN)
 
 [![GitHub Repo stars](https://img.shields.io/badge/MULTIMIDIA-1C646D?style=for-the-badge&logoColor=white)](https://github.com/VILHALVA?tab=repositories&q=+topic:MULTIMIDIA)
-[![GitHub Repo stars](https://img.shields.io/badge/MATEMATICA-1F0802?style=for-the-badge&logoColor=white)](https://github.com/VILHALVA?tab=repositories&q=+topic:MATEMATICA)
+[![GitHub Repo stars](https://img.shields.io/badge/MATEMATICA-ff1744?style=for-the-badge&logoColor=white)](https://github.com/VILHALVA?tab=repositories&q=+topic:MATEMATICA)
 [![GitHub Repo stars](https://img.shields.io/badge/SCIENCE-6610f5?style=for-the-badge&logoColor=white)](https://github.com/VILHALVA?tab=repositories&q=+topic:SCIENCE)
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:UPDATE"><img src="https://img.shields.io/badge/UPDATES-d81b60?style=for-the-badge&logoColor=white"></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:MINI-CURSO"><img src="https://img.shields.io/badge/MINI%20CURSOS-9c27b0?style=for-the-badge&logoColor=white"></a>
