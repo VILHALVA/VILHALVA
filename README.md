@@ -11,7 +11,7 @@
 <a href="https://vilhalva.github.io/STYLER/index.html"><img src="https://img.shields.io/badge/SITE%20STYLER-0000FF?style=for-the-badge&logo=google&logoColor=white"></a>
 <a href="https://vilhalva.github.io/STYLER/03_HOME/FREELANCER/index.html"><img src="https://img.shields.io/badge/SOU%20FREELANCER-FF0000?style=for-the-badge&logo=google&logoColor=white"></a>
 <a href="./SUBSIDIOS.md"><img src="https://img.shields.io/badge/MAIS%20SUBSIDIOS-800080?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="./APOIO/README.md"><img src="https://img.shields.io/badge/NOS%20APOIE-880e4f?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="./APOIO/README.md"><img src="https://img.shields.io/badge/ME%20APOIE-880e4f?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 # 🌚REDES SOCIAIS:
 [![GitHub Repo stars](https://img.shields.io/badge/CONTATO-TELEGRAM-03A9F4?logo=telegram)](https://t.me/VILHALVA100)

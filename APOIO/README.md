@@ -1,4 +1,4 @@
-# NOS APOIE
+# ME APOIE
 
 😃 Gostou dos meus projetos e cursos publicados no GitHub? Que tal apoiar meu trabalho e contribuir para a criação de mais conteúdos de qualidade? Você pode enviar qualquer valor para a minha chave PIX:  
 
