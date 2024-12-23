@@ -27,6 +27,7 @@
 > 👇CLIQUE NAS FOTOS PARA EXPLORAR OS CURSOS!
 
 ## ( 01 ) TEORIA/TEORICO
+<a href="https://github.com/VILHALVA/EXCLUSIVOS"><img src="FOTOS/EXCLUSIVOS.jpg" alt="EXCLUSIVOS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-GIT-E-GITHUB"><img src="FOTOS/GITHUB.png" alt="GITHUB" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LINUX"><img src="FOTOS/LINUX.png" alt="LINUX" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-REDES-DE-COMPUTADORES"><img src="FOTOS/REDES_DE_COMPUTADORES.png" alt="REDES DE COMPUTADORES" width="40" height="40"/></a>
