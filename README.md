@@ -18,6 +18,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/CANAL-TELEGRAM-03A9F4?logo=telegram)](https://t.me/VILHALVA100_CANAL) 
 [![GitHub Repo stars](https://img.shields.io/badge/PERFIL-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
 [![GitHub Repo stars](https://img.shields.io/badge/PERFIL-FACEBOOK-03A9F4?logo=facebook)](https://facebook.com/VILHALVA100)
+[![GitHub Repo stars](https://img.shields.io/badge/PERFIL-INSTAGRAM-03A9F4?logo=instagram)](https://www.instagram.com/vilhalva100)
 [![GitHub Repo stars](https://img.shields.io/badge/PERFIL-LINKEDIN-03A9F4?logo=linkedin)](http://www.linkedin.com/in/vilhalva)
 [![GitHub Repo stars](https://img.shields.io/badge/CANAL-YOUTUBE-03A9F4?logo=youtube)](https://www.youtube.com/channel/UCmSPU_gp3NA7a8pb5Iwy3lQ)
 
