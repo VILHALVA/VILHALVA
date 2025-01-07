@@ -14,7 +14,6 @@
 <a href="./APOIO/README.md"><img src="https://img.shields.io/badge/ME%20APOIE-880e4f?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 # 🌚REDES SOCIAIS:
-[![GitHub Repo stars](https://img.shields.io/badge/CONTATO-TELEGRAM-03A9F4?logo=telegram)](https://t.me/VILHALVA100)
 [![GitHub Repo stars](https://img.shields.io/badge/CANAL-TELEGRAM-03A9F4?logo=telegram)](https://t.me/VILHALVA100_CANAL) 
 [![GitHub Repo stars](https://img.shields.io/badge/PERFIL-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
 [![GitHub Repo stars](https://img.shields.io/badge/PERFIL-FACEBOOK-03A9F4?logo=facebook)](https://facebook.com/VILHALVA100)
@@ -29,7 +28,6 @@
 > 👇CLIQUE NAS FOTOS PARA EXPLORAR OS CURSOS!
 
 ## ( 01 ) TEORIA/TEORICO
-<a href="https://github.com/VILHALVA/EXCLUSIVOS"><img src="FOTOS/EXCLUSIVOS.jpg" alt="EXCLUSIVOS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-GIT-E-GITHUB"><img src="FOTOS/GITHUB.png" alt="GITHUB" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-LINUX"><img src="FOTOS/LINUX.png" alt="LINUX" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-REDES-DE-COMPUTADORES"><img src="FOTOS/REDES_DE_COMPUTADORES.png" alt="REDES DE COMPUTADORES" width="40" height="40"/></a>
