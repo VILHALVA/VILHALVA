@@ -370,5 +370,7 @@ d75a6f56-6fb2-4693-97f6-18815faf3dca
 
 ☺️ Sua contribuição é muito importante e faz toda a diferença. Muito obrigado pelo apoio! 🙌
 
+![](https://i.imgur.com/waxVImv.png)
+
 [![MasterHead](./MIDIAS/MIDIA_2.gif)](https://github.com/VILHALVA?tab=repositories&q=+topic:PROJETO)
 
