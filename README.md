@@ -13,7 +13,7 @@
 <a href="./SUBSIDIOS.md"><img src="https://img.shields.io/badge/MAIS%20SUBSIDIOS-800080?style=for-the-badge&logo=github&logoColor=white"></a>
 
 # 🌚REDES SOCIAIS:
-[![GitHub Repo stars](https://img.shields.io/badge/CANAL-TELEGRAM-03A9F4?logo=telegram)](https://t.me/VILHALVA100_CANAL) 
+[![GitHub Repo stars](https://img.shields.io/badge/CANAL-TELEGRAM-03A9F4?logo=telegram)](https://t.me/VILHALVA100_OFICIAL) 
 [![GitHub Repo stars](https://img.shields.io/badge/PERFIL-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
 [![GitHub Repo stars](https://img.shields.io/badge/PERFIL-FACEBOOK-03A9F4?logo=facebook)](https://facebook.com/VILHALVA100)
 [![GitHub Repo stars](https://img.shields.io/badge/PERFIL-INSTAGRAM-03A9F4?logo=instagram)](https://www.instagram.com/vilhalva100)
