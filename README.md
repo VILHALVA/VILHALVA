@@ -362,10 +362,16 @@
 ![](https://i.imgur.com/waxVImv.png)
 
 # 🤑ME APOIE
-😃 Gostou dos meus projetos e cursos publicados no GitHub? Que tal apoiar meu trabalho e contribuir para a criação de mais conteúdos de qualidade? Você pode enviar qualquer valor para a minha chave PIX:   
+😃 Gostou dos meus projetos e cursos publicados no GitHub? Que tal apoiar meu trabalho e contribuir para a criação de mais conteúdos de qualidade? Você pode enviar qualquer valor 
 
+## CHAVE PIX:
 ```bash  
 d75a6f56-6fb2-4693-97f6-18815faf3dca
+``` 
+
+## CARTEIRA BITCOIN:
+```bash  
+bc1q7mnk5y79jv5vm0vnlu7zy75pdam9vape7a09ar
 ``` 
 
 ☺️ Sua contribuição é muito importante e faz toda a diferença. Muito obrigado pelo apoio! 🙌
