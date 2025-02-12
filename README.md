@@ -14,6 +14,7 @@
 
 # 🌚REDES SOCIAIS:
 [![GitHub Repo stars](https://img.shields.io/badge/CANAL-TELEGRAM-03A9F4?logo=telegram)](https://t.me/VILHALVA100_OFICIAL) 
+[![GitHub Repo stars](https://img.shields.io/badge/CANAL-WHATSAPP-03A9F4?logo=whatsapp)](https://whatsapp.com/channel/0029Vb5cdPqDp2QGG4EQxP1P)
 [![GitHub Repo stars](https://img.shields.io/badge/PERFIL-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
 [![GitHub Repo stars](https://img.shields.io/badge/PERFIL-FACEBOOK-03A9F4?logo=facebook)](https://facebook.com/VILHALVA100)
 [![GitHub Repo stars](https://img.shields.io/badge/PERFIL-INSTAGRAM-03A9F4?logo=instagram)](https://www.instagram.com/vilhalva100)
@@ -362,7 +363,7 @@
 ![](https://i.imgur.com/waxVImv.png)
 
 # 🤑ME APOIE
-😃 Gostou dos meus projetos e cursos publicados no GitHub? Que tal apoiar meu trabalho e contribuir para a criação de mais conteúdos de qualidade? Você pode enviar qualquer valor 
+😃 Gostou dos meus projetos e cursos publicados no GitHub? Que tal apoiar meu trabalho e contribuir para a criação de mais conteúdos de qualidade? Você pode enviar qualquer valor. 
 
 ## CHAVE PIX:
 ```bash  
