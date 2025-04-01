@@ -113,6 +113,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-BEEWARE"><img src="FOTOS/BEEWARE.png" alt="BEEWARE" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-WINFORMS"><img src="FOTOS/WINFORMS.png" alt="WINFORMS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-WPF"><img src="FOTOS/WPF.png" alt="WPF" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-PYAUTOGUI"><img src="FOTOS/PYAUTOGUI.png" alt="PYAUTOGUI" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-TELEBOT"><img src="FOTOS/TELEBOT.png" alt="TELEBOT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-TELEGRAF"><img src="FOTOS/TELEGRAF.png" alt="TELEGRAF" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PYROGRAM"><img src="FOTOS/PYROGRAM.png" alt="PYROGRAM" width="40" height="40"/></a>
@@ -300,6 +301,7 @@
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:TERMINAL"><img src="FOTOS/TERMINAL.png" alt="TERMINAL" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:WEBBOT"><img src="FOTOS/WEBBOT.png" alt="WEBBOT" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYAUTOGUI"><img src="FOTOS/PYAUTOGUI.png" alt="PYAUTOGUI" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:MICROSOFT-BOT-FRAMEWORK"><img src="FOTOS/MICROSOFT_BOT_FRAMEWORK.png" alt="MICROSOFT BOT FRAMEWORK" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:REACT-CHATBOT-KIT"><img src="FOTOS/REACT_CHATBOT_KIT.png" alt="REACT CHATBOT KIT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:TELEGRAM"><img src="FOTOS/TELEGRAM.png" alt="TELEGRAM" width="40" height="40"/></a>
