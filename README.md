@@ -9,7 +9,7 @@
 
 # 👶SUBSIDIOS:
 <a href="https://vilhalva.github.io/STYLER/index.html"><img src="https://img.shields.io/badge/SITE%20STYLER-0000FF?style=for-the-badge&logo=google&logoColor=white"></a>
-<a href="https://vilhalva.github.io/STYLER/03_HOME/FREELANCER/index.html"><img src="https://img.shields.io/badge/SOU%20FREELANCER-FF0000?style=for-the-badge&logo=google&logoColor=white"></a>
+<a href="https://vilhalva.github.io/STYLER/01_HOME/FREELANCER/01_HOME/index.html"><img src="https://img.shields.io/badge/SOU%20FREELANCER-FF0000?style=for-the-badge&logo=google&logoColor=white"></a>
 <a href="./SUBSIDIOS.md"><img src="https://img.shields.io/badge/MAIS%20SUBSIDIOS-800080?style=for-the-badge&logo=github&logoColor=white"></a>
 
 # 🌚REDES SOCIAIS:
