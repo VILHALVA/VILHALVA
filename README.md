@@ -13,7 +13,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/CANAL-TELEGRAM-03A9F4?logo=telegram)](https://t.me/VILHALVA100_OFICIAL) 
 [![GitHub Repo stars](https://img.shields.io/badge/PERFIL-FACEBOOK-03A9F4?logo=facebook)](https://facebook.com/VILHALVA100)
 [![GitHub Repo stars](https://img.shields.io/badge/PERFIL-INSTAGRAM-03A9F4?logo=instagram)](https://www.instagram.com/vilhalva100)
-[![GitHub Repo stars](https://img.shields.io/badge/PERFIL-LINKEDIN-03A9F4?logo=linkedin)](http://www.linkedin.com/in/vilhalva)
+[![GitHub Repo stars](https://img.shields.io/badge/PERFIL-LINKEDIN-03A9F4?logo=google)](http://www.linkedin.com/in/vilhalva)
 [![GitHub Repo stars](https://img.shields.io/badge/PERFIL-PATREON-03A9F4?logo=patreon)](https://www.patreon.com/c/VILHALVA)
 [![GitHub Repo stars](https://img.shields.io/badge/CANAL-YOUTUBE-03A9F4?logo=youtube)](https://www.youtube.com/channel/UCmSPU_gp3NA7a8pb5Iwy3lQ)
 [![GitHub Repo stars](https://img.shields.io/badge/MAIS-SUBSIDIOS-FF0000?logo=github&logoColor=white)](./SUBSIDIOS.md)
