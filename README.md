@@ -7,12 +7,9 @@
 
 [![MasterHead](./MIDIAS/MIDIA_1.gif)](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
-# 👶SUBSIDIOS:
-<a href="https://vilhalva.github.io/STYLER/index.html"><img src="https://img.shields.io/badge/SITE%20STYLER-0000FF?style=for-the-badge&logo=google&logoColor=white"></a>
-<a href="https://vilhalva.github.io/STYLER/01_HOME/FREELANCER/index.html"><img src="https://img.shields.io/badge/SOU%20FREELANCER-FF0000?style=for-the-badge&logo=google&logoColor=white"></a>
-<a href="./SUBSIDIOS.md"><img src="https://img.shields.io/badge/MAIS%20SUBSIDIOS-800080?style=for-the-badge&logo=github&logoColor=white"></a>
-
 # 🌚REDES SOCIAIS:
+[![GitHub Repo stars](https://img.shields.io/badge/SITE-STYLER-006400?logo=google&logoColor=white)](https://vilhalva.github.io/STYLER/index.html)
+[![GitHub Repo stars](https://img.shields.io/badge/SOU-FREELANCER-006400?logo=google)](https://vilhalva.github.io/STYLER/01_HOME/FREELANCER/index.html) 
 [![GitHub Repo stars](https://img.shields.io/badge/CANAL-TELEGRAM-03A9F4?logo=telegram)](https://t.me/VILHALVA100_OFICIAL) 
 [![GitHub Repo stars](https://img.shields.io/badge/PERFIL-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
 [![GitHub Repo stars](https://img.shields.io/badge/PERFIL-FACEBOOK-03A9F4?logo=facebook)](https://facebook.com/VILHALVA100)
@@ -20,6 +17,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/PERFIL-LINKEDIN-03A9F4?logo=linkedin)](http://www.linkedin.com/in/vilhalva)
 [![GitHub Repo stars](https://img.shields.io/badge/PERFIL-PATREON-03A9F4?logo=patreon)](https://www.patreon.com/c/VILHALVA)
 [![GitHub Repo stars](https://img.shields.io/badge/CANAL-YOUTUBE-03A9F4?logo=youtube)](https://www.youtube.com/channel/UCmSPU_gp3NA7a8pb5Iwy3lQ)
+[![GitHub Repo stars](https://img.shields.io/badge/MAIS-SUBSIDIOS-FF0000?logo=github&logoColor=white)](./SUBSIDIOS.md)
 
 ![](https://i.imgur.com/waxVImv.png)
 
