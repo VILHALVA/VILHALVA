@@ -7,7 +7,7 @@
 
 [![MasterHead](./MIDIAS/MIDIA_1.gif)](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
-# 🌚REDES SOCIAIS:
+# 🌚REDES SOCIAIS
 [![GitHub Repo stars](https://img.shields.io/badge/SITE-STYLER-006400?logo=google&logoColor=white)](https://vilhalva.github.io/STYLER/index.html)
 [![GitHub Repo stars](https://img.shields.io/badge/CANAL-TELEGRAM-03A9F4?logo=telegram)](https://t.me/VILHALVA100_OFICIAL) 
 [![GitHub Repo stars](https://img.shields.io/badge/PERFIL-FACEBOOK-03A9F4?logo=facebook)](https://facebook.com/VILHALVA100)
