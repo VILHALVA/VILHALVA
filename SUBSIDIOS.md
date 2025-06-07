@@ -87,7 +87,7 @@ Obrigado por visitar e explorar este repositório. Esperamos que você encontre 
 
    - **03) SE USA HTML, NÃO USA INTERFACE:** Agora, [APLICATIVOS](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:HTML) e [JOGOS](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:HTML) classificados como `HTML` não precisam ser classificados como `INTERFACE`. (Você já viu algum projeto feito com HTML que não tenha interface?).
 
-   - **04) BOTÃO DE CÓDIGO:** Nesta seção, tanto para [APLICATIVOS](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:CODIGO) quanto para [JOGOS](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:CODIGO), o botão representa projetos que não têm APK ou executável/instalador. Seja:
+   - **04) BOTÃO DE CÓDIGO:** Nesta seção, tanto para [APLICATIVOS](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:CODIGO) quanto para [JOGOS](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:CODIGO), o botão representa projetos que não têm APK ou `executável/instalador`. O **executável/instalador** só será disponibilizado caso o projeto seja considerado **realmente importante** e o arquivo resultante tenha **menos de 40MB** de tamanho. Seja:
    - [APLICATIVO PARA ANDROID](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:ANDROID)
    - [APLICATIVO PARA WINDOWS](https://github.com/VILHALVA?tab=repositories&q=topic:APLICATIVO+topic:WINDOWS)
    - [JOGO PARA ANDROID](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:ANDROID)
