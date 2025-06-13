@@ -296,7 +296,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/MODERAÇÃO-0000FF)](https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:MODERATION)
 
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:TERMINAL"><img src="FOTOS/TERMINAL.png" alt="TERMINAL" width="40" height="40"/></a>
-<a href="https://github.com/VILHALVA?tab=repositories&q=topic:BOT+topic:WEBBOT"><img src="FOTOS/WEBBOT.png" alt="WEBBOT" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=topic:WEBBOT"><img src="FOTOS/WEBBOT.png" alt="WEBBOT" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYAUTOGUI"><img src="FOTOS/PYAUTOGUI.png" alt="PYAUTOGUI" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:MICROSOFT-BOT-FRAMEWORK"><img src="FOTOS/MICROSOFT_BOT_FRAMEWORK.png" alt="MICROSOFT BOT FRAMEWORK" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=+topic:REACT-CHATBOT-KIT"><img src="FOTOS/REACT_CHATBOT_KIT.png" alt="REACT CHATBOT KIT" width="40" height="40"/></a>
