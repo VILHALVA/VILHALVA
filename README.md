@@ -317,10 +317,6 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:TWIT"><img src="FOTOS/TWIT.png" alt="TWIT" width="40" height="40"/></a>
 
 ## [( 04 ) CRIAÇÃO DE JOGOS](https://github.com/VILHALVA?tab=repositories&q=+topic:JOGO)
-[![GitHub Repo stars](https://img.shields.io/badge/PYTHON-800080)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:PYTHON)
-[![GitHub Repo stars](https://img.shields.io/badge/NODEJS-800080)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:NODEJS)
-[![GitHub Repo stars](https://img.shields.io/badge/HTML-800080)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:HTML)
-
 [![GitHub Repo stars](https://img.shields.io/badge/CODIGO-800080)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:CODIGO)
 [![GitHub Repo stars](https://img.shields.io/badge/ANDROID-800080)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:ANDROID)
 [![GitHub Repo stars](https://img.shields.io/badge/WINDOWS-800080)](https://github.com/VILHALVA?tab=repositories&q=topic:JOGO+topic:WINDOWS)
