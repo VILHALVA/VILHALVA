@@ -85,6 +85,7 @@
 <a href="https://github.com/VILHALVA/CURSO-DE-FLASK"><img src="FOTOS/FLASK.png" alt="FLASK" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-FASTHTML"><img src="FOTOS/FASTHTML.png" alt="FASTHTML" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PYSCRIPT"><img src="FOTOS/PYSCRIPT.png" alt="PYSCRIPT" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA/CURSO-DE-MATPLOTLIB"><img src="FOTOS/MATPLOTLIB.png" alt="MATPLOTLIB" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-PANDAS"><img src="FOTOS/PANDAS.png" alt="PANDAS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-BOOTSTRAP"><img src="FOTOS/BOOTSTRAP.png" alt="BOOTSTRAP" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA/CURSO-DE-MATERIALIZECSS"><img src="FOTOS/MATERIALIZECSS.png" alt="MATERIALIZECSS" width="40" height="40"/></a>
@@ -270,6 +271,7 @@
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:REACT-NATIVE"><img src="FOTOS/REACT_NATIVE.png" alt="REACT NATIVE" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:ELECTRONJS"><img src="FOTOS/ELECTRONJS.png" alt="ELECTRONJS" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:TAURI"><img src="FOTOS/TAURI.png" alt="TAURI" width="40" height="40"/></a>
+<a href="https://github.com/VILHALVA?tab=repositories&q=topic:MATPLOTLIB"><img src="FOTOS/MATPLOTLIB.png" alt="MATPLOTLIB" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:TKINTER"><img src="FOTOS/TKINTER.png" alt="TKINTER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:CUSTOMTKINTER"><img src="FOTOS/CUSTOMTKINTER.png" alt="CUSTOMTKINTER" width="40" height="40"/></a>
 <a href="https://github.com/VILHALVA?tab=repositories&q=topic:PYQT"><img src="FOTOS/PYQT.png" alt="PYQT" width="40" height="40"/></a>
